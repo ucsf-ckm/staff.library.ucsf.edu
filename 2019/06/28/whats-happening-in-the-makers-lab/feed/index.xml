@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: What’s Happening in the Makers Lab	</title>
+	<atom:link href="/2019/06/28/whats-happening-in-the-makers-lab/feed/" rel="self" type="application/rss+xml" />
+	<link>/2019/06/28/whats-happening-in-the-makers-lab/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Fri, 28 Jun 2019 20:39:14 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Kemi Amin		</title>
+		<link>/2019/06/28/whats-happening-in-the-makers-lab/#comment-869</link>
+
+		<dc:creator><![CDATA[Kemi Amin]]></dc:creator>
+		<pubDate>Fri, 28 Jun 2019 20:39:14 +0000</pubDate>
+		<guid isPermaLink="false">/?p=4924#comment-869</guid>
+
+					<description><![CDATA[Just to echo Dylan&#039;s mention of Library staff participation – this is your space too! If you have any ideas about collaboration your team or what you would like to see from the Makers Lab, reach out to Dylan.]]></description>
+			<content:encoded><![CDATA[<p>Just to echo Dylan&#8217;s mention of Library staff participation – this is your space too! If you have any ideas about collaboration your team or what you would like to see from the Makers Lab, reach out to Dylan.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

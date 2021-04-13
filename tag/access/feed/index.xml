@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>access &#8211; Off the Shelf</title>
+	<atom:link href="/tag/access/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Fri, 09 Oct 2015 21:05:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>access &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>SPOT Award : Alan Daniel</title>
+		<link>/2015/10/09/spot-award-alan-daniel/</link>
+					<comments>/2015/10/09/spot-award-alan-daniel/#comments</comments>
+		
+		<dc:creator><![CDATA[Susan Boone]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2015 20:52:15 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<category><![CDATA[access]]></category>
+		<category><![CDATA[Alan Daniel]]></category>
+		<category><![CDATA[Collection Management]]></category>
+		<category><![CDATA[spot awards]]></category>
+		<guid isPermaLink="false">/2015/10/09/spot-award-alan-daniel/</guid>
+
+					<description><![CDATA[Managing user access is a multi-faceted set of tasks. Authenticating remote access has several twists to it. Recently, the Medical Center asked the Library to handle setting up the authentication for their access to UpToDate, a very popular and heavily used resource. The content provider gave a deadline of October ... <p class="read-more-container"><a title="SPOT Award : Alan Daniel" class="read-more button" href="/2015/10/09/spot-award-alan-daniel/#more-1830">Read more<span class="screen-reader-text">SPOT Award : Alan Daniel</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2015/10/09/spot-award-alan-daniel/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Publishing &#038; Open Access</title>
+		<link>/2014/05/06/publishing-open-access/</link>
+					<comments>/2014/05/06/publishing-open-access/#comments</comments>
+		
+		<dc:creator><![CDATA[Anneliese Taylor]]></dc:creator>
+		<pubDate>Tue, 06 May 2014 21:46:41 +0000</pubDate>
+				<category><![CDATA[user experience]]></category>
+		<category><![CDATA[access]]></category>
+		<category><![CDATA[open access]]></category>
+		<category><![CDATA[publishing]]></category>
+		<category><![CDATA[userfocus]]></category>
+		<guid isPermaLink="false">/?p=961</guid>
+
+					<description><![CDATA[Based on feedback from users, the section on the Library web formerly called &#8220;Scholarly Publishing&#8221; is now &#8220;Publishing and Open Access.&#8221; The new menu item should resonate more with our users and will also help them find these pages when they start with Quicksearch. Another change you&#8217;ll notice in this area ... <p class="read-more-container"><a title="Publishing &#38; Open Access" class="read-more button" href="/2014/05/06/publishing-open-access/#more-961">Read more<span class="screen-reader-text">Publishing &#38; Open Access</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2014/05/06/publishing-open-access/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>patients &#8211; Off the Shelf</title>
+	<atom:link href="/category/patients/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Wed, 13 Feb 2019 17:38:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>patients &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Patients Page and Experts Update</title>
+		<link>/2019/02/13/patients-page-and-experts-update/</link>
+					<comments>/2019/02/13/patients-page-and-experts-update/#comments</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Wed, 13 Feb 2019 17:38:02 +0000</pubDate>
+				<category><![CDATA[patients]]></category>
+		<category><![CDATA[service design]]></category>
+		<category><![CDATA[user experience]]></category>
+		<guid isPermaLink="false">/?p=4634</guid>
+
+					<description><![CDATA[The UCSF Library has just added a web page and services specifically aimed at patients. This support is provided through a partnership between the Fishbon Library and the UCSF Library and is staffed by Whit and Ari. This new patients page represents another specific area of expertise offered by the ... <p class="read-more-container"><a title="Patients Page and Experts Update" class="read-more button" href="/2019/02/13/patients-page-and-experts-update/#more-4634">Read more<span class="screen-reader-text">Patients Page and Experts Update</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2019/02/13/patients-page-and-experts-update/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

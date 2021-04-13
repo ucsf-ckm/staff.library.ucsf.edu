@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>event invites &#8211; Off the Shelf</title>
+	<atom:link href="/tag/event-invites/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Tue, 26 Feb 2013 19:16:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>event invites &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Art Show @ Wix Lounge</title>
+		<link>/2013/02/26/art-show-wix-lounge/</link>
+					<comments>/2013/02/26/art-show-wix-lounge/#comments</comments>
+		
+		<dc:creator><![CDATA[Sean Mcclelland]]></dc:creator>
+		<pubDate>Tue, 26 Feb 2013 18:43:02 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<category><![CDATA[event invites]]></category>
+		<guid isPermaLink="false">/2013/02/26/art-show-wix-lounge/</guid>
+
+					<description><![CDATA[Got plans on Friday night? Come join me at the Wix Lounge, where I&#8217;ll be showing prints from my latest photography collection, titled &#8220;Light in Dark Places.&#8221; This is a group art show that includes two other artists, an awesome patio to relax on, free entry, and free drinks! Here ... <p class="read-more-container"><a title="Art Show @ Wix Lounge" class="read-more button" href="/2013/02/26/art-show-wix-lounge/#more-499">Read more<span class="screen-reader-text">Art Show @ Wix Lounge</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2013/02/26/art-show-wix-lounge/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

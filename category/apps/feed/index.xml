@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>apps &#8211; Off the Shelf</title>
+	<atom:link href="/category/apps/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Mon, 30 Mar 2020 19:20:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>apps &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Video Conferencing Options in Slack</title>
+		<link>/2020/03/26/videoconferencing-options-in-slack/</link>
+					<comments>/2020/03/26/videoconferencing-options-in-slack/#respond</comments>
+		
+		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
+		<pubDate>Thu, 26 Mar 2020 13:00:50 +0000</pubDate>
+				<category><![CDATA[apps]]></category>
+		<category><![CDATA[staff general]]></category>
+		<guid isPermaLink="false">/?p=5554</guid>
+
+					<description><![CDATA[I received a request for Zoom integration in Slack. I thought it might be worthwhile to put the answer here. It would be great to install Zoom for Slack in a way that it is available to all users in the Library Slack. Unfortunately, this requires someone with Zoom administrative ... <p class="read-more-container"><a title="Video Conferencing Options in Slack" class="read-more button" href="/2020/03/26/videoconferencing-options-in-slack/#more-5554">Read more<span class="screen-reader-text">Video Conferencing Options in Slack</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2020/03/26/videoconferencing-options-in-slack/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Top 10 for Slackers</title>
+		<link>/2016/07/25/top-10-slackers/</link>
+					<comments>/2016/07/25/top-10-slackers/#comments</comments>
+		
+		<dc:creator><![CDATA[Sean Mcclelland]]></dc:creator>
+		<pubDate>Mon, 25 Jul 2016 16:00:40 +0000</pubDate>
+				<category><![CDATA[apps]]></category>
+		<category><![CDATA[communications]]></category>
+		<category><![CDATA[guides]]></category>
+		<category><![CDATA[productivity]]></category>
+		<category><![CDATA[tips and tricks]]></category>
+		<guid isPermaLink="false">/?p=2419</guid>
+
+					<description><![CDATA[Hello everyone! The Slack messaging and collaboration application is gaining momentum. The CKM introduced Slack to the Library in the Fall, and since then membership has grow to over 40 Library users, most of whom are actively engaged and posting to their respective teams and channels. Some users are now ... <p class="read-more-container"><a title="Top 10 for Slackers" class="read-more button" href="/2016/07/25/top-10-slackers/#more-2419">Read more<span class="screen-reader-text">Top 10 for Slackers</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2016/07/25/top-10-slackers/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>UCSF Library Slack</title>
+		<link>/2016/07/05/ucsf-library-slack/</link>
+					<comments>/2016/07/05/ucsf-library-slack/#comments</comments>
+		
+		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
+		<pubDate>Tue, 05 Jul 2016 19:48:57 +0000</pubDate>
+				<category><![CDATA[apps]]></category>
+		<category><![CDATA[informational]]></category>
+		<category><![CDATA[staff]]></category>
+		<guid isPermaLink="false">/?p=2331</guid>
+
+					<description><![CDATA[If you haven&#8217;t tried out (or heard about!) the UCSF Library Slack, here&#8217;s a short list of features. If you have not yet joined the UCSF Library Slack, try it now! Synchronous communication with everyone in the Library! Want to know if MyAccess is down for everyone or just you? ... <p class="read-more-container"><a title="UCSF Library Slack" class="read-more button" href="/2016/07/05/ucsf-library-slack/#more-2331">Read more<span class="screen-reader-text">UCSF Library Slack</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2016/07/05/ucsf-library-slack/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>App Santa</title>
+		<link>/2013/12/20/app-santa/</link>
+					<comments>/2013/12/20/app-santa/#respond</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Fri, 20 Dec 2013 20:18:32 +0000</pubDate>
+				<category><![CDATA[apps]]></category>
+		<category><![CDATA[mobile]]></category>
+		<guid isPermaLink="false">/?p=836</guid>
+
+					<description><![CDATA[If you have a few dollars burning a hole in your pocket, you might want to try one of these popular iOS apps while they&#8217;re on sale. See Mobilized for details: http://blogs.library.ucsf.edu/mobilized/2013/12/20/app-santa-is-coming-to-town/]]></description>
+		
+					<wfw:commentRss>/2013/12/20/app-santa/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

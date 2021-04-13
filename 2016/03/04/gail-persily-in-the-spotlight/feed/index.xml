@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Gail Persily in the Spotlight	</title>
+	<atom:link href="/2016/03/04/gail-persily-in-the-spotlight/feed/" rel="self" type="application/rss+xml" />
+	<link>/2016/03/04/gail-persily-in-the-spotlight/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Wed, 16 Mar 2016 18:43:59 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Anneliese Taylor		</title>
+		<link>/2016/03/04/gail-persily-in-the-spotlight/#comment-543</link>
+
+		<dc:creator><![CDATA[Anneliese Taylor]]></dc:creator>
+		<pubDate>Wed, 16 Mar 2016 18:43:59 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2084#comment-543</guid>
+
+					<description><![CDATA[Yay Gail!]]></description>
+			<content:encoded><![CDATA[<p>Yay Gail!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Jim Munson		</title>
+		<link>/2016/03/04/gail-persily-in-the-spotlight/#comment-537</link>
+
+		<dc:creator><![CDATA[Jim Munson]]></dc:creator>
+		<pubDate>Fri, 04 Mar 2016 22:29:30 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2084#comment-537</guid>
+
+					<description><![CDATA[This is so cool! Thanks for posting, Julia.]]></description>
+			<content:encoded><![CDATA[<p>This is so cool! Thanks for posting, Julia.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

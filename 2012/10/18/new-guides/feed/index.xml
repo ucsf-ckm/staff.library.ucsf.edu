@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: New Guides	</title>
+	<atom:link href="/2012/10/18/new-guides/feed/" rel="self" type="application/rss+xml" />
+	<link>/2012/10/18/new-guides/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Fri, 15 Mar 2013 18:31:59 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Susan Boone		</title>
+		<link>/2012/10/18/new-guides/#comment-96</link>
+
+		<dc:creator><![CDATA[Susan Boone]]></dc:creator>
+		<pubDate>Wed, 23 Jan 2013 23:55:42 +0000</pubDate>
+		<guid isPermaLink="false">/2012/10/18/new-guides/#comment-96</guid>
+
+					<description><![CDATA[The ebooks LibGuide now follows the Library&#039;s preferred spelling &quot;ebook&quot; (non-hyphenated).
+The new URL is
+http://guides.library.ucsf.edu/ebooks]]></description>
+			<content:encoded><![CDATA[<p>The ebooks LibGuide now follows the Library&#8217;s preferred spelling &#8220;ebook&#8221; (non-hyphenated).<br />
+The new URL is<br />
+<a href="http://guides.library.ucsf.edu/ebooks" rel="nofollow ugc">http://guides.library.ucsf.edu/ebooks</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

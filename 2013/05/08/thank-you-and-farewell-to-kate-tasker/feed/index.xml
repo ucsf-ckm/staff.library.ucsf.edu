@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Thank you and farewell to Kate Tasker!	</title>
+	<atom:link href="/2013/05/08/thank-you-and-farewell-to-kate-tasker/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/05/08/thank-you-and-farewell-to-kate-tasker/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Fri, 10 May 2013 00:22:36 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Anneliese Taylor		</title>
+		<link>/2013/05/08/thank-you-and-farewell-to-kate-tasker/#comment-136</link>
+
+		<dc:creator><![CDATA[Anneliese Taylor]]></dc:creator>
+		<pubDate>Fri, 10 May 2013 00:22:36 +0000</pubDate>
+		<guid isPermaLink="false">/?p=594#comment-136</guid>
+
+					<description><![CDATA[It&#039;s been great having you here, Kate. Good luck in your new position!]]></description>
+			<content:encoded><![CDATA[<p>It&#8217;s been great having you here, Kate. Good luck in your new position!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Margaret Hughes		</title>
+		<link>/2013/05/08/thank-you-and-farewell-to-kate-tasker/#comment-132</link>
+
+		<dc:creator><![CDATA[Margaret Hughes]]></dc:creator>
+		<pubDate>Wed, 08 May 2013 17:56:41 +0000</pubDate>
+		<guid isPermaLink="false">/?p=594#comment-132</guid>
+
+					<description><![CDATA[Woooo! Great job, Kate!]]></description>
+			<content:encoded><![CDATA[<p>Woooo! Great job, Kate!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

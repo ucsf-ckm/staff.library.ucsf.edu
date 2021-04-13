@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>parnassus &#8211; Off the Shelf</title>
+	<atom:link href="/tag/parnassus/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Thu, 30 Aug 2012 00:19:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>parnassus &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Laudable Customer Service: Marc Lowe</title>
+		<link>/2012/08/29/laudable-customer-service-marc-lowe/</link>
+					<comments>/2012/08/29/laudable-customer-service-marc-lowe/#comments</comments>
+		
+		<dc:creator><![CDATA[Kirk Hudson]]></dc:creator>
+		<pubDate>Thu, 30 Aug 2012 00:18:43 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<category><![CDATA[informational]]></category>
+		<category><![CDATA[parnassus]]></category>
+		<category><![CDATA[productivity]]></category>
+		<category><![CDATA[staff]]></category>
+		<category><![CDATA[tech support]]></category>
+		<guid isPermaLink="false">/?p=344</guid>
+
+					<description><![CDATA[Congratulations and thanks to Marc Lowe for providing excellent customer service. A clinical resident requested help connecting to the UCSFwpa secure wireless network. In the process of setting up access to wireless, Marc explained how the resident could efficiently use VPN to download articles remotely. &#8220;&#8230; he (Marc) did a ... <p class="read-more-container"><a title="Laudable Customer Service: Marc Lowe" class="read-more button" href="/2012/08/29/laudable-customer-service-marc-lowe/#more-344">Read more<span class="screen-reader-text">Laudable Customer Service: Marc Lowe</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2012/08/29/laudable-customer-service-marc-lowe/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Parnassus Library &#8211; Extended Hours for Spring 2012 Finals</title>
+		<link>/2012/05/18/parnassus-library-extended-hours-for-spring-2012-finals/</link>
+					<comments>/2012/05/18/parnassus-library-extended-hours-for-spring-2012-finals/#respond</comments>
+		
+		<dc:creator><![CDATA[Andres Panado]]></dc:creator>
+		<pubDate>Fri, 18 May 2012 21:12:55 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<category><![CDATA[hours]]></category>
+		<category><![CDATA[parnassus]]></category>
+		<guid isPermaLink="false">/2012/05/18/parnassus-library-extended-hours-for-spring-2012-finals/</guid>
+
+					<description><![CDATA[Starting Wednesday, May 30th, the Parnassus Library will observe the following extended hours to assist students with studying for their final exams. Wednesday, May 30th to Thursday, May 31st: 7:45 am to 12 midnight Sunday, June 3rd: 12:00 noon to 12 midnight Monday, June 4th to Thursday, June 7th: 7:45 ... <p class="read-more-container"><a title="Parnassus Library &#8211; Extended Hours for Spring 2012 Finals" class="read-more button" href="/2012/05/18/parnassus-library-extended-hours-for-spring-2012-finals/#more-198">Read more<span class="screen-reader-text">Parnassus Library &#8211; Extended Hours for Spring 2012 Finals</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2012/05/18/parnassus-library-extended-hours-for-spring-2012-finals/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

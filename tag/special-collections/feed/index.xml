@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>special collections &#8211; Off the Shelf</title>
+	<atom:link href="/tag/special-collections/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Tue, 06 Oct 2015 23:37:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>special collections &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Spot Award: Susan Boone</title>
+		<link>/2015/10/06/spot-award-susan-boone/</link>
+					<comments>/2015/10/06/spot-award-susan-boone/#comments</comments>
+		
+		<dc:creator><![CDATA[Anneliese Taylor]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2015 23:37:20 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<category><![CDATA[archives]]></category>
+		<category><![CDATA[NRLF]]></category>
+		<category><![CDATA[special collections]]></category>
+		<category><![CDATA[spot awards]]></category>
+		<category><![CDATA[technical services]]></category>
+		<guid isPermaLink="false">/?p=1819</guid>
+
+					<description><![CDATA[Congratulations to Susan Boone for receiving a spot award for her &#8220;outstanding work reviewing and updating pick lists for the NEH State Medical Journals digitization project&#8221;! Polina Ilieva nominated Susan for the award, based on Susan&#8217;s rapid turnaround last month of a list of journals held by UCSF at the ... <p class="read-more-container"><a title="Spot Award: Susan Boone" class="read-more button" href="/2015/10/06/spot-award-susan-boone/#more-1819">Read more<span class="screen-reader-text">Spot Award: Susan Boone</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2015/10/06/spot-award-susan-boone/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

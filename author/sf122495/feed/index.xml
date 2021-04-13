@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Tab McDaniel &#8211; Off the Shelf</title>
+	<atom:link href="/author/sf122495/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Fri, 01 Dec 2017 16:05:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Tab McDaniel &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Making it Easy to Find the Right Library Space</title>
+		<link>/2017/12/01/library-spaces/</link>
+					<comments>/2017/12/01/library-spaces/#comments</comments>
+		
+		<dc:creator><![CDATA[Tab McDaniel]]></dc:creator>
+		<pubDate>Fri, 01 Dec 2017 17:30:21 +0000</pubDate>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">/?p=3756</guid>
+
+					<description><![CDATA[The web team is excited to share our new library spaces page, scheduled to launch next Friday, December 8th. The new design brings our find a study space and find a computer lab information together, rather than repeating information across two different pages as we do now. This update makes it easier ... <p class="read-more-container"><a title="Making it Easy to Find the Right Library Space" class="read-more button" href="/2017/12/01/library-spaces/#more-3756">Read more<span class="screen-reader-text">Making it Easy to Find the Right Library Space</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2017/12/01/library-spaces/feed/</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Summon Beta Launched, Staff Feedback Breakdown</title>
+		<link>/2017/09/20/summon-beta-launched/</link>
+					<comments>/2017/09/20/summon-beta-launched/#respond</comments>
+		
+		<dc:creator><![CDATA[Tab McDaniel]]></dc:creator>
+		<pubDate>Wed, 20 Sep 2017 17:31:30 +0000</pubDate>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[search]]></category>
+		<category><![CDATA[user research]]></category>
+		<guid isPermaLink="false">/?p=3566</guid>
+
+					<description><![CDATA[Today we&#8217;re going live with our Summon Beta Our home page has been updated with a prominent call-to-action, inviting site visitors to explore our beta home page with global search, and complete a short survey. Library Staff Survey Results Collections and the Web Team couldn&#8217;t have gotten this far without ... <p class="read-more-container"><a title="Summon Beta Launched, Staff Feedback Breakdown" class="read-more button" href="/2017/09/20/summon-beta-launched/#more-3566">Read more<span class="screen-reader-text">Summon Beta Launched, Staff Feedback Breakdown</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2017/09/20/summon-beta-launched/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Melvyl Now Works with EZproxy</title>
+		<link>/2017/06/12/melvyl-works-with-ezproxy/</link>
+					<comments>/2017/06/12/melvyl-works-with-ezproxy/#comments</comments>
+		
+		<dc:creator><![CDATA[Tab McDaniel]]></dc:creator>
+		<pubDate>Mon, 12 Jun 2017 20:56:23 +0000</pubDate>
+				<category><![CDATA[authentication]]></category>
+		<category><![CDATA[eresources]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">/?p=3108</guid>
+
+					<description><![CDATA[We partnered with CDL to fix a long-standing usability issue with with Melvyl. An off-network visitor might be prompted to sign in to UCSF Library before viewing search results. Unfortunately, following this prompt sent the user to our full text information page, instead of giving them an easy way to log in and ... <p class="read-more-container"><a title="Melvyl Now Works with EZproxy" class="read-more button" href="/2017/06/12/melvyl-works-with-ezproxy/#more-3108">Read more<span class="screen-reader-text">Melvyl Now Works with EZproxy</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2017/06/12/melvyl-works-with-ezproxy/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Website Updates: Library Site Header &#038; Footer</title>
+		<link>/2017/05/16/website-updates-library-site-header-footer/</link>
+					<comments>/2017/05/16/website-updates-library-site-header-footer/#respond</comments>
+		
+		<dc:creator><![CDATA[Tab McDaniel]]></dc:creator>
+		<pubDate>Tue, 16 May 2017 21:30:04 +0000</pubDate>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[responsive]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[user research]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">/?p=3006</guid>
+
+					<description><![CDATA[As most of you know, the Web Team is using an iterative approach to the Library site redesign: we launched a pretty good version of the site, and make incremental improvements as we learn more about what is/is not working for our users. With that in mind, we will introduce changes to ... <p class="read-more-container"><a title="Website Updates: Library Site Header &#038; Footer" class="read-more button" href="/2017/05/16/website-updates-library-site-header-footer/#more-3006">Read more<span class="screen-reader-text">Website Updates: Library Site Header &#038; Footer</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2017/05/16/website-updates-library-site-header-footer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CDL Request for Feedback: Changes to UC-eLinks</title>
+		<link>/2017/04/07/cdl-request-for-feedback-changes-to-uc-elinks/</link>
+					<comments>/2017/04/07/cdl-request-for-feedback-changes-to-uc-elinks/#respond</comments>
+		
+		<dc:creator><![CDATA[Tab McDaniel]]></dc:creator>
+		<pubDate>Fri, 07 Apr 2017 23:36:37 +0000</pubDate>
+				<category><![CDATA[search]]></category>
+		<category><![CDATA[user experience]]></category>
+		<guid isPermaLink="false">/?p=2936</guid>
+
+					<description><![CDATA[Some of you guys have already received announcements from CDL about the introduction of their new UC-eLinks sidebar panel, which will replace the current design of a UC-eLinks frame sitting on top of an article. The change is scheduled to go live to all UC campuses on April 17, 2017. The Web ... <p class="read-more-container"><a title="CDL Request for Feedback: Changes to UC-eLinks" class="read-more button" href="/2017/04/07/cdl-request-for-feedback-changes-to-uc-elinks/#more-2936">Read more<span class="screen-reader-text">CDL Request for Feedback: Changes to UC-eLinks</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2017/04/07/cdl-request-for-feedback-changes-to-uc-elinks/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Website Updates: Searching, Profiling, Making, Reserving</title>
+		<link>/2017/03/20/website-updates-searching-profiling-making-reserving/</link>
+					<comments>/2017/03/20/website-updates-searching-profiling-making-reserving/#comments</comments>
+		
+		<dc:creator><![CDATA[Tab McDaniel]]></dc:creator>
+		<pubDate>Mon, 20 Mar 2017 18:11:43 +0000</pubDate>
+				<category><![CDATA[search]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">/?p=2855</guid>
+
+					<description><![CDATA[So much happening on the Library website! Let&#8217;s dive in, shall we? New Page: Makers Lab The web team worked closely with Dylan and Kemi to give the Makers Lab more of a presence on the site. We&#8217;re very happy with the new Makers Lab page, and will continue updating it ... <p class="read-more-container"><a title="Website Updates: Searching, Profiling, Making, Reserving" class="read-more button" href="/2017/03/20/website-updates-searching-profiling-making-reserving/#more-2855">Read more<span class="screen-reader-text">Website Updates: Searching, Profiling, Making, Reserving</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2017/03/20/website-updates-searching-profiling-making-reserving/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Website Update: Staff Directory &#038; Profile Pages</title>
+		<link>/2017/02/13/website-update-staff-directory-profile-pages/</link>
+					<comments>/2017/02/13/website-update-staff-directory-profile-pages/#respond</comments>
+		
+		<dc:creator><![CDATA[Tab McDaniel]]></dc:creator>
+		<pubDate>Mon, 13 Feb 2017 20:02:48 +0000</pubDate>
+				<category><![CDATA[user research]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">/?p=2749</guid>
+
+					<description><![CDATA[The web team has published an improved Staff Directory. The updated directory table can now be sorted and filtered, and fixes a problem with how information from this page displays in search results. We&#8217;ll bring this improved table format to the Study Spaces and Computer Labs pages as well. Alongside the improved directory, we&#8217;re ready to roll ... <p class="read-more-container"><a title="Website Update: Staff Directory &#038; Profile Pages" class="read-more button" href="/2017/02/13/website-update-staff-directory-profile-pages/#more-2749">Read more<span class="screen-reader-text">Website Update: Staff Directory &#038; Profile Pages</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2017/02/13/website-update-staff-directory-profile-pages/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Library Website Redesign &#8211; We&#8217;d Love Your Feedback</title>
+		<link>/2016/11/07/beta-site-feedback-needed/</link>
+					<comments>/2016/11/07/beta-site-feedback-needed/#respond</comments>
+		
+		<dc:creator><![CDATA[Tab McDaniel]]></dc:creator>
+		<pubDate>Mon, 07 Nov 2016 22:45:53 +0000</pubDate>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">/?p=2605</guid>
+
+					<description><![CDATA[Michele and I are pleased to share the beta version of our redesigned Library website. With a few exceptions (listed below), everything from the current site has been recreated on beta. We’ve streamlined content where it made sense, and made the most sought-after information easier to find. Still to be done: Forms Individual staff profiles ... <p class="read-more-container"><a title="Library Website Redesign &#8211; We&#8217;d Love Your Feedback" class="read-more button" href="/2016/11/07/beta-site-feedback-needed/#more-2605">Read more<span class="screen-reader-text">Library Website Redesign &#8211; We&#8217;d Love Your Feedback</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2016/11/07/beta-site-feedback-needed/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Help Test our Search Prototype</title>
+		<link>/2016/08/15/help-test-our-search-prototype/</link>
+					<comments>/2016/08/15/help-test-our-search-prototype/#respond</comments>
+		
+		<dc:creator><![CDATA[Tab McDaniel]]></dc:creator>
+		<pubDate>Mon, 15 Aug 2016 17:00:52 +0000</pubDate>
+				<category><![CDATA[search]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">/?p=2486</guid>
+
+					<description><![CDATA[Michele announced the launch of our working search prototype in the #website Slack channel last week: Hi everyone! You&#8217;ve seen the prototype, but now we&#8217;d like to share the actual functioning search. This is an interim solution that will be used until we pilot the Summon search solution, but it should ... <p class="read-more-container"><a title="Help Test our Search Prototype" class="read-more button" href="/2016/08/15/help-test-our-search-prototype/#more-2486">Read more<span class="screen-reader-text">Help Test our Search Prototype</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2016/08/15/help-test-our-search-prototype/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Website Redesign: Getting a Handle on Our Information Architecture</title>
+		<link>/2016/07/07/website-redesign-getting-a-handle-on-our-information-architecture/</link>
+					<comments>/2016/07/07/website-redesign-getting-a-handle-on-our-information-architecture/#comments</comments>
+		
+		<dc:creator><![CDATA[Tab McDaniel]]></dc:creator>
+		<pubDate>Thu, 07 Jul 2016 22:21:07 +0000</pubDate>
+				<category><![CDATA[user experience]]></category>
+		<category><![CDATA[user research]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">/?p=2346</guid>
+
+					<description><![CDATA[We&#8217;ve already posted a few times about evaluating and refining our content for maximum scannability (on the web, scanning is the new reading). Today I want to share how the web team is working to better organize and structure our content for maximum findability. In other words, we need to get a grip on our information architecture (IA). Information ... <p class="read-more-container"><a title="Website Redesign: Getting a Handle on Our Information Architecture" class="read-more button" href="/2016/07/07/website-redesign-getting-a-handle-on-our-information-architecture/#more-2346">Read more<span class="screen-reader-text">Website Redesign: Getting a Handle on Our Information Architecture</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2016/07/07/website-redesign-getting-a-handle-on-our-information-architecture/feed/</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

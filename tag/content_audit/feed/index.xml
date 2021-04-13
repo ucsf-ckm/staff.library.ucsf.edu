@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>content_audit &#8211; Off the Shelf</title>
+	<atom:link href="/tag/content_audit/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Tue, 05 Jul 2016 17:35:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>content_audit &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Content Audit Results</title>
+		<link>/2016/05/23/content-audit-results/</link>
+					<comments>/2016/05/23/content-audit-results/#comments</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Mon, 23 May 2016 19:28:25 +0000</pubDate>
+				<category><![CDATA[user experience]]></category>
+		<category><![CDATA[writing for the web]]></category>
+		<category><![CDATA[content_audit]]></category>
+		<guid isPermaLink="false">/?p=2160</guid>
+
+					<description><![CDATA[Back in February, the Web Projects Team put out a call for volunteers to help with a content audit of every page of library.ucsf.edu. There was a great response, and using methods outlined at LibUX, the group did a comprehensive inventory and objective evaluation that will be instrumental to guiding improvements over the next ... <p class="read-more-container"><a title="Content Audit Results" class="read-more button" href="/2016/05/23/content-audit-results/#more-2160">Read more<span class="screen-reader-text">Content Audit Results</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2016/05/23/content-audit-results/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

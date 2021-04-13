@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Improved Hours Display	</title>
+	<atom:link href="/2017/04/07/improved-hours-display/feed/" rel="self" type="application/rss+xml" />
+	<link>/2017/04/07/improved-hours-display/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Tue, 18 Apr 2017 16:51:48 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Stephen Kiyoi		</title>
+		<link>/2017/04/07/improved-hours-display/#comment-657</link>
+
+		<dc:creator><![CDATA[Stephen Kiyoi]]></dc:creator>
+		<pubDate>Tue, 18 Apr 2017 16:51:48 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2901#comment-657</guid>
+
+					<description><![CDATA[Can we list ZSFG Hours there too?]]></description>
+			<content:encoded><![CDATA[<p>Can we list ZSFG Hours there too?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Andres Panado		</title>
+		<link>/2017/04/07/improved-hours-display/#comment-656</link>
+
+		<dc:creator><![CDATA[Andres Panado]]></dc:creator>
+		<pubDate>Fri, 07 Apr 2017 20:52:55 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2901#comment-656</guid>
+
+					<description><![CDATA[definitely a lot more user-friendly.  thanks!]]></description>
+			<content:encoded><![CDATA[<p>definitely a lot more user-friendly.  thanks!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Mary Tahir		</title>
+		<link>/2017/04/07/improved-hours-display/#comment-655</link>
+
+		<dc:creator><![CDATA[Mary Tahir]]></dc:creator>
+		<pubDate>Fri, 07 Apr 2017 18:02:06 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2901#comment-655</guid>
+
+					<description><![CDATA[I really like these changes! Much easier to read, and it makes sense separating locations]]></description>
+			<content:encoded><![CDATA[<p>I really like these changes! Much easier to read, and it makes sense separating locations</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

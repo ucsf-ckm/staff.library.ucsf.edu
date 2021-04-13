@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Off the Shelf</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Thu, 18 Mar 2021 18:08:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>ZSFG expert page transformation</title>
+		<link>/2021/03/18/zsfg-expert-page-transformation/</link>
+					<comments>/2021/03/18/zsfg-expert-page-transformation/#respond</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Thu, 18 Mar 2021 16:54:20 +0000</pubDate>
+				<category><![CDATA[service design]]></category>
+		<category><![CDATA[user experience]]></category>
+		<guid isPermaLink="false">/?p=5935</guid>
+
+					<description><![CDATA[There’s another update to the&#160;ongoing project&#160;to emphasize human-centered service provided by the library. The ZSFG Library page is no longer just a location page — it now highlights the full breadth of services users can expect. ZSFG Library has always been more challenging to represent and promote, because it serves ... <p class="read-more-container"><a title="ZSFG expert page transformation" class="read-more button" href="/2021/03/18/zsfg-expert-page-transformation/#more-5935">Read more<span class="screen-reader-text">ZSFG expert page transformation</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2021/03/18/zsfg-expert-page-transformation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Video orientation</title>
+		<link>/2021/01/26/video-orientation/</link>
+					<comments>/2021/01/26/video-orientation/#respond</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Tue, 26 Jan 2021 17:29:44 +0000</pubDate>
+				<category><![CDATA[communications]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[marketing]]></category>
+		<guid isPermaLink="false">/?p=5903</guid>
+
+					<description><![CDATA[The library home page now has an embedded video orientation to the library. This overview of our spaces, services, and collections is delivered in a friendly and engaging way by Ariel. It was originally part of a longer UCSF orientation video, but the library section has been extracted, and Sean ... <p class="read-more-container"><a title="Video orientation" class="read-more button" href="/2021/01/26/video-orientation/#more-5903">Read more<span class="screen-reader-text">Video orientation</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2021/01/26/video-orientation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Welcome Danielle Westmark, our IPI Fellow!</title>
+		<link>/2021/01/13/welcome-danielle-westmark-our-ipi-fellow/</link>
+					<comments>/2021/01/13/welcome-danielle-westmark-our-ipi-fellow/#comments</comments>
+		
+		<dc:creator><![CDATA[Ariel Deardorff]]></dc:creator>
+		<pubDate>Wed, 13 Jan 2021 19:12:16 +0000</pubDate>
+				<category><![CDATA[new hires]]></category>
+		<category><![CDATA[staff general]]></category>
+		<guid isPermaLink="false">/?p=5896</guid>
+
+					<description><![CDATA[Danielle is a student in the Inter-professional Informationist (IPI) Program at Simmons University and will be working with Ariel and the Data Science team from Jan-May 2021 as part of her capstone project. Danielle is looking to build on her knowledge of research data management, data science, and reproducibility and ... <p class="read-more-container"><a title="Welcome Danielle Westmark, our IPI Fellow!" class="read-more button" href="/2021/01/13/welcome-danielle-westmark-our-ipi-fellow/#more-5896">Read more<span class="screen-reader-text">Welcome Danielle Westmark, our IPI Fellow!</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2021/01/13/welcome-danielle-westmark-our-ipi-fellow/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Welcome to the Library Albert Lee!</title>
+		<link>/2021/01/05/welcome-to-the-library-albert-lee/</link>
+					<comments>/2021/01/05/welcome-to-the-library-albert-lee/#comments</comments>
+		
+		<dc:creator><![CDATA[Karla Lindquist]]></dc:creator>
+		<pubDate>Tue, 05 Jan 2021 23:26:05 +0000</pubDate>
+				<category><![CDATA[new hires]]></category>
+		<category><![CDATA[staff general]]></category>
+		<guid isPermaLink="false">/?p=5883</guid>
+
+					<description><![CDATA[On January 4 2021, Albert Lee joined the Library’s Data Science Initiative team as a Data Science Instructional Designer and Analyst. Please join the DSI team in welcoming Albert to UCSF and to the Library! Albert will be working with the DSI team two days per week. He will be ... <p class="read-more-container"><a title="Welcome to the Library Albert Lee!" class="read-more button" href="/2021/01/05/welcome-to-the-library-albert-lee/#more-5883">Read more<span class="screen-reader-text">Welcome to the Library Albert Lee!</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2021/01/05/welcome-to-the-library-albert-lee/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Congratulations Andy, recipient of the STAR Spot Award!</title>
+		<link>/2020/12/18/congratulations-andy-recipient-of-the-star-spot-award/</link>
+					<comments>/2020/12/18/congratulations-andy-recipient-of-the-star-spot-award/#respond</comments>
+		
+		<dc:creator><![CDATA[Chris Shaffer]]></dc:creator>
+		<pubDate>Fri, 18 Dec 2020 16:32:11 +0000</pubDate>
+				<category><![CDATA[accomplishments]]></category>
+		<guid isPermaLink="false">/?p=5881</guid>
+
+					<description><![CDATA[During the period of four months (from July through the end of October 2020) Andy Panado provided critical service for the library beyond his regular duties, enabling successful completion of the UCSF Special Collections Inventory and Cataloging Project of the Rare Book collection. In January 2020 the library contracted with ... <p class="read-more-container"><a title="Congratulations Andy, recipient of the STAR Spot Award!" class="read-more button" href="/2020/12/18/congratulations-andy-recipient-of-the-star-spot-award/#more-5881">Read more<span class="screen-reader-text">Congratulations Andy, recipient of the STAR Spot Award!</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2020/12/18/congratulations-andy-recipient-of-the-star-spot-award/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Building Data Skills in California Libraries</title>
+		<link>/2020/11/12/building-data-skills-in-california-libraries/</link>
+					<comments>/2020/11/12/building-data-skills-in-california-libraries/#respond</comments>
+		
+		<dc:creator><![CDATA[Ariel Deardorff]]></dc:creator>
+		<pubDate>Thu, 12 Nov 2020 23:23:49 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<guid isPermaLink="false">/?p=5871</guid>
+
+					<description><![CDATA[Ariel shares about a project she worked on this year with the nonprofit organization The Carpentries From Jan to Sept of this year 20% of my time was dedicated to a grant-funded project with The Carpentries, a global non-profit dedicated to teaching data and software skills to researchers and librarians. ... <p class="read-more-container"><a title="Building Data Skills in California Libraries" class="read-more button" href="/2020/11/12/building-data-skills-in-california-libraries/#more-5871">Read more<span class="screen-reader-text">Building Data Skills in California Libraries</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2020/11/12/building-data-skills-in-california-libraries/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Highlighting services during closure</title>
+		<link>/2020/10/19/highlighting-services-during-closure/</link>
+					<comments>/2020/10/19/highlighting-services-during-closure/#respond</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2020 15:21:38 +0000</pubDate>
+				<category><![CDATA[support]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">/?p=5858</guid>
+
+					<description><![CDATA[By default, the library already offers many services where the location of the user is not an obstacle. For example, we provide online access to many articles and ebooks. We also provide support and consultations via email, phone, or Zoom. In light of the lengthy buildings closure during the COVID-19 ... <p class="read-more-container"><a title="Highlighting services during closure" class="read-more button" href="/2020/10/19/highlighting-services-during-closure/#more-5858">Read more<span class="screen-reader-text">Highlighting services during closure</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2020/10/19/highlighting-services-during-closure/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Equity in Publishing &#038; Open Science Initiative</title>
+		<link>/2020/10/14/equity-in-publishing-open-science-initiative/</link>
+					<comments>/2020/10/14/equity-in-publishing-open-science-initiative/#respond</comments>
+		
+		<dc:creator><![CDATA[Anneliese Taylor]]></dc:creator>
+		<pubDate>Wed, 14 Oct 2020 16:40:44 +0000</pubDate>
+				<category><![CDATA[community]]></category>
+		<category><![CDATA[diversity and inclusion]]></category>
+		<category><![CDATA[editing]]></category>
+		<guid isPermaLink="false">/?p=5855</guid>
+
+					<description><![CDATA[Jill, Ariel, and I have embarked on a new project and we’d love to get your feedback. We will be building a network of faculty journal editors and connecting this network with often-underrepresented groups including early career faculty and researchers and those from groups underrepresented in medicine (UIM). The network ... <p class="read-more-container"><a title="Equity in Publishing &#38; Open Science Initiative" class="read-more button" href="/2020/10/14/equity-in-publishing-open-science-initiative/#more-5855">Read more<span class="screen-reader-text">Equity in Publishing &#38; Open Science Initiative</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2020/10/14/equity-in-publishing-open-science-initiative/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title></title>
+		<link>/2020/10/05/5850/</link>
+					<comments>/2020/10/05/5850/#respond</comments>
+		
+		<dc:creator><![CDATA[Joanna Kang]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2020 17:13:40 +0000</pubDate>
+				<category><![CDATA[eresources]]></category>
+		<category><![CDATA[staff general]]></category>
+		<guid isPermaLink="false">/?p=5850</guid>
+
+					<description><![CDATA[LinkedIn Learning: Now Available for UCSF LinkedIn Learning (previously Lynda.com) is now available to UCSF through a campus license. LinkedIn Learning has thousands of video courses covering technical, business, software, and creative topics. Courses include: Zoom Engagement for Meetings, Working From Home Strategies, Using Python for Automation, EndNote Essentials, and ... <p class="read-more-container"><a title="" class="read-more button" href="/2020/10/05/5850/#more-5850">Read more<span class="screen-reader-text"></span></a></p>]]></description>
+		
+					<wfw:commentRss>/2020/10/05/5850/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>User Research Results Part 2: Library News</title>
+		<link>/2020/09/29/user-research-results-part-2-library-news/</link>
+					<comments>/2020/09/29/user-research-results-part-2-library-news/#respond</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2020 15:32:10 +0000</pubDate>
+				<category><![CDATA[user experience]]></category>
+		<category><![CDATA[user research]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">/?p=5749</guid>
+
+					<description><![CDATA[News posts and newsletter content enable the library to share current happenings and to highlight and promote services. Our goal is to make these types of information discoverable in multiple places and whenever possible, put them into the path of the people who will find them most useful. Some users ... <p class="read-more-container"><a title="User Research Results Part 2: Library News" class="read-more button" href="/2020/09/29/user-research-results-part-2-library-news/#more-5749">Read more<span class="screen-reader-text">User Research Results Part 2: Library News</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2020/09/29/user-research-results-part-2-library-news/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

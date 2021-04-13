@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Making it Easy to Find the Right Library Space	</title>
+	<atom:link href="/2017/12/01/library-spaces/feed/" rel="self" type="application/rss+xml" />
+	<link>/2017/12/01/library-spaces/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Tue, 05 Dec 2017 16:30:32 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Tab McDaniel		</title>
+		<link>/2017/12/01/library-spaces/#comment-773</link>
+
+		<dc:creator><![CDATA[Tab McDaniel]]></dc:creator>
+		<pubDate>Tue, 05 Dec 2017 16:30:32 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3756#comment-773</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2017/12/01/library-spaces/#comment-772&quot;&gt;Andres Panado&lt;/a&gt;.
+
+Good eye, Andy. The &lt;a href=&quot;https://www.library.ucsf.edu/about/policies/noise/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow&quot;&gt;Noise page&lt;/a&gt; is new; adding &#039;noise level&#039; information to the new Computer Labs &amp; Study Spaces page meant we needed to define our terms for users seeking clarity. As for stickers ... Kemi and Kirk are working on new signage, but I don&#039;t know what the rollout looks like.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2017/12/01/library-spaces/#comment-772">Andres Panado</a>.</p>
+<p>Good eye, Andy. The <a href="https://www.library.ucsf.edu/about/policies/noise/" target="_blank" rel="noopener nofollow">Noise page</a> is new; adding &#8216;noise level&#8217; information to the new Computer Labs &#038; Study Spaces page meant we needed to define our terms for users seeking clarity. As for stickers &#8230; Kemi and Kirk are working on new signage, but I don&#8217;t know what the rollout looks like.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Andres Panado		</title>
+		<link>/2017/12/01/library-spaces/#comment-772</link>
+
+		<dc:creator><![CDATA[Andres Panado]]></dc:creator>
+		<pubDate>Mon, 04 Dec 2017 17:22:55 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3756#comment-772</guid>
+
+					<description><![CDATA[Thanks.  
+
+Maybe I may have missed the &quot;Noise&quot; policy...but it&#039;s nice to know that feature is added to the filter and it directs folks to that page.
+
+It would also be great if &quot;Considerate Study&quot; stickers are placed on the doors of the group study rooms.  I sometimes would pass by the study room on the 4th floor and would hear students inside laughing and talking so loudly that others outside could easily hear their conversations.]]></description>
+			<content:encoded><![CDATA[<p>Thanks.  </p>
+<p>Maybe I may have missed the &#8220;Noise&#8221; policy&#8230;but it&#8217;s nice to know that feature is added to the filter and it directs folks to that page.</p>
+<p>It would also be great if &#8220;Considerate Study&#8221; stickers are placed on the doors of the group study rooms.  I sometimes would pass by the study room on the 4th floor and would hear students inside laughing and talking so loudly that others outside could easily hear their conversations.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ariel Deardorff		</title>
+		<link>/2017/12/01/library-spaces/#comment-771</link>
+
+		<dc:creator><![CDATA[Ariel Deardorff]]></dc:creator>
+		<pubDate>Fri, 01 Dec 2017 23:48:51 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3756#comment-771</guid>
+
+					<description><![CDATA[Very cool!]]></description>
+			<content:encoded><![CDATA[<p>Very cool!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Tab McDaniel		</title>
+		<link>/2017/12/01/library-spaces/#comment-770</link>
+
+		<dc:creator><![CDATA[Tab McDaniel]]></dc:creator>
+		<pubDate>Fri, 01 Dec 2017 21:12:24 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3756#comment-770</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2017/12/01/library-spaces/#comment-769&quot;&gt;Gail Persily&lt;/a&gt;.
+
+Thanks for that question, Gail.
+
+We&#039;re limited to AND filtering because of development restrictions. Right now, we don&#039;t have the devpower to build a custom solution, so we used existing WordPress plugins and a sprinkling of dev magic from Stefan to get as far as we&#039;ve gotten. Out-of-the-box we could only select one filter at a time.
+
+We think it&#039;s worth users having to back themselves out of a &#039;no results&#039; filter set to gain multi-filter functionality.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2017/12/01/library-spaces/#comment-769">Gail Persily</a>.</p>
+<p>Thanks for that question, Gail.</p>
+<p>We&#8217;re limited to AND filtering because of development restrictions. Right now, we don&#8217;t have the devpower to build a custom solution, so we used existing WordPress plugins and a sprinkling of dev magic from Stefan to get as far as we&#8217;ve gotten. Out-of-the-box we could only select one filter at a time.</p>
+<p>We think it&#8217;s worth users having to back themselves out of a &#8216;no results&#8217; filter set to gain multi-filter functionality.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Gail Persily		</title>
+		<link>/2017/12/01/library-spaces/#comment-769</link>
+
+		<dc:creator><![CDATA[Gail Persily]]></dc:creator>
+		<pubDate>Fri, 01 Dec 2017 20:43:55 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3756#comment-769</guid>
+
+					<description><![CDATA[Great new page! I was wondering about the decision to set up the filters to be “and” instead of “or”. By that I mean, if I select both ‘quiet’ and ‘considerate’ I get no results because it is only filtering for things that have both of those attributes.
+
+Is this something you looked at in user testing? Or still playing with?]]></description>
+			<content:encoded><![CDATA[<p>Great new page! I was wondering about the decision to set up the filters to be “and” instead of “or”. By that I mean, if I select both ‘quiet’ and ‘considerate’ I get no results because it is only filtering for things that have both of those attributes.</p>
+<p>Is this something you looked at in user testing? Or still playing with?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Tab McDaniel		</title>
+		<link>/2017/12/01/library-spaces/#comment-767</link>
+
+		<dc:creator><![CDATA[Tab McDaniel]]></dc:creator>
+		<pubDate>Fri, 01 Dec 2017 18:35:38 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3756#comment-767</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2017/12/01/library-spaces/#comment-766&quot;&gt;Sean Mcclelland&lt;/a&gt;.
+
+Good point, Sean. We were concerned about that as well. We asked our testers (students, the main users of Library space) to define those terms for us. I was mildly surprised that 10/10 understood the difference between considerate (occasional, low-voiced talking but no ongoing conversation) and quiet. Interestingly, &#039;interactive&#039; was less easily understood than &#039;collaborative&#039;, so we switched to that term for &#039;feel free to make noise&#039;. We link to the precise definitions in the table: https://www.library.ucsf.edu/about/policies/noise/.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2017/12/01/library-spaces/#comment-766">Sean Mcclelland</a>.</p>
+<p>Good point, Sean. We were concerned about that as well. We asked our testers (students, the main users of Library space) to define those terms for us. I was mildly surprised that 10/10 understood the difference between considerate (occasional, low-voiced talking but no ongoing conversation) and quiet. Interestingly, &#8216;interactive&#8217; was less easily understood than &#8216;collaborative&#8217;, so we switched to that term for &#8216;feel free to make noise&#8217;. We link to the precise definitions in the table: <a href="https://www.library.ucsf.edu/about/policies/noise/" rel="nofollow ugc">https://www.library.ucsf.edu/about/policies/noise/</a>.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Sean Mcclelland		</title>
+		<link>/2017/12/01/library-spaces/#comment-766</link>
+
+		<dc:creator><![CDATA[Sean Mcclelland]]></dc:creator>
+		<pubDate>Fri, 01 Dec 2017 17:58:53 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3756#comment-766</guid>
+
+					<description><![CDATA[Looks good! I don&#039;t understand what a &quot;considerate&quot; space is, though, and how it&#039;s different from &quot;quiet.&quot;]]></description>
+			<content:encoded><![CDATA[<p>Looks good! I don&#8217;t understand what a &#8220;considerate&#8221; space is, though, and how it&#8217;s different from &#8220;quiet.&#8221;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

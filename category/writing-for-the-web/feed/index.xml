@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>writing for the web &#8211; Off the Shelf</title>
+	<atom:link href="/category/writing-for-the-web/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Wed, 27 Nov 2019 21:34:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>writing for the web &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>New Scholarly Communication Expert Pages</title>
+		<link>/2019/11/27/new-scholarly-communication-expert-pages/</link>
+					<comments>/2019/11/27/new-scholarly-communication-expert-pages/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna VanderJagt]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2019 21:34:31 +0000</pubDate>
+				<category><![CDATA[service design]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[writing for the web]]></category>
+		<guid isPermaLink="false">/?p=5391</guid>
+
+					<description><![CDATA[This month we launched the new and improved&#160;Scholarly Communication expert pages on the library website. As part of an ongoing project to emphasize human-centered service, we looked at usage patterns on the existing pages and collaborated with Anneliese to gather the most important tasks, messages, and pieces of information. The ... <p class="read-more-container"><a title="New Scholarly Communication Expert Pages" class="read-more button" href="/2019/11/27/new-scholarly-communication-expert-pages/#more-5391">Read more<span class="screen-reader-text">New Scholarly Communication Expert Pages</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2019/11/27/new-scholarly-communication-expert-pages/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Updating Web Content</title>
+		<link>/2019/07/10/updating-web-content/</link>
+					<comments>/2019/07/10/updating-web-content/#respond</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Wed, 10 Jul 2019 22:26:55 +0000</pubDate>
+				<category><![CDATA[editing]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[writing for the web]]></category>
+		<guid isPermaLink="false">/?p=5024</guid>
+
+					<description><![CDATA[As most of you realize, the library&#8217;s web presence is not just a single site, though we try to make things as seamless as possible for users. The UX Team has recently been taking stock and strategizing about how to make things more consistent, as well as easier for content ... <p class="read-more-container"><a title="Updating Web Content" class="read-more button" href="/2019/07/10/updating-web-content/#more-5024">Read more<span class="screen-reader-text">Updating Web Content</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2019/07/10/updating-web-content/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Faculty Support and Multimedia Expert Pages</title>
+		<link>/2019/07/10/faculty-support-and-multimedia-expert-pages/</link>
+					<comments>/2019/07/10/faculty-support-and-multimedia-expert-pages/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna VanderJagt]]></dc:creator>
+		<pubDate>Wed, 10 Jul 2019 17:28:31 +0000</pubDate>
+				<category><![CDATA[service design]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[writing for the web]]></category>
+		<guid isPermaLink="false">/?p=5036</guid>
+
+					<description><![CDATA[In addition to the newly launched Data Science pages, this week we launched new Ask an Expert pages for Faculty Support and Multimedia Hardware and Software as part of the greater Ask an Expert redesign. The goal of this redesign is to simplify and streamline content and emphasize the human-centered ... <p class="read-more-container"><a title="Faculty Support and Multimedia Expert Pages" class="read-more button" href="/2019/07/10/faculty-support-and-multimedia-expert-pages/#more-5036">Read more<span class="screen-reader-text">Faculty Support and Multimedia Expert Pages</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2019/07/10/faculty-support-and-multimedia-expert-pages/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Data Science refocused</title>
+		<link>/2019/07/03/data-science-refocused/</link>
+					<comments>/2019/07/03/data-science-refocused/#comments</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Thu, 04 Jul 2019 00:38:24 +0000</pubDate>
+				<category><![CDATA[service design]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[writing for the web]]></category>
+		<guid isPermaLink="false">/?p=5011</guid>
+
+					<description><![CDATA[A few months ago, the User Experience Team began to strategize about ways to highlight all the types of expertise and service that the Library offers. We looked at usage patterns on existing web pages and had in-depth discussions with various library staff experts to surface answers to questions like ... <p class="read-more-container"><a title="Data Science refocused" class="read-more button" href="/2019/07/03/data-science-refocused/#more-5011">Read more<span class="screen-reader-text">Data Science refocused</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2019/07/03/data-science-refocused/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LibGuides Improvements</title>
+		<link>/2017/08/14/libguides-improvements/</link>
+					<comments>/2017/08/14/libguides-improvements/#respond</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Tue, 15 Aug 2017 00:37:04 +0000</pubDate>
+				<category><![CDATA[guides]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[writing for the web]]></category>
+		<guid isPermaLink="false">/?p=3413</guid>
+
+					<description><![CDATA[Sophia has been assessing and identifying ways to spruce up our guides. She&#8217;s primarily working with the Education group to come up with some best practices and ways to improve content, but much of what comes out of the process will be helpful to all of us. A few steps ... <p class="read-more-container"><a title="LibGuides Improvements" class="read-more button" href="/2017/08/14/libguides-improvements/#more-3413">Read more<span class="screen-reader-text">LibGuides Improvements</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2017/08/14/libguides-improvements/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Content Audit Results</title>
+		<link>/2016/05/23/content-audit-results/</link>
+					<comments>/2016/05/23/content-audit-results/#comments</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Mon, 23 May 2016 19:28:25 +0000</pubDate>
+				<category><![CDATA[user experience]]></category>
+		<category><![CDATA[writing for the web]]></category>
+		<category><![CDATA[content_audit]]></category>
+		<guid isPermaLink="false">/?p=2160</guid>
+
+					<description><![CDATA[Back in February, the Web Projects Team put out a call for volunteers to help with a content audit of every page of library.ucsf.edu. There was a great response, and using methods outlined at LibUX, the group did a comprehensive inventory and objective evaluation that will be instrumental to guiding improvements over the next ... <p class="read-more-container"><a title="Content Audit Results" class="read-more button" href="/2016/05/23/content-audit-results/#more-2160">Read more<span class="screen-reader-text">Content Audit Results</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2016/05/23/content-audit-results/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lean and Mean</title>
+		<link>/2016/04/11/lean-and-mean/</link>
+					<comments>/2016/04/11/lean-and-mean/#comments</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Mon, 11 Apr 2016 20:18:30 +0000</pubDate>
+				<category><![CDATA[editing]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[writing for the web]]></category>
+		<guid isPermaLink="false">/?p=2130</guid>
+
+					<description><![CDATA[Both Group Study Rooms and Faculty Carrels recently went on a text diet. The result is that the key points are still there, but the amount of content on those pages has been trimmed significantly. Since the streamlined version is short and to-the-point, it&#8217;s much more likely to be read ... <p class="read-more-container"><a title="Lean and Mean" class="read-more button" href="/2016/04/11/lean-and-mean/#more-2130">Read more<span class="screen-reader-text">Lean and Mean</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2016/04/11/lean-and-mean/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

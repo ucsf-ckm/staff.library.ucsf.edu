@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>coffee construction &#8211; Off the Shelf</title>
+	<atom:link href="/tag/coffee-construction/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Fri, 14 Nov 2014 23:22:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>coffee construction &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Get set, go! Coffee stand construction starting&#8230;</title>
+		<link>/2014/11/14/get-set-go-coffee-stand-construction-starting/</link>
+					<comments>/2014/11/14/get-set-go-coffee-stand-construction-starting/#comments</comments>
+		
+		<dc:creator><![CDATA[Kirk Hudson]]></dc:creator>
+		<pubDate>Fri, 14 Nov 2014 23:18:44 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<category><![CDATA[coffee construction]]></category>
+		<guid isPermaLink="false">/2014/11/14/get-set-go-coffee-stand-construction-starting/</guid>
+
+					<description><![CDATA[You have likely noticed the area of the main floor of the Parnassus Library sectioned off with plastic sheeting, next to the elevators and near the Reference office. This is where the coffee stand will be! Yes, it’s finally happening; faster than expected! Work on the coffee stand will start ... <p class="read-more-container"><a title="Get set, go! Coffee stand construction starting&#8230;" class="read-more button" href="/2014/11/14/get-set-go-coffee-stand-construction-starting/#more-1339">Read more<span class="screen-reader-text">Get set, go! Coffee stand construction starting&#8230;</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2014/11/14/get-set-go-coffee-stand-construction-starting/feed/</wfw:commentRss>
+			<slash:comments>12</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>responsive &#8211; Off the Shelf</title>
+	<atom:link href="/category/responsive/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Fri, 06 Sep 2019 18:25:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>responsive &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Off the Shelf is getting an update</title>
+		<link>/2018/09/21/off-the-shelf-is-getting-an-update/</link>
+					<comments>/2018/09/21/off-the-shelf-is-getting-an-update/#respond</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Fri, 21 Sep 2018 23:37:19 +0000</pubDate>
+				<category><![CDATA[accessibility]]></category>
+		<category><![CDATA[responsive]]></category>
+		<category><![CDATA[staff general]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">/?p=4355</guid>
+
+					<description><![CDATA[Off the Shelf is starting to show its age a bit, so next week it will be getting a much needed refresh. The look and feel will be updated to a more current design using the UCSF color palette, and the posts will be easier to read on whatever size ... <p class="read-more-container"><a title="Off the Shelf is getting an update" class="read-more button" href="/2018/09/21/off-the-shelf-is-getting-an-update/#more-4355">Read more<span class="screen-reader-text">Off the Shelf is getting an update</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2018/09/21/off-the-shelf-is-getting-an-update/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Website Tune-up</title>
+		<link>/2018/07/19/website-tune-up/</link>
+					<comments>/2018/07/19/website-tune-up/#comments</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Thu, 19 Jul 2018 20:09:27 +0000</pubDate>
+				<category><![CDATA[accessibility]]></category>
+		<category><![CDATA[responsive]]></category>
+		<category><![CDATA[user experience]]></category>
+		<guid isPermaLink="false">/?p=4231</guid>
+
+					<description><![CDATA[Just a heads up to let everyone know that some website changes are scheduled to go live early tomorrow morning July 20. This will affect the primary Library site at https://www.library.ucsf.edu./ The tune-up mostly concerns under-the-hood changes, but those will result in improvements to areas which directly impact our users: ... <p class="read-more-container"><a title="Website Tune-up" class="read-more button" href="/2018/07/19/website-tune-up/#more-4231">Read more<span class="screen-reader-text">Website Tune-up</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2018/07/19/website-tune-up/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Website Updates: Library Site Header &#038; Footer</title>
+		<link>/2017/05/16/website-updates-library-site-header-footer/</link>
+					<comments>/2017/05/16/website-updates-library-site-header-footer/#respond</comments>
+		
+		<dc:creator><![CDATA[Tab McDaniel]]></dc:creator>
+		<pubDate>Tue, 16 May 2017 21:30:04 +0000</pubDate>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[responsive]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[user research]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">/?p=3006</guid>
+
+					<description><![CDATA[As most of you know, the Web Team is using an iterative approach to the Library site redesign: we launched a pretty good version of the site, and make incremental improvements as we learn more about what is/is not working for our users. With that in mind, we will introduce changes to ... <p class="read-more-container"><a title="Website Updates: Library Site Header &#038; Footer" class="read-more button" href="/2017/05/16/website-updates-library-site-header-footer/#more-3006">Read more<span class="screen-reader-text">Website Updates: Library Site Header &#038; Footer</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2017/05/16/website-updates-library-site-header-footer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Improved Hours Display</title>
+		<link>/2017/04/07/improved-hours-display/</link>
+					<comments>/2017/04/07/improved-hours-display/#comments</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Fri, 07 Apr 2017 17:20:26 +0000</pubDate>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[responsive]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[web]]></category>
+		<category><![CDATA[hours]]></category>
+		<guid isPermaLink="false">/?p=2901</guid>
+
+					<description><![CDATA[Next week, we will be updating the way hours are displayed on the library website. We wanted to share those changes with you and some of the behind-the-scenes work. As some of you may be aware, Library hours are entered into LibCal, and we use code snippets to display that ... <p class="read-more-container"><a title="Improved Hours Display" class="read-more button" href="/2017/04/07/improved-hours-display/#more-2901">Read more<span class="screen-reader-text">Improved Hours Display</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2017/04/07/improved-hours-display/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Database Redux</title>
+		<link>/2016/06/03/database-redux/</link>
+					<comments>/2016/06/03/database-redux/#respond</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Fri, 03 Jun 2016 21:30:59 +0000</pubDate>
+				<category><![CDATA[mobile]]></category>
+		<category><![CDATA[responsive]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[web]]></category>
+		<category><![CDATA[content]]></category>
+		<category><![CDATA[databases]]></category>
+		<guid isPermaLink="false">/?p=2235</guid>
+
+					<description><![CDATA[As some of you may be aware, the Web Projects Team is working to move the current library website off its old Drupal 6 platform and in the process, also improve user experience. One of the most important elements of the Library site is access to databases, so starting next ... <p class="read-more-container"><a title="Database Redux" class="read-more button" href="/2016/06/03/database-redux/#more-2235">Read more<span class="screen-reader-text">Database Redux</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2016/06/03/database-redux/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Zendesk is mobile too!</title>
+		<link>/2015/10/20/zendesk-is-mobile-too/</link>
+					<comments>/2015/10/20/zendesk-is-mobile-too/#respond</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2015 20:23:30 +0000</pubDate>
+				<category><![CDATA[mobile]]></category>
+		<category><![CDATA[responsive]]></category>
+		<category><![CDATA[support]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">/?p=1845</guid>
+
+					<description><![CDATA[We&#8217;ve been using ZenDesk as our support platform for a little while now, so I wanted to remind everyone that it&#8217;s also mobile friendly. Library users can easily contact us from a mobile phone or tablet — no app needed. They also have a chance to get their answer from ... <p class="read-more-container"><a title="Zendesk is mobile too!" class="read-more button" href="/2015/10/20/zendesk-is-mobile-too/#more-1845">Read more<span class="screen-reader-text">Zendesk is mobile too!</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2015/10/20/zendesk-is-mobile-too/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>THE MAKERSPACE: We&#8217;re Making It Happen</title>
+		<link>/2015/09/16/makerspace/</link>
+					<comments>/2015/09/16/makerspace/#comments</comments>
+		
+		<dc:creator><![CDATA[Kemi Amin]]></dc:creator>
+		<pubDate>Wed, 16 Sep 2015 17:55:06 +0000</pubDate>
+				<category><![CDATA[accomplishments]]></category>
+		<category><![CDATA[responsive]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[explore]]></category>
+		<category><![CDATA[fun]]></category>
+		<category><![CDATA[learn]]></category>
+		<category><![CDATA[library]]></category>
+		<category><![CDATA[makerspace]]></category>
+		<category><![CDATA[play]]></category>
+		<category><![CDATA[think]]></category>
+		<guid isPermaLink="false">/?p=1769</guid>
+
+					<description><![CDATA[Image by Beatrice Mallek &#160; Start with Why It started with an email sent to Jim Munson about Makerspaces, which led to a BAYNET meeting where MakerSpaces were discussed and finally, Jim&#8217;s aha moment &#8211; attending the Bay Area Maker Faire. When Jim had the opportunity to experience the makerspace concept in action at the Maker ... <p class="read-more-container"><a title="THE MAKERSPACE: We&#8217;re Making It Happen" class="read-more button" href="/2015/09/16/makerspace/#more-1769">Read more<span class="screen-reader-text">THE MAKERSPACE: We&#8217;re Making It Happen</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2015/09/16/makerspace/feed/</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Search Results Improvements Unveiled</title>
+		<link>/2014/12/01/search-results-improvements-unveiled/</link>
+					<comments>/2014/12/01/search-results-improvements-unveiled/#comments</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Tue, 02 Dec 2014 00:59:14 +0000</pubDate>
+				<category><![CDATA[mobile]]></category>
+		<category><![CDATA[responsive]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">/?p=1389</guid>
+
+					<description><![CDATA[The library site got a new search interface and results display today, and here are some highlights of the changes. Goal: Improve the display of results The search field is now more prominent on the homepage. The results are responsive! Do a search on your phone. Library information is no ... <p class="read-more-container"><a title="Search Results Improvements Unveiled" class="read-more button" href="/2014/12/01/search-results-improvements-unveiled/#more-1389">Read more<span class="screen-reader-text">Search Results Improvements Unveiled</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2014/12/01/search-results-improvements-unveiled/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A More Fluid Web</title>
+		<link>/2014/09/04/a-more-fluid-web/</link>
+					<comments>/2014/09/04/a-more-fluid-web/#comments</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Fri, 05 Sep 2014 00:45:25 +0000</pubDate>
+				<category><![CDATA[responsive]]></category>
+		<category><![CDATA[user experience]]></category>
+		<guid isPermaLink="false">/?p=1117</guid>
+
+					<description><![CDATA[In the early days of mobile, most websites either ignored small screens (resulting in many users ignoring their sites) or created completely separate and often limited sites just for mobile. One example of that is m.ucsf.edu which has served well for the last few years. However, that approach requires maintaining ... <p class="read-more-container"><a title="A More Fluid Web" class="read-more button" href="/2014/09/04/a-more-fluid-web/#more-1117">Read more<span class="screen-reader-text">A More Fluid Web</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2014/09/04/a-more-fluid-web/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

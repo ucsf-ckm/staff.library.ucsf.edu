@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>help &#8211; Off the Shelf</title>
+	<atom:link href="/tag/help/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Mon, 08 Apr 2019 20:03:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>help &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Improved Help Center</title>
+		<link>/2019/04/01/improved-help-center/</link>
+					<comments>/2019/04/01/improved-help-center/#respond</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Mon, 01 Apr 2019 13:00:39 +0000</pubDate>
+				<category><![CDATA[service design]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[web]]></category>
+		<category><![CDATA[help]]></category>
+		<guid isPermaLink="false">/?p=4683</guid>
+
+					<description><![CDATA[The Library uses Zendesk to manage support tickets submitted by users who have questions or need help. The Zendesk platform also includes a Help Center where we store answers to many common questions. This makes it easy to search and include a link when answering a ticket, or to just ... <p class="read-more-container"><a title="Improved Help Center" class="read-more button" href="/2019/04/01/improved-help-center/#more-4683">Read more<span class="screen-reader-text">Improved Help Center</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2019/04/01/improved-help-center/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Zendesk: One Week+</title>
+		<link>/2015/09/02/zendesk-one-week/</link>
+					<comments>/2015/09/02/zendesk-one-week/#comments</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2015 18:49:53 +0000</pubDate>
+				<category><![CDATA[user experience]]></category>
+		<category><![CDATA[help]]></category>
+		<category><![CDATA[support]]></category>
+		<guid isPermaLink="false">/?p=1753</guid>
+
+					<description><![CDATA[A little more than a week ago, our Zendesk Support pilot went live. So far there&#8217;s been a lot of positive feedback from support agents. Some of the top favorite things are: simpler tickets and more intuitive interface ability to use the Help Center and macro text snippets to easily ... <p class="read-more-container"><a title="Zendesk: One Week+" class="read-more button" href="/2015/09/02/zendesk-one-week/#more-1753">Read more<span class="screen-reader-text">Zendesk: One Week+</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2015/09/02/zendesk-one-week/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

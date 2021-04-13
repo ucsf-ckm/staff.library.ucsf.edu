@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Booking a Space for a Patron in LibCal	</title>
+	<atom:link href="/2019/08/26/booking-a-space-for-a-patron-in-libcal/feed/" rel="self" type="application/rss+xml" />
+	<link>/2019/08/26/booking-a-space-for-a-patron-in-libcal/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Thu, 05 Sep 2019 17:29:50 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Retrospective: LibCal Migration &#8211; Off the Shelf		</title>
+		<link>/2019/08/26/booking-a-space-for-a-patron-in-libcal/#comment-881</link>
+
+		<dc:creator><![CDATA[Retrospective: LibCal Migration &#8211; Off the Shelf]]></dc:creator>
+		<pubDate>Thu, 05 Sep 2019 17:29:50 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5144#comment-881</guid>
+
+					<description><![CDATA[[&#8230;] on staff feedback, we wrote a&#160;post on Off the Shelf&#160;to further explain the new UI workflow for [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] on staff feedback, we wrote a&nbsp;post on Off the Shelf&nbsp;to further explain the new UI workflow for [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

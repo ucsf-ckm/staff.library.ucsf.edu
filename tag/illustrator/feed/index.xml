@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>illustrator &#8211; Off the Shelf</title>
+	<atom:link href="/tag/illustrator/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Mon, 23 May 2016 22:08:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>illustrator &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Meet Michelle McNeil</title>
+		<link>/2016/05/23/meet-michelle-mcneil/</link>
+					<comments>/2016/05/23/meet-michelle-mcneil/#comments</comments>
+		
+		<dc:creator><![CDATA[Kemi Amin]]></dc:creator>
+		<pubDate>Mon, 23 May 2016 22:08:03 +0000</pubDate>
+				<category><![CDATA[accomplishments]]></category>
+		<category><![CDATA[communications]]></category>
+		<category><![CDATA[illustrator]]></category>
+		<category><![CDATA[library]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[staff]]></category>
+		<guid isPermaLink="false">/?p=2190</guid>
+
+					<description><![CDATA[&#160; In this recording, I interview the Marketing &#38; Communications Assistant Michelle McNeil who started her position at the Library on Monday, February 29. Since her start, Michelle has been a great marketing and communications collaborator, from posting calendar listings to working with me on marketing strategies, and everything in ... <p class="read-more-container"><a title="Meet Michelle McNeil" class="read-more button" href="/2016/05/23/meet-michelle-mcneil/#more-2190">Read more<span class="screen-reader-text">Meet Michelle McNeil</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2016/05/23/meet-michelle-mcneil/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

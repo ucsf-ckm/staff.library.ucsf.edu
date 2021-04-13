@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Dee Dee Kramer &#8211; Off the Shelf</title>
+	<atom:link href="/author/sf519661/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Tue, 06 Sep 2016 21:57:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Dee Dee Kramer &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Library Strategic Plan &#8220;Lite&#8221;</title>
+		<link>/2016/09/06/library-strategic-plan-lite/</link>
+					<comments>/2016/09/06/library-strategic-plan-lite/#comments</comments>
+		
+		<dc:creator><![CDATA[Dee Dee Kramer]]></dc:creator>
+		<pubDate>Tue, 06 Sep 2016 21:57:59 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<category><![CDATA[strategic-plan]]></category>
+		<guid isPermaLink="false">/?p=2519</guid>
+
+					<description><![CDATA[Hello everyone, At today’s Library staff meeting, I outlined our interim strategic plan. Here it is for your review. Please comment! &#160; The Library leadership team identified these top 4 strategic goals for the current year. The items below each goal are some (but not all) of the key activities ... <p class="read-more-container"><a title="Library Strategic Plan &#8220;Lite&#8221;" class="read-more button" href="/2016/09/06/library-strategic-plan-lite/#more-2519">Read more<span class="screen-reader-text">Library Strategic Plan &#8220;Lite&#8221;</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2016/09/06/library-strategic-plan-lite/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

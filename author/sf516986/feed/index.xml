@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Sophia &#8211; Off the Shelf</title>
+	<atom:link href="/author/sf516986/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Thu, 30 May 2019 19:09:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Sophia &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Credit-bearing and Continuing Education (CE) Library Classes</title>
+		<link>/2019/05/30/credit-bearing-and-continuing-education-ce-library-classes/</link>
+					<comments>/2019/05/30/credit-bearing-and-continuing-education-ce-library-classes/#comments</comments>
+		
+		<dc:creator><![CDATA[Sophia]]></dc:creator>
+		<pubDate>Thu, 30 May 2019 19:09:46 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<guid isPermaLink="false">/?p=4941</guid>
+
+					<description><![CDATA[Over the last three months, I have been investigating the process for making Library courses available for either UCSF course credit or Continuing Education (CE). I presented my findings at the last Community of Practice meeting and want to share my final report and presentation slides with you. The report ... <p class="read-more-container"><a title="Credit-bearing and Continuing Education (CE) Library Classes" class="read-more button" href="/2019/05/30/credit-bearing-and-continuing-education-ce-library-classes/#more-4941">Read more<span class="screen-reader-text">Credit-bearing and Continuing Education (CE) Library Classes</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2019/05/30/credit-bearing-and-continuing-education-ce-library-classes/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New Catalog of Library Classes Web Page</title>
+		<link>/2019/05/28/new-catalog-of-library-classes-web-page/</link>
+					<comments>/2019/05/28/new-catalog-of-library-classes-web-page/#respond</comments>
+		
+		<dc:creator><![CDATA[Sophia]]></dc:creator>
+		<pubDate>Tue, 28 May 2019 13:44:30 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<guid isPermaLink="false">/?p=4914</guid>
+
+					<description><![CDATA[We just launched a new web page on the Library website! A goal of the Education Strategic Project is to promote Library staff&#8217;s teaching expertise and commitment to Open Science. The Catalog of Classes and Workshops page touches on both objectives by advertising the wide range of classes we teach ... <p class="read-more-container"><a title="New Catalog of Library Classes Web Page" class="read-more button" href="/2019/05/28/new-catalog-of-library-classes-web-page/#more-4914">Read more<span class="screen-reader-text">New Catalog of Library Classes Web Page</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2019/05/28/new-catalog-of-library-classes-web-page/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Learn with the Library Update</title>
+		<link>/2018/09/19/learn-with-the-library-update/</link>
+					<comments>/2018/09/19/learn-with-the-library-update/#comments</comments>
+		
+		<dc:creator><![CDATA[Sophia]]></dc:creator>
+		<pubDate>Wed, 19 Sep 2018 13:47:36 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<guid isPermaLink="false">/?p=4347</guid>
+
+					<description><![CDATA[First Quarter Update As co-chairs of the Education Strategic Initiative, Learn with the Library, we want to update you on our progress and invite any feedback. Who is Involved Any Library staff member who teaches: DSI, EdResearch, Makers Lab, ZSFG, Archives, etc. Project Vision A unified library education program where ... <p class="read-more-container"><a title="Learn with the Library Update" class="read-more button" href="/2018/09/19/learn-with-the-library-update/#more-4347">Read more<span class="screen-reader-text">Learn with the Library Update</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2018/09/19/learn-with-the-library-update/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

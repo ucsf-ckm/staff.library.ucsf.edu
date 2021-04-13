@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Scholarly Communications &#8211; Off the Shelf</title>
+	<atom:link href="/tag/scholarly-communications/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Mon, 10 Aug 2015 15:49:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Scholarly Communications &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>UC Open Press first article; Public Access legislation (FASTR); UC support for OER</title>
+		<link>/2015/08/07/uc-open-press-first-article-public-access-legislation-fastr-uc-support-for-oer/</link>
+					<comments>/2015/08/07/uc-open-press-first-article-public-access-legislation-fastr-uc-support-for-oer/#respond</comments>
+		
+		<dc:creator><![CDATA[Anneliese Taylor]]></dc:creator>
+		<pubDate>Fri, 07 Aug 2015 19:20:02 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<category><![CDATA[Scholarly Communications]]></category>
+		<guid isPermaLink="false">/?p=1640</guid>
+
+					<description><![CDATA[Here are some noteworthy events from the world of scholarly communication of late: Collabra, the new open access journal from UC Press, published its first article, Implicit Preferences for Straight People over Lesbian Women and Gay Men Weakened from 2006 to 2013 (released July 23). Collabra is a ground-breaking journal ... <p class="read-more-container"><a title="UC Open Press first article; Public Access legislation (FASTR); UC support for OER" class="read-more button" href="/2015/08/07/uc-open-press-first-article-public-access-legislation-fastr-uc-support-for-oer/#more-1640">Read more<span class="screen-reader-text">UC Open Press first article; Public Access legislation (FASTR); UC support for OER</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2015/08/07/uc-open-press-first-article-public-access-legislation-fastr-uc-support-for-oer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Can Scholarly Publishing Evolve Beyond the PDF http&#8230;</title>
+		<link>/2013/11/19/can-scholarly-publishing-evolve-beyond-the-pdf-http/</link>
+					<comments>/2013/11/19/can-scholarly-publishing-evolve-beyond-the-pdf-http/#comments</comments>
+		
+		<dc:creator><![CDATA[Alan Daniel]]></dc:creator>
+		<pubDate>Tue, 19 Nov 2013 18:44:36 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<category><![CDATA[Scholarly Communications]]></category>
+		<guid isPermaLink="false">/2013/11/19/can-scholarly-publishing-evolve-beyond-the-pdf-http/</guid>
+
+					<description><![CDATA[Can Scholarly Publishing Evolve Beyond the PDF? http://exchanges.wiley.com/blog/2013/11/11/can-scholarly-publishing-evolve-beyond-the-pdf/ In this video presentation, Gary Spencer, Associate Director of Product Management in Wiley’s Global Research Division, ponders the staying power of the PDF format in scholarly publishing. The presentation includes a brief history of digital publishing, and a look at how PDF ... <p class="read-more-container"><a title="Can Scholarly Publishing Evolve Beyond the PDF http&#8230;" class="read-more button" href="/2013/11/19/can-scholarly-publishing-evolve-beyond-the-pdf-http/#more-813">Read more<span class="screen-reader-text">Can Scholarly Publishing Evolve Beyond the PDF http&#8230;</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2013/11/19/can-scholarly-publishing-evolve-beyond-the-pdf-http/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>support &#8211; Off the Shelf</title>
+	<atom:link href="/tag/support/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Wed, 02 Sep 2015 18:49:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>support &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Zendesk: One Week+</title>
+		<link>/2015/09/02/zendesk-one-week/</link>
+					<comments>/2015/09/02/zendesk-one-week/#comments</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2015 18:49:53 +0000</pubDate>
+				<category><![CDATA[user experience]]></category>
+		<category><![CDATA[help]]></category>
+		<category><![CDATA[support]]></category>
+		<guid isPermaLink="false">/?p=1753</guid>
+
+					<description><![CDATA[A little more than a week ago, our Zendesk Support pilot went live. So far there&#8217;s been a lot of positive feedback from support agents. Some of the top favorite things are: simpler tickets and more intuitive interface ability to use the Help Center and macro text snippets to easily ... <p class="read-more-container"><a title="Zendesk: One Week+" class="read-more button" href="/2015/09/02/zendesk-one-week/#more-1753">Read more<span class="screen-reader-text">Zendesk: One Week+</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2015/09/02/zendesk-one-week/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Better support for library users?</title>
+		<link>/2015/07/13/better-support-for-library-users/</link>
+					<comments>/2015/07/13/better-support-for-library-users/#comments</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Mon, 13 Jul 2015 18:53:21 +0000</pubDate>
+				<category><![CDATA[user experience]]></category>
+		<category><![CDATA[user research]]></category>
+		<category><![CDATA[web]]></category>
+		<category><![CDATA[support]]></category>
+		<guid isPermaLink="false">/?p=1562</guid>
+
+					<description><![CDATA[Over the last month or so, Tab and I interviewed ten staff members representing a range of different library services from Tech Commons, to Service Desk, to Archives, Education, etc. The goal was to gain insights into the needs of the different user audiences served by each staff member. Big ... <p class="read-more-container"><a title="Better support for library users?" class="read-more button" href="/2015/07/13/better-support-for-library-users/#more-1562">Read more<span class="screen-reader-text">Better support for library users?</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2015/07/13/better-support-for-library-users/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

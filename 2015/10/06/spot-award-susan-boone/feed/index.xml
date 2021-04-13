@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Spot Award: Susan Boone	</title>
+	<atom:link href="/2015/10/06/spot-award-susan-boone/feed/" rel="self" type="application/rss+xml" />
+	<link>/2015/10/06/spot-award-susan-boone/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Thu, 08 Oct 2015 22:17:22 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Michele Mizejewski		</title>
+		<link>/2015/10/06/spot-award-susan-boone/#comment-500</link>
+
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Thu, 08 Oct 2015 22:17:22 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1819#comment-500</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2015/10/06/spot-award-susan-boone/#comment-498&quot;&gt;Sarah McClung&lt;/a&gt;.
+
+Yay Susan!]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2015/10/06/spot-award-susan-boone/#comment-498">Sarah McClung</a>.</p>
+<p>Yay Susan!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Great Team Work! &#124; Off the Shelf		</title>
+		<link>/2015/10/06/spot-award-susan-boone/#comment-499</link>
+
+		<dc:creator><![CDATA[Great Team Work! &#124; Off the Shelf]]></dc:creator>
+		<pubDate>Wed, 07 Oct 2015 21:01:13 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1819#comment-499</guid>
+
+					<description><![CDATA[[&#8230;] Sarah McClung on Spot Award: Susan Boone [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Sarah McClung on Spot Award: Susan Boone [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Sarah McClung		</title>
+		<link>/2015/10/06/spot-award-susan-boone/#comment-498</link>
+
+		<dc:creator><![CDATA[Sarah McClung]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2015 23:39:23 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1819#comment-498</guid>
+
+					<description><![CDATA[Great job, Susan!]]></description>
+			<content:encoded><![CDATA[<p>Great job, Susan!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

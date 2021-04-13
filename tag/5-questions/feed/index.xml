@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>5 Questions &#8211; Off the Shelf</title>
+	<atom:link href="/tag/5-questions/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Tue, 28 May 2019 17:39:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>5 Questions &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Staff Spotlight Series: Kemi Amin</title>
+		<link>/2019/05/29/staff-spotlight-series/</link>
+					<comments>/2019/05/29/staff-spotlight-series/#comments</comments>
+		
+		<dc:creator><![CDATA[Joanna Kang]]></dc:creator>
+		<pubDate>Wed, 29 May 2019 16:00:12 +0000</pubDate>
+				<category><![CDATA[accomplishments]]></category>
+		<category><![CDATA[5 Questions]]></category>
+		<guid isPermaLink="false">/?p=4887</guid>
+
+					<description><![CDATA[The DI workgroup wants to recognize and celebrate Library staff supporting PRIDE values. Library staff do so many cool things across UCSF and we want to highlight and share those efforts. This is partially inspired by Jim&#8217;s 10 Questions series. In the next few weeks we&#8217;ll have posts with Library ... <p class="read-more-container"><a title="Staff Spotlight Series: Kemi Amin" class="read-more button" href="/2019/05/29/staff-spotlight-series/#more-4887">Read more<span class="screen-reader-text">Staff Spotlight Series: Kemi Amin</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2019/05/29/staff-spotlight-series/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

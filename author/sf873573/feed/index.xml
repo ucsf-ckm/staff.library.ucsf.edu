@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Brian Warling &#8211; Off the Shelf</title>
+	<atom:link href="/author/sf873573/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Tue, 16 Feb 2021 15:23:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Brian Warling &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Moodle is dipping its toes into the MOOC&#8230;</title>
+		<link>/2013/08/27/moodle-is-dipping-its-toes-into-the-mooc/</link>
+					<comments>/2013/08/27/moodle-is-dipping-its-toes-into-the-mooc/#respond</comments>
+		
+		<dc:creator><![CDATA[Brian Warling]]></dc:creator>
+		<pubDate>Tue, 27 Aug 2013 23:49:46 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<guid isPermaLink="false">/2013/08/27/moodle-is-dipping-its-toes-into-the-mooc/</guid>
+
+					<description><![CDATA[Moodle is dipping its toes into the MOOC pool. Moodle is offering its first MOOC (appropriately enough on teaching with Moodle and taught using Moodle), beginning on September 1. The MOOC is called &#8220;Teaching with Moodle: An Introduction.&#8221; You can learn more about it here: http://learn.moodle.net/]]></description>
+		
+					<wfw:commentRss>/2013/08/27/moodle-is-dipping-its-toes-into-the-mooc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New Children&#8217;s Book Features the Talents of Dylan Romero</title>
+		<link>/2012/12/13/new-childrens-book-features-the-talents-of-dylan-romero/</link>
+					<comments>/2012/12/13/new-childrens-book-features-the-talents-of-dylan-romero/#comments</comments>
+		
+		<dc:creator><![CDATA[Brian Warling]]></dc:creator>
+		<pubDate>Thu, 13 Dec 2012 23:46:16 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<guid isPermaLink="false">/?p=446</guid>
+
+					<description><![CDATA[Dylan Romero&#8217;s considerable graphic design skills are on display in a newly published children&#8217;s book: Green, The Environmental Fairy. Written by Carla Filgas and illustrated by Colleen Merickel, the book tells the story of an unemployed fairy (times are tough, even in fairyland) who finds her calling in teaching children ... <p class="read-more-container"><a title="New Children&#8217;s Book Features the Talents of Dylan Romero" class="read-more button" href="/2012/12/13/new-childrens-book-features-the-talents-of-dylan-romero/#more-446">Read more<span class="screen-reader-text">New Children&#8217;s Book Features the Talents of Dylan Romero</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2012/12/13/new-childrens-book-features-the-talents-of-dylan-romero/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Welcome Dylan Romero to the Learning Technologies Group</title>
+		<link>/2012/05/30/welcome-dylan-romero-to-the-learning-technologies-group/</link>
+					<comments>/2012/05/30/welcome-dylan-romero-to-the-learning-technologies-group/#comments</comments>
+		
+		<dc:creator><![CDATA[Brian Warling]]></dc:creator>
+		<pubDate>Wed, 30 May 2012 23:46:48 +0000</pubDate>
+				<category><![CDATA[new hires]]></category>
+		<category><![CDATA[staff general]]></category>
+		<category><![CDATA[informational]]></category>
+		<category><![CDATA[new hire]]></category>
+		<guid isPermaLink="false">/?p=216</guid>
+
+					<description><![CDATA[I am very pleased to announce that Dylan Romero has joined the Library&#8217;s Learning Technologies Group as our new Learning Technologies Specialist. Dylan has been working in the educational technology field since 2003. He previously coordinated a number of in-person professional development programs and online programs at SF State Extended Learning. ... <p class="read-more-container"><a title="Welcome Dylan Romero to the Learning Technologies Group" class="read-more button" href="/2012/05/30/welcome-dylan-romero-to-the-learning-technologies-group/#more-216">Read more<span class="screen-reader-text">Welcome Dylan Romero to the Learning Technologies Group</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2012/05/30/welcome-dylan-romero-to-the-learning-technologies-group/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

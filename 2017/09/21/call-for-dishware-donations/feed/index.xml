@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Call for Dishware Donations	</title>
+	<atom:link href="/2017/09/21/call-for-dishware-donations/feed/" rel="self" type="application/rss+xml" />
+	<link>/2017/09/21/call-for-dishware-donations/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Thu, 21 Sep 2017 23:54:12 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Sean Mcclelland		</title>
+		<link>/2017/09/21/call-for-dishware-donations/#comment-716</link>
+
+		<dc:creator><![CDATA[Sean Mcclelland]]></dc:creator>
+		<pubDate>Thu, 21 Sep 2017 23:54:12 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3622#comment-716</guid>
+
+					<description><![CDATA[Thank you Sarah. We already have a donation, by the way. I&#039;ll add it to the collection tomorrow!]]></description>
+			<content:encoded><![CDATA[<p>Thank you Sarah. We already have a donation, by the way. I&#8217;ll add it to the collection tomorrow!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>community &#8211; Off the Shelf</title>
+	<atom:link href="/category/community/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Tue, 26 Jan 2021 17:29:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>community &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Video orientation</title>
+		<link>/2021/01/26/video-orientation/</link>
+					<comments>/2021/01/26/video-orientation/#respond</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Tue, 26 Jan 2021 17:29:44 +0000</pubDate>
+				<category><![CDATA[communications]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[marketing]]></category>
+		<guid isPermaLink="false">/?p=5903</guid>
+
+					<description><![CDATA[The library home page now has an embedded video orientation to the library. This overview of our spaces, services, and collections is delivered in a friendly and engaging way by Ariel. It was originally part of a longer UCSF orientation video, but the library section has been extracted, and Sean ... <p class="read-more-container"><a title="Video orientation" class="read-more button" href="/2021/01/26/video-orientation/#more-5903">Read more<span class="screen-reader-text">Video orientation</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2021/01/26/video-orientation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Equity in Publishing &#038; Open Science Initiative</title>
+		<link>/2020/10/14/equity-in-publishing-open-science-initiative/</link>
+					<comments>/2020/10/14/equity-in-publishing-open-science-initiative/#respond</comments>
+		
+		<dc:creator><![CDATA[Anneliese Taylor]]></dc:creator>
+		<pubDate>Wed, 14 Oct 2020 16:40:44 +0000</pubDate>
+				<category><![CDATA[community]]></category>
+		<category><![CDATA[diversity and inclusion]]></category>
+		<category><![CDATA[editing]]></category>
+		<guid isPermaLink="false">/?p=5855</guid>
+
+					<description><![CDATA[Jill, Ariel, and I have embarked on a new project and we’d love to get your feedback. We will be building a network of faculty journal editors and connecting this network with often-underrepresented groups including early career faculty and researchers and those from groups underrepresented in medicine (UIM). The network ... <p class="read-more-container"><a title="Equity in Publishing &#38; Open Science Initiative" class="read-more button" href="/2020/10/14/equity-in-publishing-open-science-initiative/#more-5855">Read more<span class="screen-reader-text">Equity in Publishing &#38; Open Science Initiative</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2020/10/14/equity-in-publishing-open-science-initiative/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to post Library News</title>
+		<link>/2019/09/06/how-to-post-library-news/</link>
+					<comments>/2019/09/06/how-to-post-library-news/#respond</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Fri, 06 Sep 2019 16:37:21 +0000</pubDate>
+				<category><![CDATA[community]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[user experience]]></category>
+		<guid isPermaLink="false">/?p=5196</guid>
+
+					<description><![CDATA[Library news is one of the most dynamic and widely viewed parts of our website. It can be viewed all together, but posts are also embedded in the path of the target audience in places like Programming for Data Science and Makers Lab. News posts are also shared via email ... <p class="read-more-container"><a title="How to post Library News" class="read-more button" href="/2019/09/06/how-to-post-library-news/#more-5196">Read more<span class="screen-reader-text">How to post Library News</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2019/09/06/how-to-post-library-news/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Entrance Redesign Project Update</title>
+		<link>/2018/11/21/entrance-redesign-project-update-2/</link>
+					<comments>/2018/11/21/entrance-redesign-project-update-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Chris Shaffer]]></dc:creator>
+		<pubDate>Wed, 21 Nov 2018 18:00:36 +0000</pubDate>
+				<category><![CDATA[accessibility]]></category>
+		<category><![CDATA[campus news]]></category>
+		<category><![CDATA[communications]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[staff general]]></category>
+		<guid isPermaLink="false">/?p=4513</guid>
+
+					<description><![CDATA[The Entrance Redesign Project has been a long and complex process and that will continue as we move into 2019. There has been a lot of work behind the scenes to plan for this major transition. With any major project come unexpected changes. Recently, EVCP Dan Lowenstein informed me that ... <p class="read-more-container"><a title="Entrance Redesign Project Update" class="read-more button" href="/2018/11/21/entrance-redesign-project-update-2/#more-4513">Read more<span class="screen-reader-text">Entrance Redesign Project Update</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2018/11/21/entrance-redesign-project-update-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Library Green Team Updates</title>
+		<link>/2018/03/29/library-green-team-updates/</link>
+					<comments>/2018/03/29/library-green-team-updates/#respond</comments>
+		
+		<dc:creator><![CDATA[Sean Mcclelland]]></dc:creator>
+		<pubDate>Thu, 29 Mar 2018 15:58:47 +0000</pubDate>
+				<category><![CDATA[community]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[staff general]]></category>
+		<category><![CDATA[committees]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[events]]></category>
+		<category><![CDATA[fun]]></category>
+		<category><![CDATA[sustainability]]></category>
+		<category><![CDATA[update]]></category>
+		<guid isPermaLink="false">/?p=4091</guid>
+
+					<description><![CDATA[Over the past few months, the Library Green Team has been gaining momentum. Our first meeting was back in April 2017, and during these twelve months we have developed an official charge, elected a core membership group, and completed a number of positive initiatives for the Library. We have also identified goals for the second quarter ... <p class="read-more-container"><a title="Library Green Team Updates" class="read-more button" href="/2018/03/29/library-green-team-updates/#more-4091">Read more<span class="screen-reader-text">Library Green Team Updates</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2018/03/29/library-green-team-updates/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Safety &#038; Security at the Library</title>
+		<link>/2018/03/28/safety-security-at-the-library/</link>
+					<comments>/2018/03/28/safety-security-at-the-library/#respond</comments>
+		
+		<dc:creator><![CDATA[Kemi Amin]]></dc:creator>
+		<pubDate>Wed, 28 Mar 2018 16:00:32 +0000</pubDate>
+				<category><![CDATA[communications]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">/?p=4080</guid>
+
+					<description><![CDATA[Thanks to everyone who attended our Coffee Hour with Special Guests from the UCSF Police Department (UCSF PD) and UCSF Legal Affairs back in January. The turnout was a pleasant surprise and although the meeting dealt with some heavy topics, it was a much needed and thoughtful conversation. At this ... <p class="read-more-container"><a title="Safety &#038; Security at the Library" class="read-more button" href="/2018/03/28/safety-security-at-the-library/#more-4080">Read more<span class="screen-reader-text">Safety &#038; Security at the Library</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2018/03/28/safety-security-at-the-library/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A Conversation About Safety &#038; Security with UCSF Police</title>
+		<link>/2018/01/04/a-conversation-about-safety-security-with-ucsf-police/</link>
+					<comments>/2018/01/04/a-conversation-about-safety-security-with-ucsf-police/#respond</comments>
+		
+		<dc:creator><![CDATA[Kemi Amin]]></dc:creator>
+		<pubDate>Thu, 04 Jan 2018 17:55:29 +0000</pubDate>
+				<category><![CDATA[communications]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[staff general]]></category>
+		<category><![CDATA[safety]]></category>
+		<category><![CDATA[ucsf police]]></category>
+		<guid isPermaLink="false">/?p=3885</guid>
+
+					<description><![CDATA[To continue our conversation about safety and security at the Library, we have invited the UCSF Police to a morning discussion for Library staff and building tenants.    Join us on Friday, January 19 from 10 &#8211; 11 am at the Parnassus Library staff lounge (1st floor). We will have the ... <p class="read-more-container"><a title="A Conversation About Safety &#038; Security with UCSF Police" class="read-more button" href="/2018/01/04/a-conversation-about-safety-security-with-ucsf-police/#more-3885">Read more<span class="screen-reader-text">A Conversation About Safety &#038; Security with UCSF Police</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2018/01/04/a-conversation-about-safety-security-with-ucsf-police/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>FAQ: Parnassus Library Entrance Redesign</title>
+		<link>/2017/11/17/faq-parnassus-library-entrance-redesign/</link>
+					<comments>/2017/11/17/faq-parnassus-library-entrance-redesign/#respond</comments>
+		
+		<dc:creator><![CDATA[Kemi Amin]]></dc:creator>
+		<pubDate>Fri, 17 Nov 2017 18:00:35 +0000</pubDate>
+				<category><![CDATA[communications]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[staff general]]></category>
+		<guid isPermaLink="false">/?p=3744</guid>
+
+					<description><![CDATA[We have compiled a running list of frequently asked questions that we have answered regarding the Parnassus Library Entrance Redesign Project. You will find a living FAQ document that will be updated with information regularly in this Box folder. You can always add any additional questions and/or feedback in the comments section ... <p class="read-more-container"><a title="FAQ: Parnassus Library Entrance Redesign" class="read-more button" href="/2017/11/17/faq-parnassus-library-entrance-redesign/#more-3744">Read more<span class="screen-reader-text">FAQ: Parnassus Library Entrance Redesign</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2017/11/17/faq-parnassus-library-entrance-redesign/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Parnassus Library Entrance Redesign Project</title>
+		<link>/2017/09/25/parnassus-library-entrance-redesign-project/</link>
+					<comments>/2017/09/25/parnassus-library-entrance-redesign-project/#comments</comments>
+		
+		<dc:creator><![CDATA[Kemi Amin]]></dc:creator>
+		<pubDate>Mon, 25 Sep 2017 22:06:31 +0000</pubDate>
+				<category><![CDATA[community]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[staff general]]></category>
+		<guid isPermaLink="false">/?p=3629</guid>
+
+					<description><![CDATA[The entrance to the Parnassus Library will undergo a redesign to provide better service and improved access to the UCSF community. Based on data pulled from the 2015 campus-wide LibQual Library Survey, the 2017 Library Spaces Survey, and Access Services reports, Chancellor Sam Hawgood and Executive Vice Chancellor and Provost Dan Lowenstein ... <p class="read-more-container"><a title="Parnassus Library Entrance Redesign Project" class="read-more button" href="/2017/09/25/parnassus-library-entrance-redesign-project/#more-3629">Read more<span class="screen-reader-text">Parnassus Library Entrance Redesign Project</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2017/09/25/parnassus-library-entrance-redesign-project/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Community Artifacts for Library Staff</title>
+		<link>/2017/08/29/community-artifacts-for-library-staff/</link>
+					<comments>/2017/08/29/community-artifacts-for-library-staff/#comments</comments>
+		
+		<dc:creator><![CDATA[Kemi Amin]]></dc:creator>
+		<pubDate>Tue, 29 Aug 2017 18:03:40 +0000</pubDate>
+				<category><![CDATA[communications]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[design]]></category>
+		<guid isPermaLink="false">/?p=3435</guid>
+
+					<description><![CDATA[You might be wondering, &#8220;What are community artifacts?&#8221; Well with all that has been happening in the world, I&#8217;ve been thinking a lot about community. In what ways do we continue to build our Library community, not only for those we serve but amongst each other? A significant aspect of ... <p class="read-more-container"><a title="Community Artifacts for Library Staff" class="read-more button" href="/2017/08/29/community-artifacts-for-library-staff/#more-3435">Read more<span class="screen-reader-text">Community Artifacts for Library Staff</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2017/08/29/community-artifacts-for-library-staff/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

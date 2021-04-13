@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Welcome, Anna VanderJagt!	</title>
+	<atom:link href="/2018/10/14/welcome-anna-vanderjagt/feed/" rel="self" type="application/rss+xml" />
+	<link>/2018/10/14/welcome-anna-vanderjagt/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Tue, 16 Feb 2021 15:19:52 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: What does the User Experience Team do anyway? &#8211; Off the Shelf		</title>
+		<link>/2018/10/14/welcome-anna-vanderjagt/#comment-843</link>
+
+		<dc:creator><![CDATA[What does the User Experience Team do anyway? &#8211; Off the Shelf]]></dc:creator>
+		<pubDate>Mon, 26 Nov 2018 16:15:08 +0000</pubDate>
+		<guid isPermaLink="false">/?p=4473#comment-843</guid>
+
+					<description><![CDATA[[&#8230;] a pointed interest in service design. Our new Service Designer, Anna, started at the library a little over a month ago, and while she will focus on user research and design solutions, she will do it with an eye toward [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] a pointed interest in service design. Our new Service Designer, Anna, started at the library a little over a month ago, and while she will focus on user research and design solutions, she will do it with an eye toward [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

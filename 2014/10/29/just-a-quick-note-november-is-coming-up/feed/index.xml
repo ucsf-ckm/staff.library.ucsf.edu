@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Just a quick note November is coming up&#8230;	</title>
+	<atom:link href="/2014/10/29/just-a-quick-note-november-is-coming-up/feed/" rel="self" type="application/rss+xml" />
+	<link>/2014/10/29/just-a-quick-note-november-is-coming-up/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Fri, 07 Nov 2014 23:14:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Richard Trott		</title>
+		<link>/2014/10/29/just-a-quick-note-november-is-coming-up/#comment-356</link>
+
+		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
+		<pubDate>Fri, 07 Nov 2014 23:14:00 +0000</pubDate>
+		<guid isPermaLink="false">/2014/10/29/just-a-quick-note-november-is-coming-up/#comment-356</guid>
+
+					<description><![CDATA[Erik Ellestad is doing Movember too! Anyone else in the Library?]]></description>
+			<content:encoded><![CDATA[<p>Erik Ellestad is doing Movember too! Anyone else in the Library?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

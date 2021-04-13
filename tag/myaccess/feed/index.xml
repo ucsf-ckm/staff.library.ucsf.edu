@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>myaccess &#8211; Off the Shelf</title>
+	<atom:link href="/tag/myaccess/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Wed, 06 Apr 2016 17:48:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>myaccess &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>MyAccess for room reservations and classes</title>
+		<link>/2016/04/06/myaccess-for-room-reservations-and-classes/</link>
+					<comments>/2016/04/06/myaccess-for-room-reservations-and-classes/#comments</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Wed, 06 Apr 2016 17:44:25 +0000</pubDate>
+				<category><![CDATA[authentication]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[myaccess]]></category>
+		<guid isPermaLink="false">/?p=2110</guid>
+
+					<description><![CDATA[Big news! For all our services from Springshare, (e.g. LibCal room reservations and library classes) we now have the option of turning on authentication via MyAccess. In the past this was not possible, and users reserved with an email address, but there was no way to truly enforce access to areas ... <p class="read-more-container"><a title="MyAccess for room reservations and classes" class="read-more button" href="/2016/04/06/myaccess-for-room-reservations-and-classes/#more-2110">Read more<span class="screen-reader-text">MyAccess for room reservations and classes</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2016/04/06/myaccess-for-room-reservations-and-classes/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bookmarklet for EZproxy authentication</title>
+		<link>/2014/03/27/bookmarklet-for-ezproxy-authentication/</link>
+					<comments>/2014/03/27/bookmarklet-for-ezproxy-authentication/#respond</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Thu, 27 Mar 2014 17:48:18 +0000</pubDate>
+				<category><![CDATA[authentication]]></category>
+		<category><![CDATA[eresources]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[ezproxy]]></category>
+		<category><![CDATA[myaccess]]></category>
+		<guid isPermaLink="false">/?p=899</guid>
+
+					<description><![CDATA[It&#8217;s been several months now, but consider this a reminder that it is no longer necessary to be on VPN in order to use library resources (e.g. articles, ebooks, etc.) The library is using a service called EZproxy to make these things available to users with only their MyAccess credentials. ... <p class="read-more-container"><a title="Bookmarklet for EZproxy authentication" class="read-more button" href="/2014/03/27/bookmarklet-for-ezproxy-authentication/#more-899">Read more<span class="screen-reader-text">Bookmarklet for EZproxy authentication</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2014/03/27/bookmarklet-for-ezproxy-authentication/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

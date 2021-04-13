@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Article &#8211; Off the Shelf</title>
+	<atom:link href="/tag/article/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Thu, 05 Dec 2013 00:52:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Article &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Harold Varmus Interview in Science</title>
+		<link>/2013/12/04/harold-varmus-interview-in-science/</link>
+					<comments>/2013/12/04/harold-varmus-interview-in-science/#respond</comments>
+		
+		<dc:creator><![CDATA[Alan Daniel]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2013 00:52:15 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<category><![CDATA[Article]]></category>
+		<guid isPermaLink="false">/2013/12/04/harold-varmus-interview-in-science/</guid>
+
+					<description><![CDATA[Varmus’s Second Act Years after steering the National Institutes of Health into a 5-year budget doubling, the Nobel Prize–winning virologist is now helping the cancer institute deal with the aftermath http://www.cancer.gov/aboutnci/director/speeches/science_interview_2013]]></description>
+		
+					<wfw:commentRss>/2013/12/04/harold-varmus-interview-in-science/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

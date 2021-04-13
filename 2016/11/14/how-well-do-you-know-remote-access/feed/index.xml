@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: How Well Do You Know Remote Access?	</title>
+	<atom:link href="/2016/11/14/how-well-do-you-know-remote-access/feed/" rel="self" type="application/rss+xml" />
+	<link>/2016/11/14/how-well-do-you-know-remote-access/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Mon, 14 Nov 2016 23:27:18 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Andres Panado		</title>
+		<link>/2016/11/14/how-well-do-you-know-remote-access/#comment-627</link>
+
+		<dc:creator><![CDATA[Andres Panado]]></dc:creator>
+		<pubDate>Mon, 14 Nov 2016 23:27:18 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2626#comment-627</guid>
+
+					<description><![CDATA[Hi, Rich - there&#039;s definitely many users out there who believe that once you log in through myaccess, you would have full access to library electronic journals.  I know I have received such calls at the front desk (&quot;what do you mean? i&#039;m already logged in through MyAccess!  I need to log out again?&quot;).  Is it possible to modify our remote access webpage to let users know that going directly to myaccess.ucsf.edu FIRST is not the proper method of access?  Thanks, Andy]]></description>
+			<content:encoded><![CDATA[<p>Hi, Rich &#8211; there&#8217;s definitely many users out there who believe that once you log in through myaccess, you would have full access to library electronic journals.  I know I have received such calls at the front desk (&#8220;what do you mean? i&#8217;m already logged in through MyAccess!  I need to log out again?&#8221;).  Is it possible to modify our remote access webpage to let users know that going directly to myaccess.ucsf.edu FIRST is not the proper method of access?  Thanks, Andy</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Richard Trott		</title>
+		<link>/2016/11/14/how-well-do-you-know-remote-access/#comment-626</link>
+
+		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
+		<pubDate>Mon, 14 Nov 2016 19:01:19 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2626#comment-626</guid>
+
+					<description><![CDATA[Ariel: Yes, the bookmarklet is the best option in this situation, and finding it via the library website is a second option.]]></description>
+			<content:encoded><![CDATA[<p>Ariel: Yes, the bookmarklet is the best option in this situation, and finding it via the library website is a second option.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ariel Deardorff		</title>
+		<link>/2016/11/14/how-well-do-you-know-remote-access/#comment-625</link>
+
+		<dc:creator><![CDATA[Ariel Deardorff]]></dc:creator>
+		<pubDate>Mon, 14 Nov 2016 18:39:11 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2626#comment-625</guid>
+
+					<description><![CDATA[Great post Rich! So just to be sure I am on the same page the faculty member should either:
+
+
+reload the page through the EZproxy bookmarklet (https://www.library.ucsf.edu/services/browsertools)
+
+
+
+or 
+
+navigate to the article via the library website
+
+
+
+
+Right?]]></description>
+			<content:encoded><![CDATA[<p>Great post Rich! So just to be sure I am on the same page the faculty member should either:</p>
+<p>reload the page through the EZproxy bookmarklet (<a href="https://www.library.ucsf.edu/services/browsertools" rel="nofollow ugc">https://www.library.ucsf.edu/services/browsertools</a>)</p>
+<p>or </p>
+<p>navigate to the article via the library website</p>
+<p>Right?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

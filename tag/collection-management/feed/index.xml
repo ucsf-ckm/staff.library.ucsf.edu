@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Collection Management &#8211; Off the Shelf</title>
+	<atom:link href="/tag/collection-management/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Thu, 07 Nov 2019 19:18:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Collection Management &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Electronic Resources Specialist position open</title>
+		<link>/2019/11/07/electronic-resources-specialist-position-open/</link>
+					<comments>/2019/11/07/electronic-resources-specialist-position-open/#respond</comments>
+		
+		<dc:creator><![CDATA[Susan Boone]]></dc:creator>
+		<pubDate>Thu, 07 Nov 2019 19:18:32 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<category><![CDATA[Collection Management]]></category>
+		<category><![CDATA[jobs]]></category>
+		<guid isPermaLink="false">/?p=5287</guid>
+
+					<description><![CDATA[Collection Management has a full-time, one year Electronic Resources Specialist position open. This position will maintain timely and accurate representation of electronic resources&#160;access points in the integrated library system, discovery tool, link resolver, and A to Z list, and collect online resource usage data.&#160; The posting is here:&#160;https://tinyurl.com/y52c642m &#160; If ... <p class="read-more-container"><a title="Electronic Resources Specialist position open" class="read-more button" href="/2019/11/07/electronic-resources-specialist-position-open/#more-5287">Read more<span class="screen-reader-text">Electronic Resources Specialist position open</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2019/11/07/electronic-resources-specialist-position-open/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SPOT Award : Alan Daniel</title>
+		<link>/2015/10/09/spot-award-alan-daniel/</link>
+					<comments>/2015/10/09/spot-award-alan-daniel/#comments</comments>
+		
+		<dc:creator><![CDATA[Susan Boone]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2015 20:52:15 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<category><![CDATA[access]]></category>
+		<category><![CDATA[Alan Daniel]]></category>
+		<category><![CDATA[Collection Management]]></category>
+		<category><![CDATA[spot awards]]></category>
+		<guid isPermaLink="false">/2015/10/09/spot-award-alan-daniel/</guid>
+
+					<description><![CDATA[Managing user access is a multi-faceted set of tasks. Authenticating remote access has several twists to it. Recently, the Medical Center asked the Library to handle setting up the authentication for their access to UpToDate, a very popular and heavily used resource. The content provider gave a deadline of October ... <p class="read-more-container"><a title="SPOT Award : Alan Daniel" class="read-more button" href="/2015/10/09/spot-award-alan-daniel/#more-1830">Read more<span class="screen-reader-text">SPOT Award : Alan Daniel</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2015/10/09/spot-award-alan-daniel/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

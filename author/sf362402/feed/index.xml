@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Jason Hedrick &#8211; Off the Shelf</title>
+	<atom:link href="/author/sf362402/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Mon, 31 Jul 2017 23:33:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Jason Hedrick &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Dessertpalooza!</title>
+		<link>/2017/07/31/dessertpalooza/</link>
+					<comments>/2017/07/31/dessertpalooza/#comments</comments>
+		
+		<dc:creator><![CDATA[Jason Hedrick]]></dc:creator>
+		<pubDate>Mon, 31 Jul 2017 23:33:13 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<guid isPermaLink="false">/?p=3374</guid>
+
+					<description><![CDATA[UCSF Library celebrates Jim Munson&#8217;s tenure as &#8216;Interim Non-UL&#8217; AND his 30th Anniversary with &#8216;Dessertpalooza&#8217; extravaganza! Thank you, Jim! &#160;]]></description>
+		
+					<wfw:commentRss>/2017/07/31/dessertpalooza/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>UCSF Library&#8217;s Caffé Central in the News!</title>
+		<link>/2015/10/30/ucsf-librarys-caffe-central-in-the-news/</link>
+					<comments>/2015/10/30/ucsf-librarys-caffe-central-in-the-news/#comments</comments>
+		
+		<dc:creator><![CDATA[Jason Hedrick]]></dc:creator>
+		<pubDate>Fri, 30 Oct 2015 22:06:08 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<guid isPermaLink="false">/?p=1973</guid>
+
+					<description><![CDATA[I&#8217;ve worked in the library for a while now, and if you&#8217;ve ever talked to me outside of my cubicle, chances are pretty good that I was probably eating or drinking something while we were conversing with each other&#8230; If I was eating, we were probably at lunch together somewhere ... <p class="read-more-container"><a title="UCSF Library&#8217;s Caffé Central in the News!" class="read-more button" href="/2015/10/30/ucsf-librarys-caffe-central-in-the-news/#more-1973">Read more<span class="screen-reader-text">UCSF Library&#8217;s Caffé Central in the News!</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2015/10/30/ucsf-librarys-caffe-central-in-the-news/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

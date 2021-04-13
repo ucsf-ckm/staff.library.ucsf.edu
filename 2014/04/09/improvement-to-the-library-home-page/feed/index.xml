@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Improvement to the Library Home Page	</title>
+	<atom:link href="/2014/04/09/improvement-to-the-library-home-page/feed/" rel="self" type="application/rss+xml" />
+	<link>/2014/04/09/improvement-to-the-library-home-page/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Wed, 30 Apr 2014 18:07:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Leslie Kleinberg		</title>
+		<link>/2014/04/09/improvement-to-the-library-home-page/#comment-226</link>
+
+		<dc:creator><![CDATA[Leslie Kleinberg]]></dc:creator>
+		<pubDate>Mon, 14 Apr 2014 17:07:14 +0000</pubDate>
+		<guid isPermaLink="false">/?p=921#comment-226</guid>
+
+					<description><![CDATA[Looks really good!]]></description>
+			<content:encoded><![CDATA[<p>Looks really good!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Gail Persily		</title>
+		<link>/2014/04/09/improvement-to-the-library-home-page/#comment-223</link>
+
+		<dc:creator><![CDATA[Gail Persily]]></dc:creator>
+		<pubDate>Fri, 11 Apr 2014 16:18:58 +0000</pubDate>
+		<guid isPermaLink="false">/?p=921#comment-223</guid>
+
+					<description><![CDATA[I love the new Popular Links block!]]></description>
+			<content:encoded><![CDATA[<p>I love the new Popular Links block!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Megan Laurance		</title>
+		<link>/2014/04/09/improvement-to-the-library-home-page/#comment-222</link>
+
+		<dc:creator><![CDATA[Megan Laurance]]></dc:creator>
+		<pubDate>Wed, 09 Apr 2014 23:48:52 +0000</pubDate>
+		<guid isPermaLink="false">/?p=921#comment-222</guid>
+
+					<description><![CDATA[Looks great!  Love the quick turnaround from feedback to implementation too!]]></description>
+			<content:encoded><![CDATA[<p>Looks great!  Love the quick turnaround from feedback to implementation too!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>events &#8211; Off the Shelf</title>
+	<atom:link href="/tag/events/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Thu, 29 Mar 2018 17:00:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>events &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Library Green Team Updates</title>
+		<link>/2018/03/29/library-green-team-updates/</link>
+					<comments>/2018/03/29/library-green-team-updates/#respond</comments>
+		
+		<dc:creator><![CDATA[Sean Mcclelland]]></dc:creator>
+		<pubDate>Thu, 29 Mar 2018 15:58:47 +0000</pubDate>
+				<category><![CDATA[community]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[staff general]]></category>
+		<category><![CDATA[committees]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[events]]></category>
+		<category><![CDATA[fun]]></category>
+		<category><![CDATA[sustainability]]></category>
+		<category><![CDATA[update]]></category>
+		<guid isPermaLink="false">/?p=4091</guid>
+
+					<description><![CDATA[Over the past few months, the Library Green Team has been gaining momentum. Our first meeting was back in April 2017, and during these twelve months we have developed an official charge, elected a core membership group, and completed a number of positive initiatives for the Library. We have also identified goals for the second quarter ... <p class="read-more-container"><a title="Library Green Team Updates" class="read-more button" href="/2018/03/29/library-green-team-updates/#more-4091">Read more<span class="screen-reader-text">Library Green Team Updates</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2018/03/29/library-green-team-updates/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Webinar: Keyword Search = &#8220;Improve Discovery Systems&#8221;</title>
+		<link>/2014/10/17/webinar-keyword-search-improve-discovery-systems/</link>
+					<comments>/2014/10/17/webinar-keyword-search-improve-discovery-systems/#comments</comments>
+		
+		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
+		<pubDate>Fri, 17 Oct 2014 22:01:00 +0000</pubDate>
+				<category><![CDATA[eresources]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[web]]></category>
+		<category><![CDATA[events]]></category>
+		<category><![CDATA[future]]></category>
+		<category><![CDATA[webinar]]></category>
+		<guid isPermaLink="false">/?p=1274</guid>
+
+					<description><![CDATA[If you&#8217;re interested in the National Information Standards Organization webinar below, come to room 119 on November 12 at 10AM to watch it! The webinar is scheduled to last 90 minutes. Please RSVP by commenting here. Thanks! NISO Webinar: Keyword Search = &#8220;Improve Discovery Systems&#8221; The &#8220;single search box&#8221; approach ... <p class="read-more-container"><a title="Webinar: Keyword Search = &#8220;Improve Discovery Systems&#8221;" class="read-more button" href="/2014/10/17/webinar-keyword-search-improve-discovery-systems/#more-1274">Read more<span class="screen-reader-text">Webinar: Keyword Search = &#8220;Improve Discovery Systems&#8221;</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2014/10/17/webinar-keyword-search-improve-discovery-systems/feed/</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sharecase Highlights</title>
+		<link>/2012/10/16/sharecase-highlights/</link>
+					<comments>/2012/10/16/sharecase-highlights/#comments</comments>
+		
+		<dc:creator><![CDATA[Margaret Hughes]]></dc:creator>
+		<pubDate>Tue, 16 Oct 2012 22:54:03 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<category><![CDATA[events]]></category>
+		<category><![CDATA[mission bay]]></category>
+		<category><![CDATA[staff development]]></category>
+		<category><![CDATA[technology]]></category>
+		<guid isPermaLink="false">/?p=411</guid>
+
+					<description><![CDATA[UCSF held its first Sharecase event last Friday&#8211;a one-day conference event to showcase the variety of IT at UCSF and the innovative ways it’s being used. The aspect of Sharecase that I appreciated the most, as a new UCSF employee, was the glimpse into the huge range of activities, technologies, ... <p class="read-more-container"><a title="Sharecase Highlights" class="read-more button" href="/2012/10/16/sharecase-highlights/#more-411">Read more<span class="screen-reader-text">Sharecase Highlights</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2012/10/16/sharecase-highlights/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>I have a painting in the upcoming 2nd&#8230;</title>
+		<link>/2012/05/09/i-have-a-painting-in-the-upcoming-2nd/</link>
+					<comments>/2012/05/09/i-have-a-painting-in-the-upcoming-2nd/#comments</comments>
+		
+		<dc:creator><![CDATA[Alan Daniel]]></dc:creator>
+		<pubDate>Thu, 10 May 2012 01:26:56 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<category><![CDATA[accomplishments]]></category>
+		<category><![CDATA[events]]></category>
+		<category><![CDATA[staff]]></category>
+		<guid isPermaLink="false">/2012/05/09/i-have-a-painting-in-the-upcoming-2nd/</guid>
+
+					<description><![CDATA[I have a painting in the upcoming, 2nd CSU Stanislaus Biennial Alumni Art Show, at JAY JAY Gallery, Sacramento. Show runs May 12 &#8211; May 26. Reception, May 12 at 5:30PM. Xmas Kat #87 (9&#8243;x12&#8243; Acrylic on Canvas)]]></description>
+		
+					<wfw:commentRss>/2012/05/09/i-have-a-painting-in-the-upcoming-2nd/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

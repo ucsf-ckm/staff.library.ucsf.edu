@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: New Books in the Popular Reading Collection	</title>
+	<atom:link href="/2013/07/10/new-books-in-the-popular-reading-collection/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/07/10/new-books-in-the-popular-reading-collection/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Wed, 10 Jul 2013 22:12:16 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Michele Mizejewski		</title>
+		<link>/2013/07/10/new-books-in-the-popular-reading-collection/#comment-153</link>
+
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Wed, 10 Jul 2013 22:12:16 +0000</pubDate>
+		<guid isPermaLink="false">/2013/07/10/new-books-in-the-popular-reading-collection/#comment-153</guid>
+
+					<description><![CDATA[See them here -- some even have previews. http://ucsfcat.library.ucsf.edu/search~S0?/ftlist^bib328%2C1%2C0%2C8/mode=2]]></description>
+			<content:encoded><![CDATA[<p>See them here &#8212; some even have previews. <a href="http://ucsfcat.library.ucsf.edu/search~S0?/ftlist" rel="nofollow ugc">http://ucsfcat.library.ucsf.edu/search~S0?/ftlist</a>^bib328%2C1%2C0%2C8/mode=2</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

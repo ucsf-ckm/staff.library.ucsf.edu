@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>F1000 &#8211; Off the Shelf</title>
+	<atom:link href="/tag/f1000/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Fri, 17 Apr 2015 19:30:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>F1000 &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>F1000 Authoring Tools</title>
+		<link>/2015/03/25/f1000-authoring-tools/</link>
+					<comments>/2015/03/25/f1000-authoring-tools/#respond</comments>
+		
+		<dc:creator><![CDATA[Alan Daniel]]></dc:creator>
+		<pubDate>Wed, 25 Mar 2015 23:16:40 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<category><![CDATA[F1000]]></category>
+		<guid isPermaLink="false">/2015/03/25/f1000-authoring-tools/</guid>
+
+					<description><![CDATA[As some of you may recall during Daniel Marovitz&#8217;s visit to the library last year, he mentioned F1000 was developing authoring software. Vitez Tracz in Library Journal explains the software is ready to leave beta with an anticipated May 2015 release. LJ Article: http://reviews.libraryjournal.com/2015/03/reference/f1000s-vitek-tracz-redefining-scientific-communication/ F1000 Beta: http://f1000.com/beta Webinar &#38; Videos ... <p class="read-more-container"><a title="F1000 Authoring Tools" class="read-more button" href="/2015/03/25/f1000-authoring-tools/#more-1490">Read more<span class="screen-reader-text">F1000 Authoring Tools</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2015/03/25/f1000-authoring-tools/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>safety &#8211; Off the Shelf</title>
+	<atom:link href="/tag/safety/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Thu, 04 Jan 2018 17:55:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>safety &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>A Conversation About Safety &#038; Security with UCSF Police</title>
+		<link>/2018/01/04/a-conversation-about-safety-security-with-ucsf-police/</link>
+					<comments>/2018/01/04/a-conversation-about-safety-security-with-ucsf-police/#respond</comments>
+		
+		<dc:creator><![CDATA[Kemi Amin]]></dc:creator>
+		<pubDate>Thu, 04 Jan 2018 17:55:29 +0000</pubDate>
+				<category><![CDATA[communications]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[staff general]]></category>
+		<category><![CDATA[safety]]></category>
+		<category><![CDATA[ucsf police]]></category>
+		<guid isPermaLink="false">/?p=3885</guid>
+
+					<description><![CDATA[To continue our conversation about safety and security at the Library, we have invited the UCSF Police to a morning discussion for Library staff and building tenants.    Join us on Friday, January 19 from 10 &#8211; 11 am at the Parnassus Library staff lounge (1st floor). We will have the ... <p class="read-more-container"><a title="A Conversation About Safety &#038; Security with UCSF Police" class="read-more button" href="/2018/01/04/a-conversation-about-safety-security-with-ucsf-police/#more-3885">Read more<span class="screen-reader-text">A Conversation About Safety &#038; Security with UCSF Police</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2018/01/04/a-conversation-about-safety-security-with-ucsf-police/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

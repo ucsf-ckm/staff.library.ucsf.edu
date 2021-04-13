@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Quincy Mccrary &#8211; Off the Shelf</title>
+	<atom:link href="/author/sf744206/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Fri, 21 Mar 2014 21:17:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Quincy Mccrary &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Who, Why and How: An Ethnography of the UCSF Library Community.</title>
+		<link>/2014/03/21/who-why-and-how-an-ethnography-of-the-ucsf-library-community/</link>
+					<comments>/2014/03/21/who-why-and-how-an-ethnography-of-the-ucsf-library-community/#comments</comments>
+		
+		<dc:creator><![CDATA[Quincy Mccrary]]></dc:creator>
+		<pubDate>Fri, 21 Mar 2014 21:17:32 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<category><![CDATA[Library Ethnography UCSF]]></category>
+		<guid isPermaLink="false">/2014/03/21/who-why-and-how-an-ethnography-of-the-ucsf-library-community/</guid>
+
+					<description><![CDATA[Ever wonder why all those people are wandering around the 3rd floor? Ever wonder just what that group of students is doing in that study room? Who really does use the special collections anyway? Well, we have chosen to live among the natives and learn their special quarks! The primary ... <p class="read-more-container"><a title="Who, Why and How: An Ethnography of the UCSF Library Community." class="read-more button" href="/2014/03/21/who-why-and-how-an-ethnography-of-the-ucsf-library-community/#more-894">Read more<span class="screen-reader-text">Who, Why and How: An Ethnography of the UCSF Library Community.</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2014/03/21/who-why-and-how-an-ethnography-of-the-ucsf-library-community/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

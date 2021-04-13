@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>eresources &#8211; Off the Shelf</title>
+	<atom:link href="/category/eresources/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Mon, 05 Oct 2020 17:13:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>eresources &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title></title>
+		<link>/2020/10/05/5850/</link>
+					<comments>/2020/10/05/5850/#respond</comments>
+		
+		<dc:creator><![CDATA[Joanna Kang]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2020 17:13:40 +0000</pubDate>
+				<category><![CDATA[eresources]]></category>
+		<category><![CDATA[staff general]]></category>
+		<guid isPermaLink="false">/?p=5850</guid>
+
+					<description><![CDATA[LinkedIn Learning: Now Available for UCSF LinkedIn Learning (previously Lynda.com) is now available to UCSF through a campus license. LinkedIn Learning has thousands of video courses covering technical, business, software, and creative topics. Courses include: Zoom Engagement for Meetings, Working From Home Strategies, Using Python for Automation, EndNote Essentials, and ... <p class="read-more-container"><a title="" class="read-more button" href="/2020/10/05/5850/#more-5850">Read more<span class="screen-reader-text"></span></a></p>]]></description>
+		
+					<wfw:commentRss>/2020/10/05/5850/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Summon: New Features</title>
+		<link>/2017/12/21/summon-new-features/</link>
+					<comments>/2017/12/21/summon-new-features/#comments</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Fri, 22 Dec 2017 01:09:51 +0000</pubDate>
+				<category><![CDATA[eresources]]></category>
+		<category><![CDATA[search]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[summon]]></category>
+		<guid isPermaLink="false">/?p=3812</guid>
+
+					<description><![CDATA[Summon has added a few new features since you all gave your initial feedback, and I wanted to call attention to them. Persistent Filters Like PubMed and many other search interfaces, Summon&#8217;s filters are persistent. That is, they stay set for all your searches until you change/clear them. For example, ... <p class="read-more-container"><a title="Summon: New Features" class="read-more button" href="/2017/12/21/summon-new-features/#more-3812">Read more<span class="screen-reader-text">Summon: New Features</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2017/12/21/summon-new-features/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Melvyl Now Works with EZproxy</title>
+		<link>/2017/06/12/melvyl-works-with-ezproxy/</link>
+					<comments>/2017/06/12/melvyl-works-with-ezproxy/#comments</comments>
+		
+		<dc:creator><![CDATA[Tab McDaniel]]></dc:creator>
+		<pubDate>Mon, 12 Jun 2017 20:56:23 +0000</pubDate>
+				<category><![CDATA[authentication]]></category>
+		<category><![CDATA[eresources]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">/?p=3108</guid>
+
+					<description><![CDATA[We partnered with CDL to fix a long-standing usability issue with with Melvyl. An off-network visitor might be prompted to sign in to UCSF Library before viewing search results. Unfortunately, following this prompt sent the user to our full text information page, instead of giving them an easy way to log in and ... <p class="read-more-container"><a title="Melvyl Now Works with EZproxy" class="read-more button" href="/2017/06/12/melvyl-works-with-ezproxy/#more-3108">Read more<span class="screen-reader-text">Melvyl Now Works with EZproxy</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2017/06/12/melvyl-works-with-ezproxy/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>For your edification&#8230;</title>
+		<link>/2015/01/16/for-your-edification/</link>
+					<comments>/2015/01/16/for-your-edification/#respond</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Fri, 16 Jan 2015 23:59:16 +0000</pubDate>
+				<category><![CDATA[eresources]]></category>
+		<category><![CDATA[web]]></category>
+		<category><![CDATA[learning]]></category>
+		<category><![CDATA[skills]]></category>
+		<guid isPermaLink="false">/?p=1408</guid>
+
+					<description><![CDATA[The Library has purchased the A Book Apart collection for staff use. These are short reads that will get you up to speed on topics related to web content and design strategy, as well as some more technical areas like CSS and web typography. You can find links to each ... <p class="read-more-container"><a title="For your edification&#8230;" class="read-more button" href="/2015/01/16/for-your-edification/#more-1408">Read more<span class="screen-reader-text">For your edification&#8230;</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2015/01/16/for-your-edification/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Webinar: Keyword Search = &#8220;Improve Discovery Systems&#8221;</title>
+		<link>/2014/10/17/webinar-keyword-search-improve-discovery-systems/</link>
+					<comments>/2014/10/17/webinar-keyword-search-improve-discovery-systems/#comments</comments>
+		
+		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
+		<pubDate>Fri, 17 Oct 2014 22:01:00 +0000</pubDate>
+				<category><![CDATA[eresources]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[web]]></category>
+		<category><![CDATA[events]]></category>
+		<category><![CDATA[future]]></category>
+		<category><![CDATA[webinar]]></category>
+		<guid isPermaLink="false">/?p=1274</guid>
+
+					<description><![CDATA[If you&#8217;re interested in the National Information Standards Organization webinar below, come to room 119 on November 12 at 10AM to watch it! The webinar is scheduled to last 90 minutes. Please RSVP by commenting here. Thanks! NISO Webinar: Keyword Search = &#8220;Improve Discovery Systems&#8221; The &#8220;single search box&#8221; approach ... <p class="read-more-container"><a title="Webinar: Keyword Search = &#8220;Improve Discovery Systems&#8221;" class="read-more button" href="/2014/10/17/webinar-keyword-search-improve-discovery-systems/#more-1274">Read more<span class="screen-reader-text">Webinar: Keyword Search = &#8220;Improve Discovery Systems&#8221;</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2014/10/17/webinar-keyword-search-improve-discovery-systems/feed/</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Improvement to the Library Home Page</title>
+		<link>/2014/04/09/improvement-to-the-library-home-page/</link>
+					<comments>/2014/04/09/improvement-to-the-library-home-page/#comments</comments>
+		
+		<dc:creator><![CDATA[Erin Hayes]]></dc:creator>
+		<pubDate>Wed, 09 Apr 2014 23:24:41 +0000</pubDate>
+				<category><![CDATA[eresources]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[web]]></category>
+		<category><![CDATA[streamline]]></category>
+		<category><![CDATA[userfocus]]></category>
+		<guid isPermaLink="false">/?p=921</guid>
+
+					<description><![CDATA[Notice anything different about library.ucsf.edu? In an effort to make our home page simpler and easier to use (see the Web Project Team’s guiding principles, posted in February), we’ve consolidated many of the links on the home page into one simple “top 10” list, which we’re calling Popular Links. Why ... <p class="read-more-container"><a title="Improvement to the Library Home Page" class="read-more button" href="/2014/04/09/improvement-to-the-library-home-page/#more-921">Read more<span class="screen-reader-text">Improvement to the Library Home Page</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2014/04/09/improvement-to-the-library-home-page/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bookmarklet for EZproxy authentication</title>
+		<link>/2014/03/27/bookmarklet-for-ezproxy-authentication/</link>
+					<comments>/2014/03/27/bookmarklet-for-ezproxy-authentication/#respond</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Thu, 27 Mar 2014 17:48:18 +0000</pubDate>
+				<category><![CDATA[authentication]]></category>
+		<category><![CDATA[eresources]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[ezproxy]]></category>
+		<category><![CDATA[myaccess]]></category>
+		<guid isPermaLink="false">/?p=899</guid>
+
+					<description><![CDATA[It&#8217;s been several months now, but consider this a reminder that it is no longer necessary to be on VPN in order to use library resources (e.g. articles, ebooks, etc.) The library is using a service called EZproxy to make these things available to users with only their MyAccess credentials. ... <p class="read-more-container"><a title="Bookmarklet for EZproxy authentication" class="read-more button" href="/2014/03/27/bookmarklet-for-ezproxy-authentication/#more-899">Read more<span class="screen-reader-text">Bookmarklet for EZproxy authentication</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2014/03/27/bookmarklet-for-ezproxy-authentication/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

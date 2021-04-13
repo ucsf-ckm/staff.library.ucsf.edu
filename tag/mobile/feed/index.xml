@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>mobile &#8211; Off the Shelf</title>
+	<atom:link href="/tag/mobile/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Mon, 10 Sep 2012 18:50:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>mobile &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Reserves Reading on iPad</title>
+		<link>/2012/09/10/reserves-reading-on-ipad/</link>
+					<comments>/2012/09/10/reserves-reading-on-ipad/#comments</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Mon, 10 Sep 2012 18:28:34 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<category><![CDATA[ebooks]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[reserves]]></category>
+		<category><![CDATA[servicedesk]]></category>
+		<guid isPermaLink="false">/?p=348</guid>
+
+					<description><![CDATA[Everyone should be aware that there are now 3 Inkling texts available (starting 9/11) as Course Reserves reading. Bates’ Guide to Physical Examination and History Taking Basic and Clinical Pharmacology Review of Medical Microbiology and Immunology They are housed on a single iPad that is kept behind the service desk ... <p class="read-more-container"><a title="Reserves Reading on iPad" class="read-more button" href="/2012/09/10/reserves-reading-on-ipad/#more-348">Read more<span class="screen-reader-text">Reserves Reading on iPad</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2012/09/10/reserves-reading-on-ipad/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Will this Android tablet make a dent in iPad dominance?</title>
+		<link>/2012/07/05/will-this-android-tablet-make-a-dent-in-ipad-dominance/</link>
+					<comments>/2012/07/05/will-this-android-tablet-make-a-dent-in-ipad-dominance/#comments</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Thu, 05 Jul 2012 23:52:21 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<category><![CDATA[mobile]]></category>
+		<guid isPermaLink="false">/?p=303</guid>
+
+					<description><![CDATA[Google recently announced a new seven inch tablet that might make some waves. The Nexus 7 runs Android Jellybean and offers a lot for its $200 price tag.  If you&#8217;re shopping for a lower cost tablet, this may be the one you&#8217;ve been waiting for. CNN Tech had mostly good ... <p class="read-more-container"><a title="Will this Android tablet make a dent in iPad dominance?" class="read-more button" href="/2012/07/05/will-this-android-tablet-make-a-dent-in-ipad-dominance/#more-303">Read more<span class="screen-reader-text">Will this Android tablet make a dent in iPad dominance?</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2012/07/05/will-this-android-tablet-make-a-dent-in-ipad-dominance/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Podcasts, anyone?</title>
+		<link>/2012/05/29/podcasts-anyone/</link>
+					<comments>/2012/05/29/podcasts-anyone/#respond</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Tue, 29 May 2012 20:32:20 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[tips and tricks]]></category>
+		<guid isPermaLink="false">/2012/05/29/podcasts-anyone/</guid>
+
+					<description><![CDATA[Check out the newest Mobilized post, “Podcast Managers for iOS.” If you enjoy podcasts and the extremely varied and often free content they offer, Brian has some great tips and app suggestions. Podcast Managers for iOS]]></description>
+		
+					<wfw:commentRss>/2012/05/29/podcasts-anyone/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

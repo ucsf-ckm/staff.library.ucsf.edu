@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Sarah McClung &#8211; Off the Shelf</title>
+	<atom:link href="/author/sf032345/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Thu, 21 Sep 2017 23:50:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Sarah McClung &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Call for Dishware Donations</title>
+		<link>/2017/09/21/call-for-dishware-donations/</link>
+					<comments>/2017/09/21/call-for-dishware-donations/#comments</comments>
+		
+		<dc:creator><![CDATA[Sarah McClung]]></dc:creator>
+		<pubDate>Thu, 21 Sep 2017 23:30:21 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<guid isPermaLink="false">/?p=3622</guid>
+
+					<description><![CDATA[The Library Green Team would like the piles of trash from group events to be a thing of the past. With your help, we can make it a reality! Using recyclable and compostable items and disposing of them properly is a great start, but we&#8217;d like to reduce the Library&#8217;s ... <p class="read-more-container"><a title="Call for Dishware Donations" class="read-more button" href="/2017/09/21/call-for-dishware-donations/#more-3622">Read more<span class="screen-reader-text">Call for Dishware Donations</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2017/09/21/call-for-dishware-donations/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Welcome to Off the Shelf &#8211; the UCSF Library staff blog!	</title>
+	<atom:link href="/2012/05/08/welcome-to-off-the-shelf-the-ucsf-library-staff-blog/feed/" rel="self" type="application/rss+xml" />
+	<link>/2012/05/08/welcome-to-off-the-shelf-the-ucsf-library-staff-blog/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Tue, 08 May 2012 14:52:41 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Michele Mizejewski		</title>
+		<link>/2012/05/08/welcome-to-off-the-shelf-the-ucsf-library-staff-blog/#comment-16</link>
+
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Tue, 08 May 2012 14:52:41 +0000</pubDate>
+		<guid isPermaLink="false">/2012/05/03/welcome-to-off-the-shelf-the-ucsf-library-staff-blog/#comment-16</guid>
+
+					<description><![CDATA[Be sure to check out &lt;b&gt;About: Tips for Posting&lt;/b&gt; in the right column. It covers how to log in the first time and how to post.]]></description>
+			<content:encoded><![CDATA[<p>Be sure to check out <b>About: Tips for Posting</b> in the right column. It covers how to log in the first time and how to post.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

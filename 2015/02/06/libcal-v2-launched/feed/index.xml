@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: LibCal v2 Launched!	</title>
+	<atom:link href="/2015/02/06/libcal-v2-launched/feed/" rel="self" type="application/rss+xml" />
+	<link>/2015/02/06/libcal-v2-launched/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Fri, 06 Feb 2015 19:47:54 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Richard Trott		</title>
+		<link>/2015/02/06/libcal-v2-launched/#comment-408</link>
+
+		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
+		<pubDate>Fri, 06 Feb 2015 19:47:54 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1452#comment-408</guid>
+
+					<description><![CDATA[Great job getting it done and heading off the bad kinds of surprises that sometimes come with these things, Michele!]]></description>
+			<content:encoded><![CDATA[<p>Great job getting it done and heading off the bad kinds of surprises that sometimes come with these things, Michele!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

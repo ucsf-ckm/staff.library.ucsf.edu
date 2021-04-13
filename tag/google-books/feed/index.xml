@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Google Books &#8211; Off the Shelf</title>
+	<atom:link href="/tag/google-books/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Wed, 19 Dec 2012 20:30:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Google Books &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Spot Awards: Yay Bea and Alan!</title>
+		<link>/2012/12/19/spot-awards-yay-bea-and-alan/</link>
+					<comments>/2012/12/19/spot-awards-yay-bea-and-alan/#comments</comments>
+		
+		<dc:creator><![CDATA[Anneliese Taylor]]></dc:creator>
+		<pubDate>Wed, 19 Dec 2012 20:30:14 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<category><![CDATA[archives]]></category>
+		<category><![CDATA[digitization]]></category>
+		<category><![CDATA[Google Books]]></category>
+		<category><![CDATA[spot awards]]></category>
+		<guid isPermaLink="false">/2012/12/19/spot-awards-yay-bea-and-alan/</guid>
+
+					<description><![CDATA[Bea Mallek and Alan Daniel were both given Spot Awards this week for their work on the Google Digitization project. Polina nominated Bea and Alan in recognition of their work organizing, cataloging, and preparing for shipment university publications being digitized by Google. The work had to be done on a ... <p class="read-more-container"><a title="Spot Awards: Yay Bea and Alan!" class="read-more button" href="/2012/12/19/spot-awards-yay-bea-and-alan/#more-455">Read more<span class="screen-reader-text">Spot Awards: Yay Bea and Alan!</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2012/12/19/spot-awards-yay-bea-and-alan/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

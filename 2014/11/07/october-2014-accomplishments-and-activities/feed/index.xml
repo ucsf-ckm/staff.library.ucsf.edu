@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: October 2014 Accomplishments and Activities	</title>
+	<atom:link href="/2014/11/07/october-2014-accomplishments-and-activities/feed/" rel="self" type="application/rss+xml" />
+	<link>/2014/11/07/october-2014-accomplishments-and-activities/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Thu, 21 Mar 2019 17:41:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Michele Mizejewski		</title>
+		<link>/2014/11/07/october-2014-accomplishments-and-activities/#comment-358</link>
+
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Fri, 07 Nov 2014 23:43:25 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1308#comment-358</guid>
+
+					<description><![CDATA[Tip: if you don&#039;t see your name in Staff Profiles, it means you&#039;ve never logged in to post or comment. Log in once and you will magically appear in the list.]]></description>
+			<content:encoded><![CDATA[<p>Tip: if you don&#8217;t see your name in Staff Profiles, it means you&#8217;ve never logged in to post or comment. Log in once and you will magically appear in the list.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

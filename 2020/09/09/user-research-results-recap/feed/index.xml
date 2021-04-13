@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: User Research Results Recap	</title>
+	<atom:link href="/2020/09/09/user-research-results-recap/feed/" rel="self" type="application/rss+xml" />
+	<link>/2020/09/09/user-research-results-recap/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Wed, 16 Sep 2020 20:38:46 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: User Research Results Part 1: Global Search and Site Search &#8211; Off the Shelf		</title>
+		<link>/2020/09/09/user-research-results-recap/#comment-900</link>
+
+		<dc:creator><![CDATA[User Research Results Part 1: Global Search and Site Search &#8211; Off the Shelf]]></dc:creator>
+		<pubDate>Wed, 16 Sep 2020 20:38:46 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5705#comment-900</guid>
+
+					<description><![CDATA[[&#8230;] In June and July 2020, the UX Team interviewed a representative set of users from the UCSF community as part of a larger user research initiative. Testing focused on learning more about users&#8217; mental models and behaviors through common user testing methods. For a summary of findings see User Research Recap. [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] In June and July 2020, the UX Team interviewed a representative set of users from the UCSF community as part of a larger user research initiative. Testing focused on learning more about users&#8217; mental models and behaviors through common user testing methods. For a summary of findings see User Research Recap. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>collaboration &#8211; Off the Shelf</title>
+	<atom:link href="/tag/collaboration/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Mon, 12 Mar 2018 19:17:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>collaboration &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cross Unit Collaboration</title>
+		<link>/2018/03/09/cross-unit-collaboration/</link>
+					<comments>/2018/03/09/cross-unit-collaboration/#respond</comments>
+		
+		<dc:creator><![CDATA[Kirk Hudson]]></dc:creator>
+		<pubDate>Fri, 09 Mar 2018 19:59:13 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<category><![CDATA[collaboration]]></category>
+		<category><![CDATA[customer service]]></category>
+		<category><![CDATA[hr]]></category>
+		<guid isPermaLink="false">/?p=4005</guid>
+
+					<description><![CDATA[Starting Monday, 3/12/2018 and going through Friday, 6/15/2018, Zach Silveira will be providing support for electronic resources access ZenDesk tickets, and updating documentation for such. During this time Coll. Man. will continue their process of developing a long term solution. If you have any questions about this support collaboration, please ... <p class="read-more-container"><a title="Cross Unit Collaboration" class="read-more button" href="/2018/03/09/cross-unit-collaboration/#more-4005">Read more<span class="screen-reader-text">Cross Unit Collaboration</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2018/03/09/cross-unit-collaboration/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

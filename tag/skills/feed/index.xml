@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>skills &#8211; Off the Shelf</title>
+	<atom:link href="/tag/skills/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Fri, 16 Jan 2015 23:59:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>skills &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>For your edification&#8230;</title>
+		<link>/2015/01/16/for-your-edification/</link>
+					<comments>/2015/01/16/for-your-edification/#respond</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Fri, 16 Jan 2015 23:59:16 +0000</pubDate>
+				<category><![CDATA[eresources]]></category>
+		<category><![CDATA[web]]></category>
+		<category><![CDATA[learning]]></category>
+		<category><![CDATA[skills]]></category>
+		<guid isPermaLink="false">/?p=1408</guid>
+
+					<description><![CDATA[The Library has purchased the A Book Apart collection for staff use. These are short reads that will get you up to speed on topics related to web content and design strategy, as well as some more technical areas like CSS and web typography. You can find links to each ... <p class="read-more-container"><a title="For your edification&#8230;" class="read-more button" href="/2015/01/16/for-your-edification/#more-1408">Read more<span class="screen-reader-text">For your edification&#8230;</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2015/01/16/for-your-edification/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

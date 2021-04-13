@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>content &#8211; Off the Shelf</title>
+	<atom:link href="/tag/content/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Tue, 05 Jul 2016 17:11:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>content &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Database Redux</title>
+		<link>/2016/06/03/database-redux/</link>
+					<comments>/2016/06/03/database-redux/#respond</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Fri, 03 Jun 2016 21:30:59 +0000</pubDate>
+				<category><![CDATA[mobile]]></category>
+		<category><![CDATA[responsive]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[web]]></category>
+		<category><![CDATA[content]]></category>
+		<category><![CDATA[databases]]></category>
+		<guid isPermaLink="false">/?p=2235</guid>
+
+					<description><![CDATA[As some of you may be aware, the Web Projects Team is working to move the current library website off its old Drupal 6 platform and in the process, also improve user experience. One of the most important elements of the Library site is access to databases, so starting next ... <p class="read-more-container"><a title="Database Redux" class="read-more button" href="/2016/06/03/database-redux/#more-2235">Read more<span class="screen-reader-text">Database Redux</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2016/06/03/database-redux/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

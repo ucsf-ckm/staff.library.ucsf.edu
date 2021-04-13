@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Dessertpalooza!	</title>
+	<atom:link href="/2017/07/31/dessertpalooza/feed/" rel="self" type="application/rss+xml" />
+	<link>/2017/07/31/dessertpalooza/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Wed, 02 Aug 2017 23:35:39 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Mary Tahir		</title>
+		<link>/2017/07/31/dessertpalooza/#comment-691</link>
+
+		<dc:creator><![CDATA[Mary Tahir]]></dc:creator>
+		<pubDate>Wed, 02 Aug 2017 23:35:39 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3374#comment-691</guid>
+
+					<description><![CDATA[So sorry I missed this! The cake looks awesome]]></description>
+			<content:encoded><![CDATA[<p>So sorry I missed this! The cake looks awesome</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Sarah McClung		</title>
+		<link>/2017/07/31/dessertpalooza/#comment-688</link>
+
+		<dc:creator><![CDATA[Sarah McClung]]></dc:creator>
+		<pubDate>Tue, 01 Aug 2017 16:37:08 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3374#comment-688</guid>
+
+					<description><![CDATA[Congratulations, Jim and thanks for all the sugar! :-)]]></description>
+			<content:encoded><![CDATA[<p>Congratulations, Jim and thanks for all the sugar! 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Michele Mizejewski		</title>
+		<link>/2017/07/31/dessertpalooza/#comment-687</link>
+
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Tue, 01 Aug 2017 00:17:02 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3374#comment-687</guid>
+
+					<description><![CDATA[Yay Jim! That is soooome cake.]]></description>
+			<content:encoded><![CDATA[<p>Yay Jim! That is soooome cake.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Anneliese Taylor		</title>
+		<link>/2017/07/31/dessertpalooza/#comment-686</link>
+
+		<dc:creator><![CDATA[Anneliese Taylor]]></dc:creator>
+		<pubDate>Tue, 01 Aug 2017 00:04:06 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3374#comment-686</guid>
+
+					<description><![CDATA[Hooray for Jim! And thanks for all the treats, including the funnest (is that a word?) cake ever!]]></description>
+			<content:encoded><![CDATA[<p>Hooray for Jim! And thanks for all the treats, including the funnest (is that a word?) cake ever!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

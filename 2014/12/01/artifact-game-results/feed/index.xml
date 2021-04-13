@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Artifact Game Results	</title>
+	<atom:link href="/2014/12/01/artifact-game-results/feed/" rel="self" type="application/rss+xml" />
+	<link>/2014/12/01/artifact-game-results/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Mon, 01 Dec 2014 23:25:38 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Michele Mizejewski		</title>
+		<link>/2014/12/01/artifact-game-results/#comment-379</link>
+
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Mon, 01 Dec 2014 23:25:38 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1382#comment-379</guid>
+
+					<description><![CDATA[I loved the History of the library up to the coffee bar too :)]]></description>
+			<content:encoded><![CDATA[<p>I loved the History of the library up to the coffee bar too 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Liz Taylor		</title>
+		<link>/2014/12/01/artifact-game-results/#comment-378</link>
+
+		<dc:creator><![CDATA[Liz Taylor]]></dc:creator>
+		<pubDate>Mon, 01 Dec 2014 23:24:04 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1382#comment-378</guid>
+
+					<description><![CDATA[Thanks Kelsi, Polina, and Maggie! That was a really fun activity - great way to spruce up a Monday after the holiday break!]]></description>
+			<content:encoded><![CDATA[<p>Thanks Kelsi, Polina, and Maggie! That was a really fun activity &#8211; great way to spruce up a Monday after the holiday break!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

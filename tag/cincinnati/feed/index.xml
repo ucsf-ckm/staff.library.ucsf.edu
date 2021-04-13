@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Cincinnati &#8211; Off the Shelf</title>
+	<atom:link href="/tag/cincinnati/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Sat, 11 Jan 2014 02:24:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Cincinnati &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Here&#8217;s a selection of nice historic photos from&#8230;</title>
+		<link>/2014/01/10/heres-a-selection-of-nice-historic-photos-from/</link>
+					<comments>/2014/01/10/heres-a-selection-of-nice-historic-photos-from/#comments</comments>
+		
+		<dc:creator><![CDATA[Anneliese Taylor]]></dc:creator>
+		<pubDate>Sat, 11 Jan 2014 02:24:58 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<category><![CDATA[Cincinnati]]></category>
+		<category><![CDATA[libraries]]></category>
+		<category><![CDATA[library space]]></category>
+		<guid isPermaLink="false">/2014/01/10/heres-a-selection-of-nice-historic-photos-from/</guid>
+
+					<description><![CDATA[Here&#8217;s a selection of nice historic photos from the Public Library of Cincinnati &#38; Hamilton County, dating from the late 1800s and into the mid-1950s, right before the building was torn down:]]></description>
+		
+					<wfw:commentRss>/2014/01/10/heres-a-selection-of-nice-historic-photos-from/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

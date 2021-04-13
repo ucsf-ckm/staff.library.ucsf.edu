@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Welcome Ryan White!	</title>
+	<atom:link href="/2017/02/03/welcome-ryan-white/feed/" rel="self" type="application/rss+xml" />
+	<link>/2017/02/03/welcome-ryan-white/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Tue, 16 Feb 2021 15:20:32 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Anneliese Taylor		</title>
+		<link>/2017/02/03/welcome-ryan-white/#comment-640</link>
+
+		<dc:creator><![CDATA[Anneliese Taylor]]></dc:creator>
+		<pubDate>Fri, 03 Feb 2017 23:25:36 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2712#comment-640</guid>
+
+					<description><![CDATA[Welcome, Ryan!]]></description>
+			<content:encoded><![CDATA[<p>Welcome, Ryan!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Susan Boone		</title>
+		<link>/2017/02/03/welcome-ryan-white/#comment-638</link>
+
+		<dc:creator><![CDATA[Susan Boone]]></dc:creator>
+		<pubDate>Fri, 03 Feb 2017 23:09:15 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2712#comment-638</guid>
+
+					<description><![CDATA[Welcome to UCSF!]]></description>
+			<content:encoded><![CDATA[<p>Welcome to UCSF!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

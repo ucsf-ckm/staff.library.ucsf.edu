@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Megan Laurance &#8211; Off the Shelf</title>
+	<atom:link href="/author/sf420965/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Tue, 16 Feb 2021 15:21:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Megan Laurance &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Welcome, Alex Gow</title>
+		<link>/2013/06/10/welcome-alex-gow/</link>
+					<comments>/2013/06/10/welcome-alex-gow/#comments</comments>
+		
+		<dc:creator><![CDATA[Megan Laurance]]></dc:creator>
+		<pubDate>Mon, 10 Jun 2013 21:12:38 +0000</pubDate>
+				<category><![CDATA[new hires]]></category>
+		<category><![CDATA[staff general]]></category>
+		<guid isPermaLink="false">/?p=679</guid>
+
+					<description><![CDATA[Please join me in welcoming our summer intern Alex Gow to the Research Services group.   (Now that Alex is here I can officially refer to us as a group!) Alex will be working with me here at Parnassus and Mission Bay on a couple of projects.  The first is to ... <p class="read-more-container"><a title="Welcome, Alex Gow" class="read-more button" href="/2013/06/10/welcome-alex-gow/#more-679">Read more<span class="screen-reader-text">Welcome, Alex Gow</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2013/06/10/welcome-alex-gow/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

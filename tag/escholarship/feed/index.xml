@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>eScholarship &#8211; Off the Shelf</title>
+	<atom:link href="/tag/escholarship/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Fri, 16 Jun 2017 19:46:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>eScholarship &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>UCSF Library&#8217;s eScholarship Site</title>
+		<link>/2017/06/16/ucsf-librarys-escholarship-site/</link>
+					<comments>/2017/06/16/ucsf-librarys-escholarship-site/#comments</comments>
+		
+		<dc:creator><![CDATA[Anneliese Taylor]]></dc:creator>
+		<pubDate>Fri, 16 Jun 2017 19:46:26 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<category><![CDATA[eScholarship]]></category>
+		<category><![CDATA[library]]></category>
+		<category><![CDATA[open access]]></category>
+		<guid isPermaLink="false">/?p=3080</guid>
+
+					<description><![CDATA[The Library now has a departmental space on eScholarship, UC&#8217;s institutional repository. Departmental spaces &#8211; also called academic units or research units on eScholarship &#8211; are designed to showcase a unit&#8217;s scholarly output. All content in eScholarship is openly accessible to anyone, anywhere online, and is discoverable via search engines. ... <p class="read-more-container"><a title="UCSF Library&#8217;s eScholarship Site" class="read-more button" href="/2017/06/16/ucsf-librarys-escholarship-site/#more-3080">Read more<span class="screen-reader-text">UCSF Library&#8217;s eScholarship Site</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2017/06/16/ucsf-librarys-escholarship-site/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Share your Work on eScholarship &#8211; December 6 event</title>
+		<link>/2016/10/31/share-your-work-on-escholarship-december-6-event/</link>
+					<comments>/2016/10/31/share-your-work-on-escholarship-december-6-event/#respond</comments>
+		
+		<dc:creator><![CDATA[Anneliese Taylor]]></dc:creator>
+		<pubDate>Tue, 01 Nov 2016 01:15:06 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<category><![CDATA[eScholarship]]></category>
+		<category><![CDATA[open access]]></category>
+		<category><![CDATA[scholarly communication]]></category>
+		<guid isPermaLink="false">/?p=2568</guid>
+
+					<description><![CDATA[This event is for Library staff, at 10:00 am on December 6th: Have you been wanting to share your published works openly but haven’t gotten around to it? Don’t miss this opportunity to find out how to share your works on the University of California&#8217;s eScholarship platform from the experts! ... <p class="read-more-container"><a title="Share your Work on eScholarship &#8211; December 6 event" class="read-more button" href="/2016/10/31/share-your-work-on-escholarship-december-6-event/#more-2568">Read more<span class="screen-reader-text">Share your Work on eScholarship &#8211; December 6 event</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2016/10/31/share-your-work-on-escholarship-december-6-event/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

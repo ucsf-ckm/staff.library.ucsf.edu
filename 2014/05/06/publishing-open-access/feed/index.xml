@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Publishing &#038; Open Access	</title>
+	<atom:link href="/2014/05/06/publishing-open-access/feed/" rel="self" type="application/rss+xml" />
+	<link>/2014/05/06/publishing-open-access/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Thu, 08 May 2014 02:40:01 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Julia Kochi		</title>
+		<link>/2014/05/06/publishing-open-access/#comment-238</link>
+
+		<dc:creator><![CDATA[Julia Kochi]]></dc:creator>
+		<pubDate>Thu, 08 May 2014 02:40:01 +0000</pubDate>
+		<guid isPermaLink="false">/?p=961#comment-238</guid>
+
+					<description><![CDATA[Nice change!]]></description>
+			<content:encoded><![CDATA[<p>Nice change!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Leslie Kleinberg		</title>
+		<link>/2014/05/06/publishing-open-access/#comment-237</link>
+
+		<dc:creator><![CDATA[Leslie Kleinberg]]></dc:creator>
+		<pubDate>Wed, 07 May 2014 18:53:43 +0000</pubDate>
+		<guid isPermaLink="false">/?p=961#comment-237</guid>
+
+					<description><![CDATA[Nice!]]></description>
+			<content:encoded><![CDATA[<p>Nice!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Richard Trott		</title>
+		<link>/2014/05/06/publishing-open-access/#comment-236</link>
+
+		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
+		<pubDate>Tue, 06 May 2014 22:17:32 +0000</pubDate>
+		<guid isPermaLink="false">/?p=961#comment-236</guid>
+
+					<description><![CDATA[+1!]]></description>
+			<content:encoded><![CDATA[<p>+1!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>support &#8211; Off the Shelf</title>
+	<atom:link href="/category/support/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Tue, 20 Oct 2020 15:29:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>support &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Highlighting services during closure</title>
+		<link>/2020/10/19/highlighting-services-during-closure/</link>
+					<comments>/2020/10/19/highlighting-services-during-closure/#respond</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2020 15:21:38 +0000</pubDate>
+				<category><![CDATA[support]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">/?p=5858</guid>
+
+					<description><![CDATA[By default, the library already offers many services where the location of the user is not an obstacle. For example, we provide online access to many articles and ebooks. We also provide support and consultations via email, phone, or Zoom. In light of the lengthy buildings closure during the COVID-19 ... <p class="read-more-container"><a title="Highlighting services during closure" class="read-more button" href="/2020/10/19/highlighting-services-during-closure/#more-5858">Read more<span class="screen-reader-text">Highlighting services during closure</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2020/10/19/highlighting-services-during-closure/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Student IT Support expert page</title>
+		<link>/2019/11/18/student-it-support-expert-page/</link>
+					<comments>/2019/11/18/student-it-support-expert-page/#comments</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Mon, 18 Nov 2019 23:08:01 +0000</pubDate>
+				<category><![CDATA[support]]></category>
+		<category><![CDATA[user experience]]></category>
+		<guid isPermaLink="false">/?p=5305</guid>
+
+					<description><![CDATA[There&#8217;s another update to the ongoing project to emphasize human-centered service in the Library. The Tech Commons has always provided IT support to students, but it was listed as just one of several things offered in that space. After talking with the Help Desk staff about the kinds of questions ... <p class="read-more-container"><a title="Student IT Support expert page" class="read-more button" href="/2019/11/18/student-it-support-expert-page/#more-5305">Read more<span class="screen-reader-text">Student IT Support expert page</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2019/11/18/student-it-support-expert-page/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mobile apps: Improving the User Experience</title>
+		<link>/2018/12/17/mobile-apps-improving-the-user-experience/</link>
+					<comments>/2018/12/17/mobile-apps-improving-the-user-experience/#respond</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Mon, 17 Dec 2018 20:54:04 +0000</pubDate>
+				<category><![CDATA[accomplishments]]></category>
+		<category><![CDATA[service design]]></category>
+		<category><![CDATA[support]]></category>
+		<category><![CDATA[user experience]]></category>
+		<guid isPermaLink="false">/?p=4556</guid>
+
+					<description><![CDATA[As some of you are aware, not all of our databases and journals are available to library users as a mobile device app. Because mobile apps are more complicated to authenticate than the web version of the same content, some don’t work for institutional users (i.e. those who want to ... <p class="read-more-container"><a title="Mobile apps: Improving the User Experience" class="read-more button" href="/2018/12/17/mobile-apps-improving-the-user-experience/#more-4556">Read more<span class="screen-reader-text">Mobile apps: Improving the User Experience</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2018/12/17/mobile-apps-improving-the-user-experience/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Now Hiring: Makers Lab Technician</title>
+		<link>/2017/07/19/now-hiring-makers-lab-technician/</link>
+					<comments>/2017/07/19/now-hiring-makers-lab-technician/#respond</comments>
+		
+		<dc:creator><![CDATA[Dylan Romero]]></dc:creator>
+		<pubDate>Wed, 19 Jul 2017 18:09:07 +0000</pubDate>
+				<category><![CDATA[support]]></category>
+		<category><![CDATA[jobs]]></category>
+		<category><![CDATA[library]]></category>
+		<category><![CDATA[makers lab]]></category>
+		<category><![CDATA[new hire]]></category>
+		<category><![CDATA[tech support]]></category>
+		<category><![CDATA[technology]]></category>
+		<guid isPermaLink="false">/?p=3209</guid>
+
+					<description><![CDATA[The Library is hiring for a Makers Lab Technician position. If you know of anyone with experience in educational technology with an emphasis on emerging tech, design, or crafts, please encourage them to apply. The full-time position will provide technical support for the Makers Lab, guiding UCSF community members to ... <p class="read-more-container"><a title="Now Hiring: Makers Lab Technician" class="read-more button" href="/2017/07/19/now-hiring-makers-lab-technician/#more-3209">Read more<span class="screen-reader-text">Now Hiring: Makers Lab Technician</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2017/07/19/now-hiring-makers-lab-technician/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>On Meeting With Experts and Searching  for Library Services</title>
+		<link>/2016/06/01/on-meeting-with-experts-and-searching-for-library-services/</link>
+					<comments>/2016/06/01/on-meeting-with-experts-and-searching-for-library-services/#comments</comments>
+		
+		<dc:creator><![CDATA[Tab McDaniel]]></dc:creator>
+		<pubDate>Wed, 01 Jun 2016 17:01:02 +0000</pubDate>
+				<category><![CDATA[support]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">/?p=2208</guid>
+
+					<description><![CDATA[A staffer reached out to the web team to let us know they&#8217;d had a hard time finding out how to book a consultation with a librarian (or topic expert) at our web site. We know that a lot of our most crucial content isn&#8217;t very easily found, and the ... <p class="read-more-container"><a title="On Meeting With Experts and Searching  for Library Services" class="read-more button" href="/2016/06/01/on-meeting-with-experts-and-searching-for-library-services/#more-2208">Read more<span class="screen-reader-text">On Meeting With Experts and Searching  for Library Services</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2016/06/01/on-meeting-with-experts-and-searching-for-library-services/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Easier formatting in Zendesk</title>
+		<link>/2015/11/17/easier-formatting-in-zendesk/</link>
+					<comments>/2015/11/17/easier-formatting-in-zendesk/#comments</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2015 18:31:13 +0000</pubDate>
+				<category><![CDATA[support]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[zendesk]]></category>
+		<guid isPermaLink="false">/?p=2015</guid>
+
+					<description><![CDATA[For all you support agents, answering tickets just got a little easier. Zendesk now provides a basic formatting toolbar instead of using Markdown. This image highlights some features, but you will get a chance to use it on your next ticket.]]></description>
+		
+					<wfw:commentRss>/2015/11/17/easier-formatting-in-zendesk/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Zendesk is mobile too!</title>
+		<link>/2015/10/20/zendesk-is-mobile-too/</link>
+					<comments>/2015/10/20/zendesk-is-mobile-too/#respond</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2015 20:23:30 +0000</pubDate>
+				<category><![CDATA[mobile]]></category>
+		<category><![CDATA[responsive]]></category>
+		<category><![CDATA[support]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">/?p=1845</guid>
+
+					<description><![CDATA[We&#8217;ve been using ZenDesk as our support platform for a little while now, so I wanted to remind everyone that it&#8217;s also mobile friendly. Library users can easily contact us from a mobile phone or tablet — no app needed. They also have a chance to get their answer from ... <p class="read-more-container"><a title="Zendesk is mobile too!" class="read-more button" href="/2015/10/20/zendesk-is-mobile-too/#more-1845">Read more<span class="screen-reader-text">Zendesk is mobile too!</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2015/10/20/zendesk-is-mobile-too/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Zendesk: It&#8217;s official!</title>
+		<link>/2015/09/25/zendesk-its-official/</link>
+					<comments>/2015/09/25/zendesk-its-official/#comments</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2015 20:08:04 +0000</pubDate>
+				<category><![CDATA[support]]></category>
+		<category><![CDATA[user experience]]></category>
+		<guid isPermaLink="false">/?p=1802</guid>
+
+					<description><![CDATA[Our trial is coming to a close, and over the last week we&#8217;ve been gathering feedback from all support agents.  A clear majority gave Zendesk the thumbs up, so we will be making it our official support platform as of September 29! Some of our agents shared: It&#8217;s been great &#8211; ... <p class="read-more-container"><a title="Zendesk: It&#8217;s official!" class="read-more button" href="/2015/09/25/zendesk-its-official/#more-1802">Read more<span class="screen-reader-text">Zendesk: It&#8217;s official!</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2015/09/25/zendesk-its-official/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

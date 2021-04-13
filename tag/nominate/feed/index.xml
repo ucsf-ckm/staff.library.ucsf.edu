@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>nominate &#8211; Off the Shelf</title>
+	<atom:link href="/tag/nominate/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Wed, 22 Mar 2017 19:14:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>nominate &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nominate Co-workers for UCSF STAR Awards</title>
+		<link>/2017/03/17/nominate-co-workers-for-ucsf-star-awards/</link>
+					<comments>/2017/03/17/nominate-co-workers-for-ucsf-star-awards/#comments</comments>
+		
+		<dc:creator><![CDATA[Kemi Amin]]></dc:creator>
+		<pubDate>Fri, 17 Mar 2017 16:48:10 +0000</pubDate>
+				<category><![CDATA[campus news]]></category>
+		<category><![CDATA[achievement]]></category>
+		<category><![CDATA[colleague]]></category>
+		<category><![CDATA[nominate]]></category>
+		<category><![CDATA[spot]]></category>
+		<category><![CDATA[staff]]></category>
+		<guid isPermaLink="false">/?p=2836</guid>
+
+					<description><![CDATA[The campus recently announced this year&#8217;s UCSF STAR Program. STAR awards recognize significant employee achievements and contributions. All staff are welcome to nominate eligible colleagues for these awards. Here are a few details. Two Types of Awards Achievement Awards &#8211; nominations due March 31 27! $5,000 or 10% of employee&#8217;s ... <p class="read-more-container"><a title="Nominate Co-workers for UCSF STAR Awards" class="read-more button" href="/2017/03/17/nominate-co-workers-for-ucsf-star-awards/#more-2836">Read more<span class="screen-reader-text">Nominate Co-workers for UCSF STAR Awards</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2017/03/17/nominate-co-workers-for-ucsf-star-awards/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

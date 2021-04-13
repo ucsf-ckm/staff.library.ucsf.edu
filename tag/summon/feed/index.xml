@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>summon &#8211; Off the Shelf</title>
+	<atom:link href="/tag/summon/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Tue, 09 Jan 2018 23:10:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>summon &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Summon: Beta-no-longer!</title>
+		<link>/2018/01/02/summon-beta-no-longer/</link>
+					<comments>/2018/01/02/summon-beta-no-longer/#comments</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Tue, 02 Jan 2018 16:45:42 +0000</pubDate>
+				<category><![CDATA[search]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[summon]]></category>
+		<guid isPermaLink="false">/?p=3840</guid>
+
+					<description><![CDATA[On January 8, 2018 Summon will become our main search, and the current multi-box version will be retired. Summon and Our Collections Connecting all our collections/subscriptions to the back end of Summon presented more challenges than anticipated. There are some issues that will remain until UCSF does data restructuring for ... <p class="read-more-container"><a title="Summon: Beta-no-longer!" class="read-more button" href="/2018/01/02/summon-beta-no-longer/#more-3840">Read more<span class="screen-reader-text">Summon: Beta-no-longer!</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2018/01/02/summon-beta-no-longer/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Summon: New Features</title>
+		<link>/2017/12/21/summon-new-features/</link>
+					<comments>/2017/12/21/summon-new-features/#comments</comments>
+		
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Fri, 22 Dec 2017 01:09:51 +0000</pubDate>
+				<category><![CDATA[eresources]]></category>
+		<category><![CDATA[search]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[summon]]></category>
+		<guid isPermaLink="false">/?p=3812</guid>
+
+					<description><![CDATA[Summon has added a few new features since you all gave your initial feedback, and I wanted to call attention to them. Persistent Filters Like PubMed and many other search interfaces, Summon&#8217;s filters are persistent. That is, they stay set for all your searches until you change/clear them. For example, ... <p class="read-more-container"><a title="Summon: New Features" class="read-more button" href="/2017/12/21/summon-new-features/#more-3812">Read more<span class="screen-reader-text">Summon: New Features</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2017/12/21/summon-new-features/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

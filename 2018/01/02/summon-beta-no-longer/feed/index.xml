@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Summon: Beta-no-longer!	</title>
+	<atom:link href="/2018/01/02/summon-beta-no-longer/feed/" rel="self" type="application/rss+xml" />
+	<link>/2018/01/02/summon-beta-no-longer/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Tue, 09 Jan 2018 23:10:51 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Michele Mizejewski		</title>
+		<link>/2018/01/02/summon-beta-no-longer/#comment-793</link>
+
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Tue, 09 Jan 2018 23:09:41 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3840#comment-793</guid>
+
+					<description><![CDATA[Note that the journal display example has been updated from the original for more clarity. Thanks to Anneliese for pointing out the confusion.]]></description>
+			<content:encoded><![CDATA[<p>Note that the journal display example has been updated from the original for more clarity. Thanks to Anneliese for pointing out the confusion.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

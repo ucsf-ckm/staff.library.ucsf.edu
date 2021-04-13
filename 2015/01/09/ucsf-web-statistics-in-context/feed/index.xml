@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: UCSF Web Statistics In Context	</title>
+	<atom:link href="/2015/01/09/ucsf-web-statistics-in-context/feed/" rel="self" type="application/rss+xml" />
+	<link>/2015/01/09/ucsf-web-statistics-in-context/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Fri, 09 Jan 2015 16:40:18 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Richard Trott		</title>
+		<link>/2015/01/09/ucsf-web-statistics-in-context/#comment-392</link>
+
+		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
+		<pubDate>Fri, 09 Jan 2015 16:40:18 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1404#comment-392</guid>
+
+					<description><![CDATA[Here you go: http://www.wolframalpha.com/share/clip?f=d41d8cd98f00b204e9800998ecf8427e24jbkos7nm One additional caveat beyond the ones in the text of my post: They get these numbers from Alexa and they are estimates. So, you know, Not Actual Data and all that.]]></description>
+			<content:encoded><![CDATA[<p>Here you go: <a href="http://www.wolframalpha.com/share/clip?f=d41d8cd98f00b204e9800998ecf8427e24jbkos7nm" rel="nofollow ugc">http://www.wolframalpha.com/share/clip?f=d41d8cd98f00b204e9800998ecf8427e24jbkos7nm</a> One additional caveat beyond the ones in the text of my post: They get these numbers from Alexa and they are estimates. So, you know, Not Actual Data and all that.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Kemi Amin		</title>
+		<link>/2015/01/09/ucsf-web-statistics-in-context/#comment-391</link>
+
+		<dc:creator><![CDATA[Kemi Amin]]></dc:creator>
+		<pubDate>Fri, 09 Jan 2015 16:26:24 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1404#comment-391</guid>
+
+					<description><![CDATA[This is great info Rich! It would be great if we can use this to promote the Library as one of the top UCSF web services. Can I use Wolfram&#124;Alpha as the source of these facts?]]></description>
+			<content:encoded><![CDATA[<p>This is great info Rich! It would be great if we can use this to promote the Library as one of the top UCSF web services. Can I use Wolfram|Alpha as the source of these facts?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

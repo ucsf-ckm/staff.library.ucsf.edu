@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>jamboree &#8211; Off the Shelf</title>
+	<atom:link href="/tag/jamboree/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Mon, 10 Jul 2017 17:30:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>jamboree &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Library Staff Summer Jamboree</title>
+		<link>/2017/07/10/library-staff-summer-jamboree/</link>
+					<comments>/2017/07/10/library-staff-summer-jamboree/#respond</comments>
+		
+		<dc:creator><![CDATA[Kemi Amin]]></dc:creator>
+		<pubDate>Mon, 10 Jul 2017 17:30:45 +0000</pubDate>
+				<category><![CDATA[accomplishments]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[jamboree]]></category>
+		<category><![CDATA[library]]></category>
+		<category><![CDATA[staff]]></category>
+		<category><![CDATA[testimonial]]></category>
+		<guid isPermaLink="false">/?p=3179</guid>
+
+					<description><![CDATA[A friendly reminder to register for the Library Staff Summer Jamboree by this week Thursday, July 13. The Library staff event will take place on Thursday, July 20 from 12 &#8211; 2 pm in the Lange Room &#38; Terrace, 5th floor (mark your calendars!). REGISTER &#62;  We are also encouraging staff ... <p class="read-more-container"><a title="Library Staff Summer Jamboree" class="read-more button" href="/2017/07/10/library-staff-summer-jamboree/#more-3179">Read more<span class="screen-reader-text">Library Staff Summer Jamboree</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2017/07/10/library-staff-summer-jamboree/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

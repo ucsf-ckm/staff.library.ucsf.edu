@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Lisa Leiva &#8211; Off the Shelf</title>
+	<atom:link href="/author/sf626388/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Fri, 25 Aug 2017 18:50:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Lisa Leiva &#8211; Off the Shelf</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Library Updates or is it Current Topics?</title>
+		<link>/2017/08/25/library-updates-or-is-it-current-topics/</link>
+					<comments>/2017/08/25/library-updates-or-is-it-current-topics/#comments</comments>
+		
+		<dc:creator><![CDATA[Lisa Leiva]]></dc:creator>
+		<pubDate>Fri, 25 Aug 2017 18:50:04 +0000</pubDate>
+				<category><![CDATA[staff general]]></category>
+		<guid isPermaLink="false">/?p=3452</guid>
+
+					<description><![CDATA[The Library Updates meeting is often confused with Current Topics, but they are actually two separate meetings. Sophia and Lisa are identifying ways to revamp Library Updates. Some of the items we are working to improve are: Clear Definition &#38; Purpose Library Updates hosts a variety of speakers from the ... <p class="read-more-container"><a title="Library Updates or is it Current Topics?" class="read-more button" href="/2017/08/25/library-updates-or-is-it-current-topics/#more-3452">Read more<span class="screen-reader-text">Library Updates or is it Current Topics?</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2017/08/25/library-updates-or-is-it-current-topics/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New Web Page for the Tech Commons</title>
+		<link>/2016/05/26/new-web-page-for-the-tech-commons/</link>
+					<comments>/2016/05/26/new-web-page-for-the-tech-commons/#comments</comments>
+		
+		<dc:creator><![CDATA[Lisa Leiva]]></dc:creator>
+		<pubDate>Thu, 26 May 2016 23:48:49 +0000</pubDate>
+				<category><![CDATA[user experience]]></category>
+		<guid isPermaLink="false">/?p=2199</guid>
+
+					<description><![CDATA[We’re excited to announce that the Tech Commons recently launched a new webpage on the library website! Until now, the Learning Tech Group and Library help desk had separate web pages but we have merged as the Library Tech Commons Team. The new page is live at: https://www.library.ucsf.edu/tech-commons and the ... <p class="read-more-container"><a title="New Web Page for the Tech Commons" class="read-more button" href="/2016/05/26/new-web-page-for-the-tech-commons/#more-2199">Read more<span class="screen-reader-text">New Web Page for the Tech Commons</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2016/05/26/new-web-page-for-the-tech-commons/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
