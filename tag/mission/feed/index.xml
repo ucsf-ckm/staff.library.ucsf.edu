@@ -12,8 +12,8 @@
 
 <channel>
 	<title>mission &#8211; Off the Shelf</title>
-	<atom:link href="/tag/mission/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/staff.library.ucsf.edu/tag/mission/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Mon, 15 Jun 2015 18:46:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,14 +26,14 @@
 <image>
 	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
 	<title>mission &#8211; Off the Shelf</title>
-	<link></link>
+	<link>/staff.library.ucsf.edu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hi All First I would like to thank&#8230;</title>
-		<link>/2015/06/15/hi-all-first-i-would-like-to-thank/</link>
-					<comments>/2015/06/15/hi-all-first-i-would-like-to-thank/#respond</comments>
+		<link>/staff.library.ucsf.edu/2015/06/15/hi-all-first-i-would-like-to-thank/</link>
+					<comments>/staff.library.ucsf.edu/2015/06/15/hi-all-first-i-would-like-to-thank/#respond</comments>
 		
 		<dc:creator><![CDATA[Kemi Amin]]></dc:creator>
 		<pubDate>Mon, 15 Jun 2015 18:29:57 +0000</pubDate>
@@ -42,11 +42,11 @@
 		<category><![CDATA[staff]]></category>
 		<category><![CDATA[values]]></category>
 		<category><![CDATA[vision]]></category>
-		<guid isPermaLink="false">/2015/06/15/hi-all-first-i-would-like-to-thank/</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/2015/06/15/hi-all-first-i-would-like-to-thank/</guid>
 
-					<description><![CDATA[Hi All &#8211; First, I would like to thank everyone who participated in the staff meeting on Monday morning, March 16 for the Vision/Mission/Values workshop. Everyone generated a lot of great ideas and I am happy to share that your great ideas from this session significantly informed the revision of ... <p class="read-more-container"><a title="Hi All First I would like to thank&#8230;" class="read-more button" href="/2015/06/15/hi-all-first-i-would-like-to-thank/#more-1535">Read more<span class="screen-reader-text">Hi All First I would like to thank&#8230;</span></a></p>]]></description>
+					<description><![CDATA[Hi All &#8211; First, I would like to thank everyone who participated in the staff meeting on Monday morning, March 16 for the Vision/Mission/Values workshop. Everyone generated a lot of great ideas and I am happy to share that your great ideas from this session significantly informed the revision of ... <p class="read-more-container"><a title="Hi All First I would like to thank&#8230;" class="read-more button" href="/staff.library.ucsf.edu/2015/06/15/hi-all-first-i-would-like-to-thank/#more-1535">Read more<span class="screen-reader-text">Hi All First I would like to thank&#8230;</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2015/06/15/hi-all-first-i-would-like-to-thank/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2015/06/15/hi-all-first-i-would-like-to-thank/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Alan Daniel &#8211; Off the Shelf</title>
-	<atom:link href="/tag/alan-daniel/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/staff.library.ucsf.edu/tag/alan-daniel/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Fri, 09 Oct 2015 21:05:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,14 +26,14 @@
 <image>
 	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
 	<title>Alan Daniel &#8211; Off the Shelf</title>
-	<link></link>
+	<link>/staff.library.ucsf.edu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>SPOT Award : Alan Daniel</title>
-		<link>/2015/10/09/spot-award-alan-daniel/</link>
-					<comments>/2015/10/09/spot-award-alan-daniel/#comments</comments>
+		<link>/staff.library.ucsf.edu/2015/10/09/spot-award-alan-daniel/</link>
+					<comments>/staff.library.ucsf.edu/2015/10/09/spot-award-alan-daniel/#comments</comments>
 		
 		<dc:creator><![CDATA[Susan Boone]]></dc:creator>
 		<pubDate>Fri, 09 Oct 2015 20:52:15 +0000</pubDate>
@@ -42,11 +42,11 @@
 		<category><![CDATA[Alan Daniel]]></category>
 		<category><![CDATA[Collection Management]]></category>
 		<category><![CDATA[spot awards]]></category>
-		<guid isPermaLink="false">/2015/10/09/spot-award-alan-daniel/</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/2015/10/09/spot-award-alan-daniel/</guid>
 
-					<description><![CDATA[Managing user access is a multi-faceted set of tasks. Authenticating remote access has several twists to it. Recently, the Medical Center asked the Library to handle setting up the authentication for their access to UpToDate, a very popular and heavily used resource. The content provider gave a deadline of October ... <p class="read-more-container"><a title="SPOT Award : Alan Daniel" class="read-more button" href="/2015/10/09/spot-award-alan-daniel/#more-1830">Read more<span class="screen-reader-text">SPOT Award : Alan Daniel</span></a></p>]]></description>
+					<description><![CDATA[Managing user access is a multi-faceted set of tasks. Authenticating remote access has several twists to it. Recently, the Medical Center asked the Library to handle setting up the authentication for their access to UpToDate, a very popular and heavily used resource. The content provider gave a deadline of October ... <p class="read-more-container"><a title="SPOT Award : Alan Daniel" class="read-more button" href="/staff.library.ucsf.edu/2015/10/09/spot-award-alan-daniel/#more-1830">Read more<span class="screen-reader-text">SPOT Award : Alan Daniel</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2015/10/09/spot-award-alan-daniel/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2015/10/09/spot-award-alan-daniel/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		

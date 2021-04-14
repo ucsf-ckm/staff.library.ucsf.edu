@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Ariel Deardorff &#8211; Off the Shelf</title>
-	<atom:link href="/author/sf201937/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/staff.library.ucsf.edu/author/sf201937/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Tue, 16 Feb 2021 15:19:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,178 +26,178 @@
 <image>
 	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
 	<title>Ariel Deardorff &#8211; Off the Shelf</title>
-	<link></link>
+	<link>/staff.library.ucsf.edu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Welcome Danielle Westmark, our IPI Fellow!</title>
-		<link>/2021/01/13/welcome-danielle-westmark-our-ipi-fellow/</link>
-					<comments>/2021/01/13/welcome-danielle-westmark-our-ipi-fellow/#comments</comments>
+		<link>/staff.library.ucsf.edu/2021/01/13/welcome-danielle-westmark-our-ipi-fellow/</link>
+					<comments>/staff.library.ucsf.edu/2021/01/13/welcome-danielle-westmark-our-ipi-fellow/#comments</comments>
 		
 		<dc:creator><![CDATA[Ariel Deardorff]]></dc:creator>
 		<pubDate>Wed, 13 Jan 2021 19:12:16 +0000</pubDate>
 				<category><![CDATA[new hires]]></category>
 		<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=5896</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5896</guid>
 
-					<description><![CDATA[Danielle is a student in the Inter-professional Informationist (IPI) Program at Simmons University and will be working with Ariel and the Data Science team from Jan-May 2021 as part of her capstone project. Danielle is looking to build on her knowledge of research data management, data science, and reproducibility and ... <p class="read-more-container"><a title="Welcome Danielle Westmark, our IPI Fellow!" class="read-more button" href="/2021/01/13/welcome-danielle-westmark-our-ipi-fellow/#more-5896">Read more<span class="screen-reader-text">Welcome Danielle Westmark, our IPI Fellow!</span></a></p>]]></description>
+					<description><![CDATA[Danielle is a student in the Inter-professional Informationist (IPI) Program at Simmons University and will be working with Ariel and the Data Science team from Jan-May 2021 as part of her capstone project. Danielle is looking to build on her knowledge of research data management, data science, and reproducibility and ... <p class="read-more-container"><a title="Welcome Danielle Westmark, our IPI Fellow!" class="read-more button" href="/staff.library.ucsf.edu/2021/01/13/welcome-danielle-westmark-our-ipi-fellow/#more-5896">Read more<span class="screen-reader-text">Welcome Danielle Westmark, our IPI Fellow!</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2021/01/13/welcome-danielle-westmark-our-ipi-fellow/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2021/01/13/welcome-danielle-westmark-our-ipi-fellow/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Building Data Skills in California Libraries</title>
-		<link>/2020/11/12/building-data-skills-in-california-libraries/</link>
-					<comments>/2020/11/12/building-data-skills-in-california-libraries/#respond</comments>
+		<link>/staff.library.ucsf.edu/2020/11/12/building-data-skills-in-california-libraries/</link>
+					<comments>/staff.library.ucsf.edu/2020/11/12/building-data-skills-in-california-libraries/#respond</comments>
 		
 		<dc:creator><![CDATA[Ariel Deardorff]]></dc:creator>
 		<pubDate>Thu, 12 Nov 2020 23:23:49 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=5871</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5871</guid>
 
-					<description><![CDATA[Ariel shares about a project she worked on this year with the nonprofit organization The Carpentries From Jan to Sept of this year 20% of my time was dedicated to a grant-funded project with The Carpentries, a global non-profit dedicated to teaching data and software skills to researchers and librarians. ... <p class="read-more-container"><a title="Building Data Skills in California Libraries" class="read-more button" href="/2020/11/12/building-data-skills-in-california-libraries/#more-5871">Read more<span class="screen-reader-text">Building Data Skills in California Libraries</span></a></p>]]></description>
+					<description><![CDATA[Ariel shares about a project she worked on this year with the nonprofit organization The Carpentries From Jan to Sept of this year 20% of my time was dedicated to a grant-funded project with The Carpentries, a global non-profit dedicated to teaching data and software skills to researchers and librarians. ... <p class="read-more-container"><a title="Building Data Skills in California Libraries" class="read-more button" href="/staff.library.ucsf.edu/2020/11/12/building-data-skills-in-california-libraries/#more-5871">Read more<span class="screen-reader-text">Building Data Skills in California Libraries</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2020/11/12/building-data-skills-in-california-libraries/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2020/11/12/building-data-skills-in-california-libraries/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Introducing the 2020 Library Open Research Challenge!</title>
-		<link>/2020/02/12/introducing-the-2020-library-open-research-challenge/</link>
-					<comments>/2020/02/12/introducing-the-2020-library-open-research-challenge/#respond</comments>
+		<link>/staff.library.ucsf.edu/2020/02/12/introducing-the-2020-library-open-research-challenge/</link>
+					<comments>/staff.library.ucsf.edu/2020/02/12/introducing-the-2020-library-open-research-challenge/#respond</comments>
 		
 		<dc:creator><![CDATA[Ariel Deardorff]]></dc:creator>
 		<pubDate>Wed, 12 Feb 2020 18:40:41 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=5529</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5529</guid>
 
-					<description><![CDATA[Are you planning on publishing an article, giving a talk, or designing a class this year? Why not participate in the 2020 library open research challenge and publish in an open access journal, deposit your presentation in eScholarship, or make your class materials freely available on the CLE! The goal ... <p class="read-more-container"><a title="Introducing the 2020 Library Open Research Challenge!" class="read-more button" href="/2020/02/12/introducing-the-2020-library-open-research-challenge/#more-5529">Read more<span class="screen-reader-text">Introducing the 2020 Library Open Research Challenge!</span></a></p>]]></description>
+					<description><![CDATA[Are you planning on publishing an article, giving a talk, or designing a class this year? Why not participate in the 2020 library open research challenge and publish in an open access journal, deposit your presentation in eScholarship, or make your class materials freely available on the CLE! The goal ... <p class="read-more-container"><a title="Introducing the 2020 Library Open Research Challenge!" class="read-more button" href="/staff.library.ucsf.edu/2020/02/12/introducing-the-2020-library-open-research-challenge/#more-5529">Read more<span class="screen-reader-text">Introducing the 2020 Library Open Research Challenge!</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2020/02/12/introducing-the-2020-library-open-research-challenge/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2020/02/12/introducing-the-2020-library-open-research-challenge/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Recapping the Library Education Retreat</title>
-		<link>/2019/08/22/recapping-the-library-education-retreat/</link>
-					<comments>/2019/08/22/recapping-the-library-education-retreat/#comments</comments>
+		<link>/staff.library.ucsf.edu/2019/08/22/recapping-the-library-education-retreat/</link>
+					<comments>/staff.library.ucsf.edu/2019/08/22/recapping-the-library-education-retreat/#comments</comments>
 		
 		<dc:creator><![CDATA[Ariel Deardorff]]></dc:creator>
 		<pubDate>Thu, 22 Aug 2019 17:27:25 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=5138</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5138</guid>
 
-					<description><![CDATA[Last Friday a group of Library staff gathered together for the first Library Education retreat. The retreat was geared towards educators in the library (as opposed to those involved in designing educational tools and systems) and was part of the&#160;&#8220;Learn with the Library&#8221; marquee project. Reflecting the diverse educational portfolio ... <p class="read-more-container"><a title="Recapping the Library Education Retreat" class="read-more button" href="/2019/08/22/recapping-the-library-education-retreat/#more-5138">Read more<span class="screen-reader-text">Recapping the Library Education Retreat</span></a></p>]]></description>
+					<description><![CDATA[Last Friday a group of Library staff gathered together for the first Library Education retreat. The retreat was geared towards educators in the library (as opposed to those involved in designing educational tools and systems) and was part of the&#160;&#8220;Learn with the Library&#8221; marquee project. Reflecting the diverse educational portfolio ... <p class="read-more-container"><a title="Recapping the Library Education Retreat" class="read-more button" href="/staff.library.ucsf.edu/2019/08/22/recapping-the-library-education-retreat/#more-5138">Read more<span class="screen-reader-text">Recapping the Library Education Retreat</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2019/08/22/recapping-the-library-education-retreat/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2019/08/22/recapping-the-library-education-retreat/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>What&#8217;s the Latest on the Marquee Projects?</title>
-		<link>/2019/05/28/whats-the-latest-on-the-marquee-projects/</link>
-					<comments>/2019/05/28/whats-the-latest-on-the-marquee-projects/#respond</comments>
+		<link>/staff.library.ucsf.edu/2019/05/28/whats-the-latest-on-the-marquee-projects/</link>
+					<comments>/staff.library.ucsf.edu/2019/05/28/whats-the-latest-on-the-marquee-projects/#respond</comments>
 		
 		<dc:creator><![CDATA[Ariel Deardorff]]></dc:creator>
 		<pubDate>Tue, 28 May 2019 18:00:44 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=4919</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=4919</guid>
 
-					<description><![CDATA[Now that we are well into the second quarter of 2019 we figured it was time for an update on the strategic projects. As a reminder, we launched the marquee projects in September of 2018 with a post in the EVCP Expresso. The projects were: Patient-Centered Service &#8211; Empower UCSF patients ... <p class="read-more-container"><a title="What&#8217;s the Latest on the Marquee Projects?" class="read-more button" href="/2019/05/28/whats-the-latest-on-the-marquee-projects/#more-4919">Read more<span class="screen-reader-text">What&#8217;s the Latest on the Marquee Projects?</span></a></p>]]></description>
+					<description><![CDATA[Now that we are well into the second quarter of 2019 we figured it was time for an update on the strategic projects. As a reminder, we launched the marquee projects in September of 2018 with a post in the EVCP Expresso. The projects were: Patient-Centered Service &#8211; Empower UCSF patients ... <p class="read-more-container"><a title="What&#8217;s the Latest on the Marquee Projects?" class="read-more button" href="/staff.library.ucsf.edu/2019/05/28/whats-the-latest-on-the-marquee-projects/#more-4919">Read more<span class="screen-reader-text">What&#8217;s the Latest on the Marquee Projects?</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2019/05/28/whats-the-latest-on-the-marquee-projects/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2019/05/28/whats-the-latest-on-the-marquee-projects/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Wrapping up Quarterly OKRs &#038; Planning for Spring</title>
-		<link>/2019/03/21/wrapping-up-quarterly-okrs-planning-for-spring/</link>
-					<comments>/2019/03/21/wrapping-up-quarterly-okrs-planning-for-spring/#respond</comments>
+		<link>/staff.library.ucsf.edu/2019/03/21/wrapping-up-quarterly-okrs-planning-for-spring/</link>
+					<comments>/staff.library.ucsf.edu/2019/03/21/wrapping-up-quarterly-okrs-planning-for-spring/#respond</comments>
 		
 		<dc:creator><![CDATA[Ariel Deardorff]]></dc:creator>
 		<pubDate>Thu, 21 Mar 2019 16:10:22 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=4666</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=4666</guid>
 
-					<description><![CDATA[March is almost over which means that it is time to start wrapping up our Jan-March OKRs and start planning April-June ones. Let&#8217;s talk about these two things in a little more detail: Wrapping up the Quarter The end of a quarter is a chance to reflect on your quarterly ... <p class="read-more-container"><a title="Wrapping up Quarterly OKRs &#38; Planning for Spring" class="read-more button" href="/2019/03/21/wrapping-up-quarterly-okrs-planning-for-spring/#more-4666">Read more<span class="screen-reader-text">Wrapping up Quarterly OKRs &#38; Planning for Spring</span></a></p>]]></description>
+					<description><![CDATA[March is almost over which means that it is time to start wrapping up our Jan-March OKRs and start planning April-June ones. Let&#8217;s talk about these two things in a little more detail: Wrapping up the Quarter The end of a quarter is a chance to reflect on your quarterly ... <p class="read-more-container"><a title="Wrapping up Quarterly OKRs &#38; Planning for Spring" class="read-more button" href="/staff.library.ucsf.edu/2019/03/21/wrapping-up-quarterly-okrs-planning-for-spring/#more-4666">Read more<span class="screen-reader-text">Wrapping up Quarterly OKRs &#38; Planning for Spring</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2019/03/21/wrapping-up-quarterly-okrs-planning-for-spring/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2019/03/21/wrapping-up-quarterly-okrs-planning-for-spring/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The ARL Leadership Institute &#8211; or how Ariel and Sarah learned about Learning Organizations</title>
-		<link>/2019/03/11/the-arl-leadership-institute-or-how-ariel-and-sarah-learned-about-learning-organizations/</link>
-					<comments>/2019/03/11/the-arl-leadership-institute-or-how-ariel-and-sarah-learned-about-learning-organizations/#comments</comments>
+		<link>/staff.library.ucsf.edu/2019/03/11/the-arl-leadership-institute-or-how-ariel-and-sarah-learned-about-learning-organizations/</link>
+					<comments>/staff.library.ucsf.edu/2019/03/11/the-arl-leadership-institute-or-how-ariel-and-sarah-learned-about-learning-organizations/#comments</comments>
 		
 		<dc:creator><![CDATA[Ariel Deardorff]]></dc:creator>
 		<pubDate>Mon, 11 Mar 2019 17:02:03 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=4651</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=4651</guid>
 
-					<description><![CDATA[In the absence of meeting reports, we (Sarah and Ariel) wanted to share a quick update on an interesting leadership institute we participated in last month. The Institute On February 19-21st, we joined 30 other UC Librarians at UC Berkeley for an ARL Leadership and Management Institute focused on building ... <p class="read-more-container"><a title="The ARL Leadership Institute &#8211; or how Ariel and Sarah learned about Learning Organizations" class="read-more button" href="/2019/03/11/the-arl-leadership-institute-or-how-ariel-and-sarah-learned-about-learning-organizations/#more-4651">Read more<span class="screen-reader-text">The ARL Leadership Institute &#8211; or how Ariel and Sarah learned about Learning Organizations</span></a></p>]]></description>
+					<description><![CDATA[In the absence of meeting reports, we (Sarah and Ariel) wanted to share a quick update on an interesting leadership institute we participated in last month. The Institute On February 19-21st, we joined 30 other UC Librarians at UC Berkeley for an ARL Leadership and Management Institute focused on building ... <p class="read-more-container"><a title="The ARL Leadership Institute &#8211; or how Ariel and Sarah learned about Learning Organizations" class="read-more button" href="/staff.library.ucsf.edu/2019/03/11/the-arl-leadership-institute-or-how-ariel-and-sarah-learned-about-learning-organizations/#more-4651">Read more<span class="screen-reader-text">The ARL Leadership Institute &#8211; or how Ariel and Sarah learned about Learning Organizations</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2019/03/11/the-arl-leadership-institute-or-how-ariel-and-sarah-learned-about-learning-organizations/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2019/03/11/the-arl-leadership-institute-or-how-ariel-and-sarah-learned-about-learning-organizations/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Library OKRs you might have missed</title>
-		<link>/2019/02/06/library-okrs-you-might-have-missed/</link>
-					<comments>/2019/02/06/library-okrs-you-might-have-missed/#respond</comments>
+		<link>/staff.library.ucsf.edu/2019/02/06/library-okrs-you-might-have-missed/</link>
+					<comments>/staff.library.ucsf.edu/2019/02/06/library-okrs-you-might-have-missed/#respond</comments>
 		
 		<dc:creator><![CDATA[Ariel Deardorff]]></dc:creator>
 		<pubDate>Thu, 07 Feb 2019 00:01:52 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=4600</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=4600</guid>
 
-					<description><![CDATA[Have you ever wondered what your fellow staff members here at the Library really do all day? Well, wonder no longer! One of the benefits to sharing our OKRs in one box folder is that you can see what your colleagues are working on. Last week I took a look through ... <p class="read-more-container"><a title="Library OKRs you might have missed" class="read-more button" href="/2019/02/06/library-okrs-you-might-have-missed/#more-4600">Read more<span class="screen-reader-text">Library OKRs you might have missed</span></a></p>]]></description>
+					<description><![CDATA[Have you ever wondered what your fellow staff members here at the Library really do all day? Well, wonder no longer! One of the benefits to sharing our OKRs in one box folder is that you can see what your colleagues are working on. Last week I took a look through ... <p class="read-more-container"><a title="Library OKRs you might have missed" class="read-more button" href="/staff.library.ucsf.edu/2019/02/06/library-okrs-you-might-have-missed/#more-4600">Read more<span class="screen-reader-text">Library OKRs you might have missed</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2019/02/06/library-okrs-you-might-have-missed/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2019/02/06/library-okrs-you-might-have-missed/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nominate someone for a STAR Spot award!</title>
-		<link>/2018/10/31/nominate-someone-for-a-star-spot-award/</link>
-					<comments>/2018/10/31/nominate-someone-for-a-star-spot-award/#respond</comments>
+		<link>/staff.library.ucsf.edu/2018/10/31/nominate-someone-for-a-star-spot-award/</link>
+					<comments>/staff.library.ucsf.edu/2018/10/31/nominate-someone-for-a-star-spot-award/#respond</comments>
 		
 		<dc:creator><![CDATA[Ariel Deardorff]]></dc:creator>
 		<pubDate>Wed, 31 Oct 2018 17:19:06 +0000</pubDate>
 				<category><![CDATA[accomplishments]]></category>
 		<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=4491</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=4491</guid>
 
-					<description><![CDATA[Congratulations to Rachel Taketa for receiving the first STAR Spot award of this academic year! If you are scratching your head trying to remember what a STAR Spot award is, it is an award given to someone for a significant achievement or contribution on a specific project or task between ... <p class="read-more-container"><a title="Nominate someone for a STAR Spot award!" class="read-more button" href="/2018/10/31/nominate-someone-for-a-star-spot-award/#more-4491">Read more<span class="screen-reader-text">Nominate someone for a STAR Spot award!</span></a></p>]]></description>
+					<description><![CDATA[Congratulations to Rachel Taketa for receiving the first STAR Spot award of this academic year! If you are scratching your head trying to remember what a STAR Spot award is, it is an award given to someone for a significant achievement or contribution on a specific project or task between ... <p class="read-more-container"><a title="Nominate someone for a STAR Spot award!" class="read-more button" href="/staff.library.ucsf.edu/2018/10/31/nominate-someone-for-a-star-spot-award/#more-4491">Read more<span class="screen-reader-text">Nominate someone for a STAR Spot award!</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2018/10/31/nominate-someone-for-a-star-spot-award/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2018/10/31/nominate-someone-for-a-star-spot-award/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Reminder to start drafting those OKRs!</title>
-		<link>/2018/09/18/reminder-to-start-drafting-those-okrs/</link>
-					<comments>/2018/09/18/reminder-to-start-drafting-those-okrs/#respond</comments>
+		<link>/staff.library.ucsf.edu/2018/09/18/reminder-to-start-drafting-those-okrs/</link>
+					<comments>/staff.library.ucsf.edu/2018/09/18/reminder-to-start-drafting-those-okrs/#respond</comments>
 		
 		<dc:creator><![CDATA[Ariel Deardorff]]></dc:creator>
 		<pubDate>Tue, 18 Sep 2018 20:42:25 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=4321</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=4321</guid>
 
-					<description><![CDATA[Now that we are half way through September it is a good time to start drafting those Fall quarter (Oct-Dec) OKRs so you can have them ready to go by October 1st. As a reminder, we are using Fall quarter as a chance to practice writing and following OKRs. Did ... <p class="read-more-container"><a title="Reminder to start drafting those OKRs!" class="read-more button" href="/2018/09/18/reminder-to-start-drafting-those-okrs/#more-4321">Read more<span class="screen-reader-text">Reminder to start drafting those OKRs!</span></a></p>]]></description>
+					<description><![CDATA[Now that we are half way through September it is a good time to start drafting those Fall quarter (Oct-Dec) OKRs so you can have them ready to go by October 1st. As a reminder, we are using Fall quarter as a chance to practice writing and following OKRs. Did ... <p class="read-more-container"><a title="Reminder to start drafting those OKRs!" class="read-more button" href="/staff.library.ucsf.edu/2018/09/18/reminder-to-start-drafting-those-okrs/#more-4321">Read more<span class="screen-reader-text">Reminder to start drafting those OKRs!</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2018/09/18/reminder-to-start-drafting-those-okrs/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2018/09/18/reminder-to-start-drafting-those-okrs/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

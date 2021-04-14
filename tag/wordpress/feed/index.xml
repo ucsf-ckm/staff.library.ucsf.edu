@@ -12,8 +12,8 @@
 
 <channel>
 	<title>WordPress &#8211; Off the Shelf</title>
-	<atom:link href="/tag/wordpress/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/staff.library.ucsf.edu/tag/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Thu, 21 Apr 2016 17:58:45 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,25 +26,25 @@
 <image>
 	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
 	<title>WordPress &#8211; Off the Shelf</title>
-	<link></link>
+	<link>/staff.library.ucsf.edu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Improved editing experience for library blogs</title>
-		<link>/2016/04/21/improved-editing-experience-for-library-blogs/</link>
-					<comments>/2016/04/21/improved-editing-experience-for-library-blogs/#respond</comments>
+		<link>/staff.library.ucsf.edu/2016/04/21/improved-editing-experience-for-library-blogs/</link>
+					<comments>/staff.library.ucsf.edu/2016/04/21/improved-editing-experience-for-library-blogs/#respond</comments>
 		
 		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
 		<pubDate>Thu, 21 Apr 2016 17:58:45 +0000</pubDate>
 				<category><![CDATA[editing]]></category>
 		<category><![CDATA[web]]></category>
 		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">/?p=2150</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=2150</guid>
 
-					<description><![CDATA[For anyone that posts to a library blog, take note that the newest version of WordPress offers improvements in how you format and create links. It also makes it easy to preview how your site will look on small screens. Check out the overview: You can use these features on ... <p class="read-more-container"><a title="Improved editing experience for library blogs" class="read-more button" href="/2016/04/21/improved-editing-experience-for-library-blogs/#more-2150">Read more<span class="screen-reader-text">Improved editing experience for library blogs</span></a></p>]]></description>
+					<description><![CDATA[For anyone that posts to a library blog, take note that the newest version of WordPress offers improvements in how you format and create links. It also makes it easy to preview how your site will look on small screens. Check out the overview: You can use these features on ... <p class="read-more-container"><a title="Improved editing experience for library blogs" class="read-more button" href="/staff.library.ucsf.edu/2016/04/21/improved-editing-experience-for-library-blogs/#more-2150">Read more<span class="screen-reader-text">Improved editing experience for library blogs</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2016/04/21/improved-editing-experience-for-library-blogs/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2016/04/21/improved-editing-experience-for-library-blogs/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -12,8 +12,8 @@
 
 <channel>
 	<title>security &#8211; Off the Shelf</title>
-	<atom:link href="/tag/security/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/staff.library.ucsf.edu/tag/security/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Thu, 04 Jan 2018 17:55:29 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,14 +26,14 @@
 <image>
 	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
 	<title>security &#8211; Off the Shelf</title>
-	<link></link>
+	<link>/staff.library.ucsf.edu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Conversation About Safety &#038; Security with UCSF Police</title>
-		<link>/2018/01/04/a-conversation-about-safety-security-with-ucsf-police/</link>
-					<comments>/2018/01/04/a-conversation-about-safety-security-with-ucsf-police/#respond</comments>
+		<link>/staff.library.ucsf.edu/2018/01/04/a-conversation-about-safety-security-with-ucsf-police/</link>
+					<comments>/staff.library.ucsf.edu/2018/01/04/a-conversation-about-safety-security-with-ucsf-police/#respond</comments>
 		
 		<dc:creator><![CDATA[Kemi Amin]]></dc:creator>
 		<pubDate>Thu, 04 Jan 2018 17:55:29 +0000</pubDate>
@@ -43,29 +43,29 @@
 		<category><![CDATA[staff general]]></category>
 		<category><![CDATA[safety]]></category>
 		<category><![CDATA[ucsf police]]></category>
-		<guid isPermaLink="false">/?p=3885</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=3885</guid>
 
-					<description><![CDATA[To continue our conversation about safety and security at the Library, we have invited the UCSF Police to a morning discussion for Library staff and building tenants.    Join us on Friday, January 19 from 10 &#8211; 11 am at the Parnassus Library staff lounge (1st floor). We will have the ... <p class="read-more-container"><a title="A Conversation About Safety &#038; Security with UCSF Police" class="read-more button" href="/2018/01/04/a-conversation-about-safety-security-with-ucsf-police/#more-3885">Read more<span class="screen-reader-text">A Conversation About Safety &#038; Security with UCSF Police</span></a></p>]]></description>
+					<description><![CDATA[To continue our conversation about safety and security at the Library, we have invited the UCSF Police to a morning discussion for Library staff and building tenants.    Join us on Friday, January 19 from 10 &#8211; 11 am at the Parnassus Library staff lounge (1st floor). We will have the ... <p class="read-more-container"><a title="A Conversation About Safety &#038; Security with UCSF Police" class="read-more button" href="/staff.library.ucsf.edu/2018/01/04/a-conversation-about-safety-security-with-ucsf-police/#more-3885">Read more<span class="screen-reader-text">A Conversation About Safety &#038; Security with UCSF Police</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2018/01/04/a-conversation-about-safety-security-with-ucsf-police/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2018/01/04/a-conversation-about-safety-security-with-ucsf-police/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Worried about the Heartbleed bug?</title>
-		<link>/2014/04/16/worried-about-the-heartbleed-bug/</link>
-					<comments>/2014/04/16/worried-about-the-heartbleed-bug/#respond</comments>
+		<link>/staff.library.ucsf.edu/2014/04/16/worried-about-the-heartbleed-bug/</link>
+					<comments>/staff.library.ucsf.edu/2014/04/16/worried-about-the-heartbleed-bug/#respond</comments>
 		
 		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
 		<pubDate>Wed, 16 Apr 2014 19:16:43 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
 		<category><![CDATA[security]]></category>
-		<guid isPermaLink="false">/2014/04/16/worried-about-the-heartbleed-bug/</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/2014/04/16/worried-about-the-heartbleed-bug/</guid>
 
 					<description><![CDATA[Check out Ben&#8217;s informative post over on Mobilized: http://blogs.library.ucsf.edu/mobilized/2014/04/16/heartbleed-what-you-need-to-know/]]></description>
 		
-					<wfw:commentRss>/2014/04/16/worried-about-the-heartbleed-bug/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2014/04/16/worried-about-the-heartbleed-bug/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

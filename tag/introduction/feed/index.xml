@@ -12,8 +12,8 @@
 
 <channel>
 	<title>introduction &#8211; Off the Shelf</title>
-	<atom:link href="/tag/introduction/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/staff.library.ucsf.edu/tag/introduction/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Tue, 16 Feb 2021 15:21:18 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,14 +26,14 @@
 <image>
 	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
 	<title>introduction &#8211; Off the Shelf</title>
-	<link></link>
+	<link>/staff.library.ucsf.edu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Welcome, Ben Stever to the Tech Commons</title>
-		<link>/2013/07/25/welcome-ben-stever-to-the-tech-commons/</link>
-					<comments>/2013/07/25/welcome-ben-stever-to-the-tech-commons/#respond</comments>
+		<link>/staff.library.ucsf.edu/2013/07/25/welcome-ben-stever-to-the-tech-commons/</link>
+					<comments>/staff.library.ucsf.edu/2013/07/25/welcome-ben-stever-to-the-tech-commons/#respond</comments>
 		
 		<dc:creator><![CDATA[Kirk Hudson]]></dc:creator>
 		<pubDate>Thu, 25 Jul 2013 23:20:15 +0000</pubDate>
@@ -41,11 +41,11 @@
 		<category><![CDATA[staff general]]></category>
 		<category><![CDATA[introduction]]></category>
 		<category><![CDATA[new hire]]></category>
-		<guid isPermaLink="false">/2013/07/25/welcome-ben-stever-to-the-tech-commons/</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/2013/07/25/welcome-ben-stever-to-the-tech-commons/</guid>
 
-					<description><![CDATA[Ben Stever Please join me in welcoming Ben Stever to the Tech Commons team, starting Wednesday, 7/31/2013. Ben will be working in the Tech Commons, staffing the Help Desk and working with Tony Chan to manage the computer labs and classrooms. Although John McWalter left the library and joined ITFS, ... <p class="read-more-container"><a title="Welcome, Ben Stever to the Tech Commons" class="read-more button" href="/2013/07/25/welcome-ben-stever-to-the-tech-commons/#more-695">Read more<span class="screen-reader-text">Welcome, Ben Stever to the Tech Commons</span></a></p>]]></description>
+					<description><![CDATA[Ben Stever Please join me in welcoming Ben Stever to the Tech Commons team, starting Wednesday, 7/31/2013. Ben will be working in the Tech Commons, staffing the Help Desk and working with Tony Chan to manage the computer labs and classrooms. Although John McWalter left the library and joined ITFS, ... <p class="read-more-container"><a title="Welcome, Ben Stever to the Tech Commons" class="read-more button" href="/staff.library.ucsf.edu/2013/07/25/welcome-ben-stever-to-the-tech-commons/#more-695">Read more<span class="screen-reader-text">Welcome, Ben Stever to the Tech Commons</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2013/07/25/welcome-ben-stever-to-the-tech-commons/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2013/07/25/welcome-ben-stever-to-the-tech-commons/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

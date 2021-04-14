@@ -12,8 +12,8 @@
 
 <channel>
 	<title>staff general &#8211; Off the Shelf</title>
-	<atom:link href="/category/staff-general/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/staff.library.ucsf.edu/category/staff-general/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Tue, 16 Feb 2021 15:19:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,182 +26,182 @@
 <image>
 	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
 	<title>staff general &#8211; Off the Shelf</title>
-	<link></link>
+	<link>/staff.library.ucsf.edu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Welcome Danielle Westmark, our IPI Fellow!</title>
-		<link>/2021/01/13/welcome-danielle-westmark-our-ipi-fellow/</link>
-					<comments>/2021/01/13/welcome-danielle-westmark-our-ipi-fellow/#comments</comments>
+		<link>/staff.library.ucsf.edu/2021/01/13/welcome-danielle-westmark-our-ipi-fellow/</link>
+					<comments>/staff.library.ucsf.edu/2021/01/13/welcome-danielle-westmark-our-ipi-fellow/#comments</comments>
 		
 		<dc:creator><![CDATA[Ariel Deardorff]]></dc:creator>
 		<pubDate>Wed, 13 Jan 2021 19:12:16 +0000</pubDate>
 				<category><![CDATA[new hires]]></category>
 		<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=5896</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5896</guid>
 
-					<description><![CDATA[Danielle is a student in the Inter-professional Informationist (IPI) Program at Simmons University and will be working with Ariel and the Data Science team from Jan-May 2021 as part of her capstone project. Danielle is looking to build on her knowledge of research data management, data science, and reproducibility and ... <p class="read-more-container"><a title="Welcome Danielle Westmark, our IPI Fellow!" class="read-more button" href="/2021/01/13/welcome-danielle-westmark-our-ipi-fellow/#more-5896">Read more<span class="screen-reader-text">Welcome Danielle Westmark, our IPI Fellow!</span></a></p>]]></description>
+					<description><![CDATA[Danielle is a student in the Inter-professional Informationist (IPI) Program at Simmons University and will be working with Ariel and the Data Science team from Jan-May 2021 as part of her capstone project. Danielle is looking to build on her knowledge of research data management, data science, and reproducibility and ... <p class="read-more-container"><a title="Welcome Danielle Westmark, our IPI Fellow!" class="read-more button" href="/staff.library.ucsf.edu/2021/01/13/welcome-danielle-westmark-our-ipi-fellow/#more-5896">Read more<span class="screen-reader-text">Welcome Danielle Westmark, our IPI Fellow!</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2021/01/13/welcome-danielle-westmark-our-ipi-fellow/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2021/01/13/welcome-danielle-westmark-our-ipi-fellow/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Welcome to the Library Albert Lee!</title>
-		<link>/2021/01/05/welcome-to-the-library-albert-lee/</link>
-					<comments>/2021/01/05/welcome-to-the-library-albert-lee/#comments</comments>
+		<link>/staff.library.ucsf.edu/2021/01/05/welcome-to-the-library-albert-lee/</link>
+					<comments>/staff.library.ucsf.edu/2021/01/05/welcome-to-the-library-albert-lee/#comments</comments>
 		
 		<dc:creator><![CDATA[Karla Lindquist]]></dc:creator>
 		<pubDate>Tue, 05 Jan 2021 23:26:05 +0000</pubDate>
 				<category><![CDATA[new hires]]></category>
 		<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=5883</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5883</guid>
 
-					<description><![CDATA[On January 4 2021, Albert Lee joined the Library’s Data Science Initiative team as a Data Science Instructional Designer and Analyst. Please join the DSI team in welcoming Albert to UCSF and to the Library! Albert will be working with the DSI team two days per week. He will be ... <p class="read-more-container"><a title="Welcome to the Library Albert Lee!" class="read-more button" href="/2021/01/05/welcome-to-the-library-albert-lee/#more-5883">Read more<span class="screen-reader-text">Welcome to the Library Albert Lee!</span></a></p>]]></description>
+					<description><![CDATA[On January 4 2021, Albert Lee joined the Library’s Data Science Initiative team as a Data Science Instructional Designer and Analyst. Please join the DSI team in welcoming Albert to UCSF and to the Library! Albert will be working with the DSI team two days per week. He will be ... <p class="read-more-container"><a title="Welcome to the Library Albert Lee!" class="read-more button" href="/staff.library.ucsf.edu/2021/01/05/welcome-to-the-library-albert-lee/#more-5883">Read more<span class="screen-reader-text">Welcome to the Library Albert Lee!</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2021/01/05/welcome-to-the-library-albert-lee/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2021/01/05/welcome-to-the-library-albert-lee/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Building Data Skills in California Libraries</title>
-		<link>/2020/11/12/building-data-skills-in-california-libraries/</link>
-					<comments>/2020/11/12/building-data-skills-in-california-libraries/#respond</comments>
+		<link>/staff.library.ucsf.edu/2020/11/12/building-data-skills-in-california-libraries/</link>
+					<comments>/staff.library.ucsf.edu/2020/11/12/building-data-skills-in-california-libraries/#respond</comments>
 		
 		<dc:creator><![CDATA[Ariel Deardorff]]></dc:creator>
 		<pubDate>Thu, 12 Nov 2020 23:23:49 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=5871</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5871</guid>
 
-					<description><![CDATA[Ariel shares about a project she worked on this year with the nonprofit organization The Carpentries From Jan to Sept of this year 20% of my time was dedicated to a grant-funded project with The Carpentries, a global non-profit dedicated to teaching data and software skills to researchers and librarians. ... <p class="read-more-container"><a title="Building Data Skills in California Libraries" class="read-more button" href="/2020/11/12/building-data-skills-in-california-libraries/#more-5871">Read more<span class="screen-reader-text">Building Data Skills in California Libraries</span></a></p>]]></description>
+					<description><![CDATA[Ariel shares about a project she worked on this year with the nonprofit organization The Carpentries From Jan to Sept of this year 20% of my time was dedicated to a grant-funded project with The Carpentries, a global non-profit dedicated to teaching data and software skills to researchers and librarians. ... <p class="read-more-container"><a title="Building Data Skills in California Libraries" class="read-more button" href="/staff.library.ucsf.edu/2020/11/12/building-data-skills-in-california-libraries/#more-5871">Read more<span class="screen-reader-text">Building Data Skills in California Libraries</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2020/11/12/building-data-skills-in-california-libraries/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2020/11/12/building-data-skills-in-california-libraries/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title></title>
-		<link>/2020/10/05/5850/</link>
-					<comments>/2020/10/05/5850/#respond</comments>
+		<link>/staff.library.ucsf.edu/2020/10/05/5850/</link>
+					<comments>/staff.library.ucsf.edu/2020/10/05/5850/#respond</comments>
 		
 		<dc:creator><![CDATA[Joanna Kang]]></dc:creator>
 		<pubDate>Mon, 05 Oct 2020 17:13:40 +0000</pubDate>
 				<category><![CDATA[eresources]]></category>
 		<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=5850</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5850</guid>
 
-					<description><![CDATA[LinkedIn Learning: Now Available for UCSF LinkedIn Learning (previously Lynda.com) is now available to UCSF through a campus license. LinkedIn Learning has thousands of video courses covering technical, business, software, and creative topics. Courses include: Zoom Engagement for Meetings, Working From Home Strategies, Using Python for Automation, EndNote Essentials, and ... <p class="read-more-container"><a title="" class="read-more button" href="/2020/10/05/5850/#more-5850">Read more<span class="screen-reader-text"></span></a></p>]]></description>
+					<description><![CDATA[LinkedIn Learning: Now Available for UCSF LinkedIn Learning (previously Lynda.com) is now available to UCSF through a campus license. LinkedIn Learning has thousands of video courses covering technical, business, software, and creative topics. Courses include: Zoom Engagement for Meetings, Working From Home Strategies, Using Python for Automation, EndNote Essentials, and ... <p class="read-more-container"><a title="" class="read-more button" href="/staff.library.ucsf.edu/2020/10/05/5850/#more-5850">Read more<span class="screen-reader-text"></span></a></p>]]></description>
 		
-					<wfw:commentRss>/2020/10/05/5850/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2020/10/05/5850/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Education and Research Team Support Updates!</title>
-		<link>/2020/07/20/education-and-research-team-support-updates/</link>
-					<comments>/2020/07/20/education-and-research-team-support-updates/#respond</comments>
+		<link>/staff.library.ucsf.edu/2020/07/20/education-and-research-team-support-updates/</link>
+					<comments>/staff.library.ucsf.edu/2020/07/20/education-and-research-team-support-updates/#respond</comments>
 		
 		<dc:creator><![CDATA[Micquel Little]]></dc:creator>
 		<pubDate>Mon, 20 Jul 2020 14:40:11 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=5681</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5681</guid>
 
-					<description><![CDATA[The Education and Research Team has updated our approach to ready reference and reference manager tool support. Our Ready Reference project set out to update documentation and support resources to inform and empower front line staff to answer basic ready reference questions received across the various mediums available: email/tickets, walk-ups, ... <p class="read-more-container"><a title="Education and Research Team Support Updates!" class="read-more button" href="/2020/07/20/education-and-research-team-support-updates/#more-5681">Read more<span class="screen-reader-text">Education and Research Team Support Updates!</span></a></p>]]></description>
+					<description><![CDATA[The Education and Research Team has updated our approach to ready reference and reference manager tool support. Our Ready Reference project set out to update documentation and support resources to inform and empower front line staff to answer basic ready reference questions received across the various mediums available: email/tickets, walk-ups, ... <p class="read-more-container"><a title="Education and Research Team Support Updates!" class="read-more button" href="/staff.library.ucsf.edu/2020/07/20/education-and-research-team-support-updates/#more-5681">Read more<span class="screen-reader-text">Education and Research Team Support Updates!</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2020/07/20/education-and-research-team-support-updates/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2020/07/20/education-and-research-team-support-updates/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>New UC Chat Reference Service!</title>
-		<link>/2020/07/02/new-uc-chat-reference-service/</link>
-					<comments>/2020/07/02/new-uc-chat-reference-service/#respond</comments>
+		<link>/staff.library.ucsf.edu/2020/07/02/new-uc-chat-reference-service/</link>
+					<comments>/staff.library.ucsf.edu/2020/07/02/new-uc-chat-reference-service/#respond</comments>
 		
 		<dc:creator><![CDATA[Peggy Tahir]]></dc:creator>
 		<pubDate>Thu, 02 Jul 2020 22:05:52 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=5677</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5677</guid>
 
-					<description><![CDATA[The UC Libraries have switched to a new chat reference service. We stopped using OCLC’s QuestionPoint system and have just switched over to using SpringShare’s LibAnswers service. You will recognize SpringShare since we already use it for our LibGuides and for scheduling classes and events in LibCal. Library patrons will ... <p class="read-more-container"><a title="New UC Chat Reference Service!" class="read-more button" href="/2020/07/02/new-uc-chat-reference-service/#more-5677">Read more<span class="screen-reader-text">New UC Chat Reference Service!</span></a></p>]]></description>
+					<description><![CDATA[The UC Libraries have switched to a new chat reference service. We stopped using OCLC’s QuestionPoint system and have just switched over to using SpringShare’s LibAnswers service. You will recognize SpringShare since we already use it for our LibGuides and for scheduling classes and events in LibCal. Library patrons will ... <p class="read-more-container"><a title="New UC Chat Reference Service!" class="read-more button" href="/staff.library.ucsf.edu/2020/07/02/new-uc-chat-reference-service/#more-5677">Read more<span class="screen-reader-text">New UC Chat Reference Service!</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2020/07/02/new-uc-chat-reference-service/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2020/07/02/new-uc-chat-reference-service/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Enabling Zoom Integration in the UCSF Library Slack</title>
-		<link>/2020/03/30/enabling-zoom-integration-in-the-ucsf-library-slack/</link>
-					<comments>/2020/03/30/enabling-zoom-integration-in-the-ucsf-library-slack/#comments</comments>
+		<link>/staff.library.ucsf.edu/2020/03/30/enabling-zoom-integration-in-the-ucsf-library-slack/</link>
+					<comments>/staff.library.ucsf.edu/2020/03/30/enabling-zoom-integration-in-the-ucsf-library-slack/#comments</comments>
 		
 		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
 		<pubDate>Mon, 30 Mar 2020 17:53:43 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=5576</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5576</guid>
 
-					<description><![CDATA[I created a two-minute screencast to show how to enable Zoom integration in the UCSF Library Slack, for those wishing to do it. We&#8217;re stuck doing this on a user-by-user basis for now, so you need to do a one-time authorization to use the integration. The screencast shows how to ... <p class="read-more-container"><a title="Enabling Zoom Integration in the UCSF Library Slack" class="read-more button" href="/2020/03/30/enabling-zoom-integration-in-the-ucsf-library-slack/#more-5576">Read more<span class="screen-reader-text">Enabling Zoom Integration in the UCSF Library Slack</span></a></p>]]></description>
+					<description><![CDATA[I created a two-minute screencast to show how to enable Zoom integration in the UCSF Library Slack, for those wishing to do it. We&#8217;re stuck doing this on a user-by-user basis for now, so you need to do a one-time authorization to use the integration. The screencast shows how to ... <p class="read-more-container"><a title="Enabling Zoom Integration in the UCSF Library Slack" class="read-more button" href="/staff.library.ucsf.edu/2020/03/30/enabling-zoom-integration-in-the-ucsf-library-slack/#more-5576">Read more<span class="screen-reader-text">Enabling Zoom Integration in the UCSF Library Slack</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2020/03/30/enabling-zoom-integration-in-the-ucsf-library-slack/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2020/03/30/enabling-zoom-integration-in-the-ucsf-library-slack/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Video Conferencing Options in Slack</title>
-		<link>/2020/03/26/videoconferencing-options-in-slack/</link>
-					<comments>/2020/03/26/videoconferencing-options-in-slack/#respond</comments>
+		<link>/staff.library.ucsf.edu/2020/03/26/videoconferencing-options-in-slack/</link>
+					<comments>/staff.library.ucsf.edu/2020/03/26/videoconferencing-options-in-slack/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
 		<pubDate>Thu, 26 Mar 2020 13:00:50 +0000</pubDate>
 				<category><![CDATA[apps]]></category>
 		<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=5554</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5554</guid>
 
-					<description><![CDATA[I received a request for Zoom integration in Slack. I thought it might be worthwhile to put the answer here. It would be great to install Zoom for Slack in a way that it is available to all users in the Library Slack. Unfortunately, this requires someone with Zoom administrative ... <p class="read-more-container"><a title="Video Conferencing Options in Slack" class="read-more button" href="/2020/03/26/videoconferencing-options-in-slack/#more-5554">Read more<span class="screen-reader-text">Video Conferencing Options in Slack</span></a></p>]]></description>
+					<description><![CDATA[I received a request for Zoom integration in Slack. I thought it might be worthwhile to put the answer here. It would be great to install Zoom for Slack in a way that it is available to all users in the Library Slack. Unfortunately, this requires someone with Zoom administrative ... <p class="read-more-container"><a title="Video Conferencing Options in Slack" class="read-more button" href="/staff.library.ucsf.edu/2020/03/26/videoconferencing-options-in-slack/#more-5554">Read more<span class="screen-reader-text">Video Conferencing Options in Slack</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2020/03/26/videoconferencing-options-in-slack/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2020/03/26/videoconferencing-options-in-slack/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Please welcome Katie Keyser!</title>
-		<link>/2020/03/03/please-welcome-katie-keyser/</link>
-					<comments>/2020/03/03/please-welcome-katie-keyser/#respond</comments>
+		<link>/staff.library.ucsf.edu/2020/03/03/please-welcome-katie-keyser/</link>
+					<comments>/staff.library.ucsf.edu/2020/03/03/please-welcome-katie-keyser/#respond</comments>
 		
 		<dc:creator><![CDATA[Susan Boone]]></dc:creator>
 		<pubDate>Tue, 03 Mar 2020 18:06:55 +0000</pubDate>
 				<category><![CDATA[new hires]]></category>
 		<category><![CDATA[staff general]]></category>
 		<category><![CDATA[new hire]]></category>
-		<guid isPermaLink="false">/?p=5541</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5541</guid>
 
-					<description><![CDATA[Katie’s joining the Collection Management unit as our Electronic Resources Specialist. She comes to us from UCB where she managed electronic books, databases, and journals. She will be our primary point person for analyzing and resolving access problems for electronic resources. She’s an avid quilter—her current project is a baby ... <p class="read-more-container"><a title="Please welcome Katie Keyser!" class="read-more button" href="/2020/03/03/please-welcome-katie-keyser/#more-5541">Read more<span class="screen-reader-text">Please welcome Katie Keyser!</span></a></p>]]></description>
+					<description><![CDATA[Katie’s joining the Collection Management unit as our Electronic Resources Specialist. She comes to us from UCB where she managed electronic books, databases, and journals. She will be our primary point person for analyzing and resolving access problems for electronic resources. She’s an avid quilter—her current project is a baby ... <p class="read-more-container"><a title="Please welcome Katie Keyser!" class="read-more button" href="/staff.library.ucsf.edu/2020/03/03/please-welcome-katie-keyser/#more-5541">Read more<span class="screen-reader-text">Please welcome Katie Keyser!</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2020/03/03/please-welcome-katie-keyser/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2020/03/03/please-welcome-katie-keyser/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Introducing the 2020 Library Open Research Challenge!</title>
-		<link>/2020/02/12/introducing-the-2020-library-open-research-challenge/</link>
-					<comments>/2020/02/12/introducing-the-2020-library-open-research-challenge/#respond</comments>
+		<link>/staff.library.ucsf.edu/2020/02/12/introducing-the-2020-library-open-research-challenge/</link>
+					<comments>/staff.library.ucsf.edu/2020/02/12/introducing-the-2020-library-open-research-challenge/#respond</comments>
 		
 		<dc:creator><![CDATA[Ariel Deardorff]]></dc:creator>
 		<pubDate>Wed, 12 Feb 2020 18:40:41 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=5529</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5529</guid>
 
-					<description><![CDATA[Are you planning on publishing an article, giving a talk, or designing a class this year? Why not participate in the 2020 library open research challenge and publish in an open access journal, deposit your presentation in eScholarship, or make your class materials freely available on the CLE! The goal ... <p class="read-more-container"><a title="Introducing the 2020 Library Open Research Challenge!" class="read-more button" href="/2020/02/12/introducing-the-2020-library-open-research-challenge/#more-5529">Read more<span class="screen-reader-text">Introducing the 2020 Library Open Research Challenge!</span></a></p>]]></description>
+					<description><![CDATA[Are you planning on publishing an article, giving a talk, or designing a class this year? Why not participate in the 2020 library open research challenge and publish in an open access journal, deposit your presentation in eScholarship, or make your class materials freely available on the CLE! The goal ... <p class="read-more-container"><a title="Introducing the 2020 Library Open Research Challenge!" class="read-more button" href="/staff.library.ucsf.edu/2020/02/12/introducing-the-2020-library-open-research-challenge/#more-5529">Read more<span class="screen-reader-text">Introducing the 2020 Library Open Research Challenge!</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2020/02/12/introducing-the-2020-library-open-research-challenge/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2020/02/12/introducing-the-2020-library-open-research-challenge/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

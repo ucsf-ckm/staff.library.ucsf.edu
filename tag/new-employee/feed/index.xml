@@ -12,8 +12,8 @@
 
 <channel>
 	<title>new employee &#8211; Off the Shelf</title>
-	<atom:link href="/tag/new-employee/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/staff.library.ucsf.edu/tag/new-employee/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Tue, 16 Feb 2021 15:20:32 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,14 +26,14 @@
 <image>
 	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
 	<title>new employee &#8211; Off the Shelf</title>
-	<link></link>
+	<link>/staff.library.ucsf.edu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Welcome Joanna Kang!</title>
-		<link>/2017/02/27/welcome-joanna-kang/</link>
-					<comments>/2017/02/27/welcome-joanna-kang/#comments</comments>
+		<link>/staff.library.ucsf.edu/2017/02/27/welcome-joanna-kang/</link>
+					<comments>/staff.library.ucsf.edu/2017/02/27/welcome-joanna-kang/#comments</comments>
 		
 		<dc:creator><![CDATA[Ariel Deardorff]]></dc:creator>
 		<pubDate>Mon, 27 Feb 2017 17:30:22 +0000</pubDate>
@@ -41,11 +41,11 @@
 		<category><![CDATA[staff general]]></category>
 		<category><![CDATA[new employee]]></category>
 		<category><![CDATA[new hire]]></category>
-		<guid isPermaLink="false">/?p=2813</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=2813</guid>
 
-					<description><![CDATA[We are very excited to introduce Joanna Kang, who is the new Coordinator for Data Science and Marketing. Joanna will be providing administrative support to the Data Science Initiative and assisting Kemi with the library’s marketing and communication efforts. A recent transplant from Los Angeles, Joanna previously worked as an ... <p class="read-more-container"><a title="Welcome Joanna Kang!" class="read-more button" href="/2017/02/27/welcome-joanna-kang/#more-2813">Read more<span class="screen-reader-text">Welcome Joanna Kang!</span></a></p>]]></description>
+					<description><![CDATA[We are very excited to introduce Joanna Kang, who is the new Coordinator for Data Science and Marketing. Joanna will be providing administrative support to the Data Science Initiative and assisting Kemi with the library’s marketing and communication efforts. A recent transplant from Los Angeles, Joanna previously worked as an ... <p class="read-more-container"><a title="Welcome Joanna Kang!" class="read-more button" href="/staff.library.ucsf.edu/2017/02/27/welcome-joanna-kang/#more-2813">Read more<span class="screen-reader-text">Welcome Joanna Kang!</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2017/02/27/welcome-joanna-kang/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2017/02/27/welcome-joanna-kang/feed/</wfw:commentRss>
 			<slash:comments>5</slash:comments>
 		
 		

@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Liz Taylor &#8211; Off the Shelf</title>
-	<atom:link href="/author/sf873902/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/staff.library.ucsf.edu/author/sf873902/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Fri, 20 Feb 2015 16:34:38 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,40 +26,40 @@
 <image>
 	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
 	<title>Liz Taylor &#8211; Off the Shelf</title>
-	<link></link>
+	<link>/staff.library.ucsf.edu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>This showed up in my inbox this morning&#8230;</title>
-		<link>/2015/02/20/this-showed-up-in-my-inbox-this-morning/</link>
-					<comments>/2015/02/20/this-showed-up-in-my-inbox-this-morning/#respond</comments>
+		<link>/staff.library.ucsf.edu/2015/02/20/this-showed-up-in-my-inbox-this-morning/</link>
+					<comments>/staff.library.ucsf.edu/2015/02/20/this-showed-up-in-my-inbox-this-morning/#respond</comments>
 		
 		<dc:creator><![CDATA[Liz Taylor]]></dc:creator>
 		<pubDate>Fri, 20 Feb 2015 16:34:38 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/2015/02/20/this-showed-up-in-my-inbox-this-morning/</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/2015/02/20/this-showed-up-in-my-inbox-this-morning/</guid>
 
 					<description><![CDATA[This showed up in my inbox this morning &#8211; a cool visualization / infographic of literary fiction genres. Happy Friday Everyone! http://www.fastcodesign.com/3042628/infographic-of-the-day/a-guide-through-the-labyrinth-of-literary-fiction]]></description>
 		
-					<wfw:commentRss>/2015/02/20/this-showed-up-in-my-inbox-this-morning/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2015/02/20/this-showed-up-in-my-inbox-this-morning/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Article about the new hospital</title>
-		<link>/2015/01/29/article-about-the-new-hospital/</link>
-					<comments>/2015/01/29/article-about-the-new-hospital/#comments</comments>
+		<link>/staff.library.ucsf.edu/2015/01/29/article-about-the-new-hospital/</link>
+					<comments>/staff.library.ucsf.edu/2015/01/29/article-about-the-new-hospital/#comments</comments>
 		
 		<dc:creator><![CDATA[Liz Taylor]]></dc:creator>
 		<pubDate>Thu, 29 Jan 2015 18:22:18 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=1441</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=1441</guid>
 
 					<description><![CDATA[I knew that there was a brand-new UCSF hospital opening on Sunday and I knew it was kind of a big deal. This article helped explain to me why: Article about the new hospital]]></description>
 		
-					<wfw:commentRss>/2015/01/29/article-about-the-new-hospital/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2015/01/29/article-about-the-new-hospital/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

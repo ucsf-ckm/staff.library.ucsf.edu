@@ -12,8 +12,8 @@
 
 <channel>
 	<title>accessibility &#8211; Off the Shelf</title>
-	<atom:link href="/category/accessibility/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/staff.library.ucsf.edu/category/accessibility/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Wed, 23 Sep 2020 20:13:42 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,87 +26,87 @@
 <image>
 	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
 	<title>accessibility &#8211; Off the Shelf</title>
-	<link></link>
+	<link>/staff.library.ucsf.edu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Unlock! Structure and Accessibility</title>
-		<link>/2020/06/24/unlock-structure-and-accessibility/</link>
-					<comments>/2020/06/24/unlock-structure-and-accessibility/#respond</comments>
+		<link>/staff.library.ucsf.edu/2020/06/24/unlock-structure-and-accessibility/</link>
+					<comments>/staff.library.ucsf.edu/2020/06/24/unlock-structure-and-accessibility/#respond</comments>
 		
 		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
 		<pubDate>Wed, 24 Jun 2020 20:06:31 +0000</pubDate>
 				<category><![CDATA[accessibility]]></category>
 		<category><![CDATA[user experience]]></category>
-		<guid isPermaLink="false">/?p=5651</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5651</guid>
 
-					<description><![CDATA[Accessibility can be a confusing topic, but we can start by looking to UCSF standards and expectations&#160;to get a sense of where to focus our efforts. If we’re talking about web content, using platforms (e.g. Moodle, WordPress, Zendesk, LibApps, etc.) that are build with accessibility in mind whenever possible really ... <p class="read-more-container"><a title="Unlock! Structure and Accessibility" class="read-more button" href="/2020/06/24/unlock-structure-and-accessibility/#more-5651">Read more<span class="screen-reader-text">Unlock! Structure and Accessibility</span></a></p>]]></description>
+					<description><![CDATA[Accessibility can be a confusing topic, but we can start by looking to UCSF standards and expectations&#160;to get a sense of where to focus our efforts. If we’re talking about web content, using platforms (e.g. Moodle, WordPress, Zendesk, LibApps, etc.) that are build with accessibility in mind whenever possible really ... <p class="read-more-container"><a title="Unlock! Structure and Accessibility" class="read-more button" href="/staff.library.ucsf.edu/2020/06/24/unlock-structure-and-accessibility/#more-5651">Read more<span class="screen-reader-text">Unlock! Structure and Accessibility</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2020/06/24/unlock-structure-and-accessibility/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2020/06/24/unlock-structure-and-accessibility/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Library Website Accessibility</title>
-		<link>/2020/05/14/library-website-accessibility/</link>
-					<comments>/2020/05/14/library-website-accessibility/#respond</comments>
+		<link>/staff.library.ucsf.edu/2020/05/14/library-website-accessibility/</link>
+					<comments>/staff.library.ucsf.edu/2020/05/14/library-website-accessibility/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
 		<pubDate>Thu, 14 May 2020 20:35:18 +0000</pubDate>
 				<category><![CDATA[accessibility]]></category>
 		<category><![CDATA[user experience]]></category>
-		<guid isPermaLink="false">/?p=5611</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5611</guid>
 
-					<description><![CDATA[Celebrate Global Accessibility Awareness Day by watching a recording of Michele&#8217;s portion of our accessibility interest group meeting, which coincidentally took place today. Michele briefly reviewed the current status of accessibility on a few of the Library&#8217;s websites and also talked about a few things she&#8217;s discovered lately to help ... <p class="read-more-container"><a title="Library Website Accessibility" class="read-more button" href="/2020/05/14/library-website-accessibility/#more-5611">Read more<span class="screen-reader-text">Library Website Accessibility</span></a></p>]]></description>
+					<description><![CDATA[Celebrate Global Accessibility Awareness Day by watching a recording of Michele&#8217;s portion of our accessibility interest group meeting, which coincidentally took place today. Michele briefly reviewed the current status of accessibility on a few of the Library&#8217;s websites and also talked about a few things she&#8217;s discovered lately to help ... <p class="read-more-container"><a title="Library Website Accessibility" class="read-more button" href="/staff.library.ucsf.edu/2020/05/14/library-website-accessibility/#more-5611">Read more<span class="screen-reader-text">Library Website Accessibility</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2020/05/14/library-website-accessibility/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2020/05/14/library-website-accessibility/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>External Link Behavior Change</title>
-		<link>/2020/04/16/external-link-behavior-change/</link>
-					<comments>/2020/04/16/external-link-behavior-change/#respond</comments>
+		<link>/staff.library.ucsf.edu/2020/04/16/external-link-behavior-change/</link>
+					<comments>/staff.library.ucsf.edu/2020/04/16/external-link-behavior-change/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
 		<pubDate>Thu, 16 Apr 2020 15:00:00 +0000</pubDate>
 				<category><![CDATA[accessibility]]></category>
 		<category><![CDATA[user experience]]></category>
 		<category><![CDATA[web]]></category>
-		<guid isPermaLink="false">/?p=5596</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5596</guid>
 
-					<description><![CDATA[To improve website usability and accessibility, we’re changing how external links open. The links will no longer open in a new window or tab by default. Right now, links to our own websites open within the same window (and tab), but external links open in a new window (or tab). ... <p class="read-more-container"><a title="External Link Behavior Change" class="read-more button" href="/2020/04/16/external-link-behavior-change/#more-5596">Read more<span class="screen-reader-text">External Link Behavior Change</span></a></p>]]></description>
+					<description><![CDATA[To improve website usability and accessibility, we’re changing how external links open. The links will no longer open in a new window or tab by default. Right now, links to our own websites open within the same window (and tab), but external links open in a new window (or tab). ... <p class="read-more-container"><a title="External Link Behavior Change" class="read-more button" href="/staff.library.ucsf.edu/2020/04/16/external-link-behavior-change/#more-5596">Read more<span class="screen-reader-text">External Link Behavior Change</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2020/04/16/external-link-behavior-change/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2020/04/16/external-link-behavior-change/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Accessibility and the Library Website</title>
-		<link>/2019/11/04/accessibility-and-the-library-website/</link>
-					<comments>/2019/11/04/accessibility-and-the-library-website/#respond</comments>
+		<link>/staff.library.ucsf.edu/2019/11/04/accessibility-and-the-library-website/</link>
+					<comments>/staff.library.ucsf.edu/2019/11/04/accessibility-and-the-library-website/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
 		<pubDate>Mon, 04 Nov 2019 23:47:30 +0000</pubDate>
 				<category><![CDATA[accessibility]]></category>
 		<category><![CDATA[user experience]]></category>
-		<guid isPermaLink="false">/?p=5271</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5271</guid>
 
-					<description><![CDATA[I recently received some comments about the Library website&#8217;s accessibility, and it seemed like a good time to disseminate information about this important initiative more widely. What is Accessibility? In Web Accessibility for Everyone, Laura Kalbag defines web accessibility as the &#8220;degree to which a website is usable by as ... <p class="read-more-container"><a title="Accessibility and the Library Website" class="read-more button" href="/2019/11/04/accessibility-and-the-library-website/#more-5271">Read more<span class="screen-reader-text">Accessibility and the Library Website</span></a></p>]]></description>
+					<description><![CDATA[I recently received some comments about the Library website&#8217;s accessibility, and it seemed like a good time to disseminate information about this important initiative more widely. What is Accessibility? In Web Accessibility for Everyone, Laura Kalbag defines web accessibility as the &#8220;degree to which a website is usable by as ... <p class="read-more-container"><a title="Accessibility and the Library Website" class="read-more button" href="/staff.library.ucsf.edu/2019/11/04/accessibility-and-the-library-website/#more-5271">Read more<span class="screen-reader-text">Accessibility and the Library Website</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2019/11/04/accessibility-and-the-library-website/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2019/11/04/accessibility-and-the-library-website/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Entrance Redesign Project Update</title>
-		<link>/2018/11/21/entrance-redesign-project-update-2/</link>
-					<comments>/2018/11/21/entrance-redesign-project-update-2/#respond</comments>
+		<link>/staff.library.ucsf.edu/2018/11/21/entrance-redesign-project-update-2/</link>
+					<comments>/staff.library.ucsf.edu/2018/11/21/entrance-redesign-project-update-2/#respond</comments>
 		
 		<dc:creator><![CDATA[Chris Shaffer]]></dc:creator>
 		<pubDate>Wed, 21 Nov 2018 18:00:36 +0000</pubDate>
@@ -116,19 +116,19 @@
 		<category><![CDATA[community]]></category>
 		<category><![CDATA[security]]></category>
 		<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=4513</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=4513</guid>
 
-					<description><![CDATA[The Entrance Redesign Project has been a long and complex process and that will continue as we move into 2019. There has been a lot of work behind the scenes to plan for this major transition. With any major project come unexpected changes. Recently, EVCP Dan Lowenstein informed me that ... <p class="read-more-container"><a title="Entrance Redesign Project Update" class="read-more button" href="/2018/11/21/entrance-redesign-project-update-2/#more-4513">Read more<span class="screen-reader-text">Entrance Redesign Project Update</span></a></p>]]></description>
+					<description><![CDATA[The Entrance Redesign Project has been a long and complex process and that will continue as we move into 2019. There has been a lot of work behind the scenes to plan for this major transition. With any major project come unexpected changes. Recently, EVCP Dan Lowenstein informed me that ... <p class="read-more-container"><a title="Entrance Redesign Project Update" class="read-more button" href="/staff.library.ucsf.edu/2018/11/21/entrance-redesign-project-update-2/#more-4513">Read more<span class="screen-reader-text">Entrance Redesign Project Update</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2018/11/21/entrance-redesign-project-update-2/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2018/11/21/entrance-redesign-project-update-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Off the Shelf is getting an update</title>
-		<link>/2018/09/21/off-the-shelf-is-getting-an-update/</link>
-					<comments>/2018/09/21/off-the-shelf-is-getting-an-update/#respond</comments>
+		<link>/staff.library.ucsf.edu/2018/09/21/off-the-shelf-is-getting-an-update/</link>
+					<comments>/staff.library.ucsf.edu/2018/09/21/off-the-shelf-is-getting-an-update/#respond</comments>
 		
 		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
 		<pubDate>Fri, 21 Sep 2018 23:37:19 +0000</pubDate>
@@ -137,30 +137,30 @@
 		<category><![CDATA[staff general]]></category>
 		<category><![CDATA[user experience]]></category>
 		<category><![CDATA[web]]></category>
-		<guid isPermaLink="false">/?p=4355</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=4355</guid>
 
-					<description><![CDATA[Off the Shelf is starting to show its age a bit, so next week it will be getting a much needed refresh. The look and feel will be updated to a more current design using the UCSF color palette, and the posts will be easier to read on whatever size ... <p class="read-more-container"><a title="Off the Shelf is getting an update" class="read-more button" href="/2018/09/21/off-the-shelf-is-getting-an-update/#more-4355">Read more<span class="screen-reader-text">Off the Shelf is getting an update</span></a></p>]]></description>
+					<description><![CDATA[Off the Shelf is starting to show its age a bit, so next week it will be getting a much needed refresh. The look and feel will be updated to a more current design using the UCSF color palette, and the posts will be easier to read on whatever size ... <p class="read-more-container"><a title="Off the Shelf is getting an update" class="read-more button" href="/staff.library.ucsf.edu/2018/09/21/off-the-shelf-is-getting-an-update/#more-4355">Read more<span class="screen-reader-text">Off the Shelf is getting an update</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2018/09/21/off-the-shelf-is-getting-an-update/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2018/09/21/off-the-shelf-is-getting-an-update/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Website Tune-up</title>
-		<link>/2018/07/19/website-tune-up/</link>
-					<comments>/2018/07/19/website-tune-up/#comments</comments>
+		<link>/staff.library.ucsf.edu/2018/07/19/website-tune-up/</link>
+					<comments>/staff.library.ucsf.edu/2018/07/19/website-tune-up/#comments</comments>
 		
 		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
 		<pubDate>Thu, 19 Jul 2018 20:09:27 +0000</pubDate>
 				<category><![CDATA[accessibility]]></category>
 		<category><![CDATA[responsive]]></category>
 		<category><![CDATA[user experience]]></category>
-		<guid isPermaLink="false">/?p=4231</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=4231</guid>
 
-					<description><![CDATA[Just a heads up to let everyone know that some website changes are scheduled to go live early tomorrow morning July 20. This will affect the primary Library site at https://www.library.ucsf.edu./ The tune-up mostly concerns under-the-hood changes, but those will result in improvements to areas which directly impact our users: ... <p class="read-more-container"><a title="Website Tune-up" class="read-more button" href="/2018/07/19/website-tune-up/#more-4231">Read more<span class="screen-reader-text">Website Tune-up</span></a></p>]]></description>
+					<description><![CDATA[Just a heads up to let everyone know that some website changes are scheduled to go live early tomorrow morning July 20. This will affect the primary Library site at https://www.library.ucsf.edu./ The tune-up mostly concerns under-the-hood changes, but those will result in improvements to areas which directly impact our users: ... <p class="read-more-container"><a title="Website Tune-up" class="read-more button" href="/staff.library.ucsf.edu/2018/07/19/website-tune-up/#more-4231">Read more<span class="screen-reader-text">Website Tune-up</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2018/07/19/website-tune-up/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2018/07/19/website-tune-up/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

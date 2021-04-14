@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Richard Trott &#8211; Off the Shelf</title>
-	<atom:link href="/author/sf830499/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/staff.library.ucsf.edu/author/sf830499/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Tue, 16 Feb 2021 15:19:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,183 +26,183 @@
 <image>
 	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
 	<title>Richard Trott &#8211; Off the Shelf</title>
-	<link></link>
+	<link>/staff.library.ucsf.edu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Library Website Accessibility</title>
-		<link>/2020/05/14/library-website-accessibility/</link>
-					<comments>/2020/05/14/library-website-accessibility/#respond</comments>
+		<link>/staff.library.ucsf.edu/2020/05/14/library-website-accessibility/</link>
+					<comments>/staff.library.ucsf.edu/2020/05/14/library-website-accessibility/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
 		<pubDate>Thu, 14 May 2020 20:35:18 +0000</pubDate>
 				<category><![CDATA[accessibility]]></category>
 		<category><![CDATA[user experience]]></category>
-		<guid isPermaLink="false">/?p=5611</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5611</guid>
 
-					<description><![CDATA[Celebrate Global Accessibility Awareness Day by watching a recording of Michele&#8217;s portion of our accessibility interest group meeting, which coincidentally took place today. Michele briefly reviewed the current status of accessibility on a few of the Library&#8217;s websites and also talked about a few things she&#8217;s discovered lately to help ... <p class="read-more-container"><a title="Library Website Accessibility" class="read-more button" href="/2020/05/14/library-website-accessibility/#more-5611">Read more<span class="screen-reader-text">Library Website Accessibility</span></a></p>]]></description>
+					<description><![CDATA[Celebrate Global Accessibility Awareness Day by watching a recording of Michele&#8217;s portion of our accessibility interest group meeting, which coincidentally took place today. Michele briefly reviewed the current status of accessibility on a few of the Library&#8217;s websites and also talked about a few things she&#8217;s discovered lately to help ... <p class="read-more-container"><a title="Library Website Accessibility" class="read-more button" href="/staff.library.ucsf.edu/2020/05/14/library-website-accessibility/#more-5611">Read more<span class="screen-reader-text">Library Website Accessibility</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2020/05/14/library-website-accessibility/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2020/05/14/library-website-accessibility/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>External Link Behavior Change</title>
-		<link>/2020/04/16/external-link-behavior-change/</link>
-					<comments>/2020/04/16/external-link-behavior-change/#respond</comments>
+		<link>/staff.library.ucsf.edu/2020/04/16/external-link-behavior-change/</link>
+					<comments>/staff.library.ucsf.edu/2020/04/16/external-link-behavior-change/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
 		<pubDate>Thu, 16 Apr 2020 15:00:00 +0000</pubDate>
 				<category><![CDATA[accessibility]]></category>
 		<category><![CDATA[user experience]]></category>
 		<category><![CDATA[web]]></category>
-		<guid isPermaLink="false">/?p=5596</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5596</guid>
 
-					<description><![CDATA[To improve website usability and accessibility, we’re changing how external links open. The links will no longer open in a new window or tab by default. Right now, links to our own websites open within the same window (and tab), but external links open in a new window (or tab). ... <p class="read-more-container"><a title="External Link Behavior Change" class="read-more button" href="/2020/04/16/external-link-behavior-change/#more-5596">Read more<span class="screen-reader-text">External Link Behavior Change</span></a></p>]]></description>
+					<description><![CDATA[To improve website usability and accessibility, we’re changing how external links open. The links will no longer open in a new window or tab by default. Right now, links to our own websites open within the same window (and tab), but external links open in a new window (or tab). ... <p class="read-more-container"><a title="External Link Behavior Change" class="read-more button" href="/staff.library.ucsf.edu/2020/04/16/external-link-behavior-change/#more-5596">Read more<span class="screen-reader-text">External Link Behavior Change</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2020/04/16/external-link-behavior-change/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2020/04/16/external-link-behavior-change/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Enabling Zoom Integration in the UCSF Library Slack</title>
-		<link>/2020/03/30/enabling-zoom-integration-in-the-ucsf-library-slack/</link>
-					<comments>/2020/03/30/enabling-zoom-integration-in-the-ucsf-library-slack/#comments</comments>
+		<link>/staff.library.ucsf.edu/2020/03/30/enabling-zoom-integration-in-the-ucsf-library-slack/</link>
+					<comments>/staff.library.ucsf.edu/2020/03/30/enabling-zoom-integration-in-the-ucsf-library-slack/#comments</comments>
 		
 		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
 		<pubDate>Mon, 30 Mar 2020 17:53:43 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=5576</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5576</guid>
 
-					<description><![CDATA[I created a two-minute screencast to show how to enable Zoom integration in the UCSF Library Slack, for those wishing to do it. We&#8217;re stuck doing this on a user-by-user basis for now, so you need to do a one-time authorization to use the integration. The screencast shows how to ... <p class="read-more-container"><a title="Enabling Zoom Integration in the UCSF Library Slack" class="read-more button" href="/2020/03/30/enabling-zoom-integration-in-the-ucsf-library-slack/#more-5576">Read more<span class="screen-reader-text">Enabling Zoom Integration in the UCSF Library Slack</span></a></p>]]></description>
+					<description><![CDATA[I created a two-minute screencast to show how to enable Zoom integration in the UCSF Library Slack, for those wishing to do it. We&#8217;re stuck doing this on a user-by-user basis for now, so you need to do a one-time authorization to use the integration. The screencast shows how to ... <p class="read-more-container"><a title="Enabling Zoom Integration in the UCSF Library Slack" class="read-more button" href="/staff.library.ucsf.edu/2020/03/30/enabling-zoom-integration-in-the-ucsf-library-slack/#more-5576">Read more<span class="screen-reader-text">Enabling Zoom Integration in the UCSF Library Slack</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2020/03/30/enabling-zoom-integration-in-the-ucsf-library-slack/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2020/03/30/enabling-zoom-integration-in-the-ucsf-library-slack/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Video Conferencing Options in Slack</title>
-		<link>/2020/03/26/videoconferencing-options-in-slack/</link>
-					<comments>/2020/03/26/videoconferencing-options-in-slack/#respond</comments>
+		<link>/staff.library.ucsf.edu/2020/03/26/videoconferencing-options-in-slack/</link>
+					<comments>/staff.library.ucsf.edu/2020/03/26/videoconferencing-options-in-slack/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
 		<pubDate>Thu, 26 Mar 2020 13:00:50 +0000</pubDate>
 				<category><![CDATA[apps]]></category>
 		<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=5554</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5554</guid>
 
-					<description><![CDATA[I received a request for Zoom integration in Slack. I thought it might be worthwhile to put the answer here. It would be great to install Zoom for Slack in a way that it is available to all users in the Library Slack. Unfortunately, this requires someone with Zoom administrative ... <p class="read-more-container"><a title="Video Conferencing Options in Slack" class="read-more button" href="/2020/03/26/videoconferencing-options-in-slack/#more-5554">Read more<span class="screen-reader-text">Video Conferencing Options in Slack</span></a></p>]]></description>
+					<description><![CDATA[I received a request for Zoom integration in Slack. I thought it might be worthwhile to put the answer here. It would be great to install Zoom for Slack in a way that it is available to all users in the Library Slack. Unfortunately, this requires someone with Zoom administrative ... <p class="read-more-container"><a title="Video Conferencing Options in Slack" class="read-more button" href="/staff.library.ucsf.edu/2020/03/26/videoconferencing-options-in-slack/#more-5554">Read more<span class="screen-reader-text">Video Conferencing Options in Slack</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2020/03/26/videoconferencing-options-in-slack/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2020/03/26/videoconferencing-options-in-slack/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Accessibility and the Library Website</title>
-		<link>/2019/11/04/accessibility-and-the-library-website/</link>
-					<comments>/2019/11/04/accessibility-and-the-library-website/#respond</comments>
+		<link>/staff.library.ucsf.edu/2019/11/04/accessibility-and-the-library-website/</link>
+					<comments>/staff.library.ucsf.edu/2019/11/04/accessibility-and-the-library-website/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
 		<pubDate>Mon, 04 Nov 2019 23:47:30 +0000</pubDate>
 				<category><![CDATA[accessibility]]></category>
 		<category><![CDATA[user experience]]></category>
-		<guid isPermaLink="false">/?p=5271</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5271</guid>
 
-					<description><![CDATA[I recently received some comments about the Library website&#8217;s accessibility, and it seemed like a good time to disseminate information about this important initiative more widely. What is Accessibility? In Web Accessibility for Everyone, Laura Kalbag defines web accessibility as the &#8220;degree to which a website is usable by as ... <p class="read-more-container"><a title="Accessibility and the Library Website" class="read-more button" href="/2019/11/04/accessibility-and-the-library-website/#more-5271">Read more<span class="screen-reader-text">Accessibility and the Library Website</span></a></p>]]></description>
+					<description><![CDATA[I recently received some comments about the Library website&#8217;s accessibility, and it seemed like a good time to disseminate information about this important initiative more widely. What is Accessibility? In Web Accessibility for Everyone, Laura Kalbag defines web accessibility as the &#8220;degree to which a website is usable by as ... <p class="read-more-container"><a title="Accessibility and the Library Website" class="read-more button" href="/staff.library.ucsf.edu/2019/11/04/accessibility-and-the-library-website/#more-5271">Read more<span class="screen-reader-text">Accessibility and the Library Website</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2019/11/04/accessibility-and-the-library-website/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2019/11/04/accessibility-and-the-library-website/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Welcome, Scott Drapeau!</title>
-		<link>/2018/10/29/welcome-scott-drapeau/</link>
-					<comments>/2018/10/29/welcome-scott-drapeau/#comments</comments>
+		<link>/staff.library.ucsf.edu/2018/10/29/welcome-scott-drapeau/</link>
+					<comments>/staff.library.ucsf.edu/2018/10/29/welcome-scott-drapeau/#comments</comments>
 		
 		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
 		<pubDate>Mon, 29 Oct 2018 22:00:52 +0000</pubDate>
 				<category><![CDATA[new hires]]></category>
 		<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=4486</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=4486</guid>
 
-					<description><![CDATA[I am very happy to introduce our new CLE Support Specialist, Scott Drapeau. He will be working hard to find ways to make the CLE an amazing experience for all users. Scott will be working out of Parnassus Library room 243 at the desk formerly occupied by Kaori. Here&#8217;s some ... <p class="read-more-container"><a title="Welcome, Scott Drapeau!" class="read-more button" href="/2018/10/29/welcome-scott-drapeau/#more-4486">Read more<span class="screen-reader-text">Welcome, Scott Drapeau!</span></a></p>]]></description>
+					<description><![CDATA[I am very happy to introduce our new CLE Support Specialist, Scott Drapeau. He will be working hard to find ways to make the CLE an amazing experience for all users. Scott will be working out of Parnassus Library room 243 at the desk formerly occupied by Kaori. Here&#8217;s some ... <p class="read-more-container"><a title="Welcome, Scott Drapeau!" class="read-more button" href="/staff.library.ucsf.edu/2018/10/29/welcome-scott-drapeau/#more-4486">Read more<span class="screen-reader-text">Welcome, Scott Drapeau!</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2018/10/29/welcome-scott-drapeau/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2018/10/29/welcome-scott-drapeau/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Welcome, Anna VanderJagt!</title>
-		<link>/2018/10/14/welcome-anna-vanderjagt/</link>
-					<comments>/2018/10/14/welcome-anna-vanderjagt/#comments</comments>
+		<link>/staff.library.ucsf.edu/2018/10/14/welcome-anna-vanderjagt/</link>
+					<comments>/staff.library.ucsf.edu/2018/10/14/welcome-anna-vanderjagt/#comments</comments>
 		
 		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
 		<pubDate>Mon, 15 Oct 2018 03:27:34 +0000</pubDate>
 				<category><![CDATA[new hires]]></category>
 		<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=4473</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=4473</guid>
 
-					<description><![CDATA[I am very happy to introduce our new Service Designer, Anna VanderJagt. She will be working hard to find ways to make all of our services consistent and seamless. Anna will be working out of Parnassus Library room 115 at the desk formerly occupied by Tab. I asked Anna for ... <p class="read-more-container"><a title="Welcome, Anna VanderJagt!" class="read-more button" href="/2018/10/14/welcome-anna-vanderjagt/#more-4473">Read more<span class="screen-reader-text">Welcome, Anna VanderJagt!</span></a></p>]]></description>
+					<description><![CDATA[I am very happy to introduce our new Service Designer, Anna VanderJagt. She will be working hard to find ways to make all of our services consistent and seamless. Anna will be working out of Parnassus Library room 115 at the desk formerly occupied by Tab. I asked Anna for ... <p class="read-more-container"><a title="Welcome, Anna VanderJagt!" class="read-more button" href="/staff.library.ucsf.edu/2018/10/14/welcome-anna-vanderjagt/#more-4473">Read more<span class="screen-reader-text">Welcome, Anna VanderJagt!</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2018/10/14/welcome-anna-vanderjagt/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2018/10/14/welcome-anna-vanderjagt/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>What Is A Service Designer and Why Do You Care?</title>
-		<link>/2018/01/03/what-is-a-service-designer-and-why-do-you-care/</link>
-					<comments>/2018/01/03/what-is-a-service-designer-and-why-do-you-care/#comments</comments>
+		<link>/staff.library.ucsf.edu/2018/01/03/what-is-a-service-designer-and-why-do-you-care/</link>
+					<comments>/staff.library.ucsf.edu/2018/01/03/what-is-a-service-designer-and-why-do-you-care/#comments</comments>
 		
 		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
 		<pubDate>Wed, 03 Jan 2018 21:03:51 +0000</pubDate>
 				<category><![CDATA[user experience]]></category>
-		<guid isPermaLink="false">/?p=3805</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=3805</guid>
 
-					<description><![CDATA[While writing the job description for the opening on the Web User Experience Team created by the departure of Tab McDaniel (to Barcelona, in case you missed it), we re-titled the job. Instead of a UX Designer, we are looking for a Service Designer. The Web User Experience Team will ... <p class="read-more-container"><a title="What Is A Service Designer and Why Do You Care?" class="read-more button" href="/2018/01/03/what-is-a-service-designer-and-why-do-you-care/#more-3805">Read more<span class="screen-reader-text">What Is A Service Designer and Why Do You Care?</span></a></p>]]></description>
+					<description><![CDATA[While writing the job description for the opening on the Web User Experience Team created by the departure of Tab McDaniel (to Barcelona, in case you missed it), we re-titled the job. Instead of a UX Designer, we are looking for a Service Designer. The Web User Experience Team will ... <p class="read-more-container"><a title="What Is A Service Designer and Why Do You Care?" class="read-more button" href="/staff.library.ucsf.edu/2018/01/03/what-is-a-service-designer-and-why-do-you-care/#more-3805">Read more<span class="screen-reader-text">What Is A Service Designer and Why Do You Care?</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2018/01/03/what-is-a-service-designer-and-why-do-you-care/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2018/01/03/what-is-a-service-designer-and-why-do-you-care/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Campus STAR Spot Awards 2017-2018</title>
-		<link>/2017/11/30/campus-star-spot-awards-2017-2018/</link>
-					<comments>/2017/11/30/campus-star-spot-awards-2017-2018/#respond</comments>
+		<link>/staff.library.ucsf.edu/2017/11/30/campus-star-spot-awards-2017-2018/</link>
+					<comments>/staff.library.ucsf.edu/2017/11/30/campus-star-spot-awards-2017-2018/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
 		<pubDate>Thu, 30 Nov 2017 19:44:25 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=3763</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=3763</guid>
 
-					<description><![CDATA[Please consider nominating a eligible staff members (see eligibility list) for a $1,000 STAR Spot Award. What is a STAR Spot Award? Cash awards designed to recognize significant employee achievements and contributions for a specific project or task over a relatively short period. To recognize achievements and work performed July ... <p class="read-more-container"><a title="Campus STAR Spot Awards 2017-2018" class="read-more button" href="/2017/11/30/campus-star-spot-awards-2017-2018/#more-3763">Read more<span class="screen-reader-text">Campus STAR Spot Awards 2017-2018</span></a></p>]]></description>
+					<description><![CDATA[Please consider nominating a eligible staff members (see eligibility list) for a $1,000 STAR Spot Award. What is a STAR Spot Award? Cash awards designed to recognize significant employee achievements and contributions for a specific project or task over a relatively short period. To recognize achievements and work performed July ... <p class="read-more-container"><a title="Campus STAR Spot Awards 2017-2018" class="read-more button" href="/staff.library.ucsf.edu/2017/11/30/campus-star-spot-awards-2017-2018/#more-3763">Read more<span class="screen-reader-text">Campus STAR Spot Awards 2017-2018</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2017/11/30/campus-star-spot-awards-2017-2018/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2017/11/30/campus-star-spot-awards-2017-2018/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Farewell, Tab McDaniel!</title>
-		<link>/2017/11/06/farewell-tab-mcdaniel/</link>
-					<comments>/2017/11/06/farewell-tab-mcdaniel/#comments</comments>
+		<link>/staff.library.ucsf.edu/2017/11/06/farewell-tab-mcdaniel/</link>
+					<comments>/staff.library.ucsf.edu/2017/11/06/farewell-tab-mcdaniel/#comments</comments>
 		
 		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
 		<pubDate>Mon, 06 Nov 2017 17:00:34 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
-		<guid isPermaLink="false">/?p=3685</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=3685</guid>
 
-					<description><![CDATA[Good news: Tab McDaniel is moving to Barcelona at the end of the year! Bad news: That means she won&#8217;t be working for the UCSF Library anymore! Tab came to the Library at the end of 2013 to drive the user experience (UX) implementation for the Industry Documents Library (IDL) ... <p class="read-more-container"><a title="Farewell, Tab McDaniel!" class="read-more button" href="/2017/11/06/farewell-tab-mcdaniel/#more-3685">Read more<span class="screen-reader-text">Farewell, Tab McDaniel!</span></a></p>]]></description>
+					<description><![CDATA[Good news: Tab McDaniel is moving to Barcelona at the end of the year! Bad news: That means she won&#8217;t be working for the UCSF Library anymore! Tab came to the Library at the end of 2013 to drive the user experience (UX) implementation for the Industry Documents Library (IDL) ... <p class="read-more-container"><a title="Farewell, Tab McDaniel!" class="read-more button" href="/staff.library.ucsf.edu/2017/11/06/farewell-tab-mcdaniel/#more-3685">Read more<span class="screen-reader-text">Farewell, Tab McDaniel!</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2017/11/06/farewell-tab-mcdaniel/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2017/11/06/farewell-tab-mcdaniel/feed/</wfw:commentRss>
 			<slash:comments>13</slash:comments>
 		
 		

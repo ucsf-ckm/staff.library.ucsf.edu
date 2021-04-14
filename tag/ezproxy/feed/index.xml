@@ -12,8 +12,8 @@
 
 <channel>
 	<title>ezproxy &#8211; Off the Shelf</title>
-	<atom:link href="/tag/ezproxy/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/staff.library.ucsf.edu/tag/ezproxy/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Thu, 27 Mar 2014 17:48:18 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,14 +26,14 @@
 <image>
 	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
 	<title>ezproxy &#8211; Off the Shelf</title>
-	<link></link>
+	<link>/staff.library.ucsf.edu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Bookmarklet for EZproxy authentication</title>
-		<link>/2014/03/27/bookmarklet-for-ezproxy-authentication/</link>
-					<comments>/2014/03/27/bookmarklet-for-ezproxy-authentication/#respond</comments>
+		<link>/staff.library.ucsf.edu/2014/03/27/bookmarklet-for-ezproxy-authentication/</link>
+					<comments>/staff.library.ucsf.edu/2014/03/27/bookmarklet-for-ezproxy-authentication/#respond</comments>
 		
 		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
 		<pubDate>Thu, 27 Mar 2014 17:48:18 +0000</pubDate>
@@ -42,11 +42,11 @@
 		<category><![CDATA[mobile]]></category>
 		<category><![CDATA[ezproxy]]></category>
 		<category><![CDATA[myaccess]]></category>
-		<guid isPermaLink="false">/?p=899</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=899</guid>
 
-					<description><![CDATA[It&#8217;s been several months now, but consider this a reminder that it is no longer necessary to be on VPN in order to use library resources (e.g. articles, ebooks, etc.) The library is using a service called EZproxy to make these things available to users with only their MyAccess credentials. ... <p class="read-more-container"><a title="Bookmarklet for EZproxy authentication" class="read-more button" href="/2014/03/27/bookmarklet-for-ezproxy-authentication/#more-899">Read more<span class="screen-reader-text">Bookmarklet for EZproxy authentication</span></a></p>]]></description>
+					<description><![CDATA[It&#8217;s been several months now, but consider this a reminder that it is no longer necessary to be on VPN in order to use library resources (e.g. articles, ebooks, etc.) The library is using a service called EZproxy to make these things available to users with only their MyAccess credentials. ... <p class="read-more-container"><a title="Bookmarklet for EZproxy authentication" class="read-more button" href="/staff.library.ucsf.edu/2014/03/27/bookmarklet-for-ezproxy-authentication/#more-899">Read more<span class="screen-reader-text">Bookmarklet for EZproxy authentication</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2014/03/27/bookmarklet-for-ezproxy-authentication/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2014/03/27/bookmarklet-for-ezproxy-authentication/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

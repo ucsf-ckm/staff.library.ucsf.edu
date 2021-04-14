@@ -12,8 +12,8 @@
 
 <channel>
 	<title>profiles &#8211; Off the Shelf</title>
-	<atom:link href="/tag/profiles/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/staff.library.ucsf.edu/tag/profiles/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Fri, 10 Oct 2014 21:33:23 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,24 +26,24 @@
 <image>
 	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
 	<title>profiles &#8211; Off the Shelf</title>
-	<link></link>
+	<link>/staff.library.ucsf.edu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Who is that person who keeps saying &#8216;hi&#8217; to me in the hallway?</title>
-		<link>/2014/10/10/who-is-that-person-who-keeps-saying-hi-to-me-in-the-hallway/</link>
-					<comments>/2014/10/10/who-is-that-person-who-keeps-saying-hi-to-me-in-the-hallway/#respond</comments>
+		<link>/staff.library.ucsf.edu/2014/10/10/who-is-that-person-who-keeps-saying-hi-to-me-in-the-hallway/</link>
+					<comments>/staff.library.ucsf.edu/2014/10/10/who-is-that-person-who-keeps-saying-hi-to-me-in-the-hallway/#respond</comments>
 		
 		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
 		<pubDate>Fri, 10 Oct 2014 21:33:23 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
 		<category><![CDATA[profiles]]></category>
-		<guid isPermaLink="false">/2014/10/10/who-is-that-person-who-keeps-saying-hi-to-me-in-the-hallway/</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/2014/10/10/who-is-that-person-who-keeps-saying-hi-to-me-in-the-hallway/</guid>
 
-					<description><![CDATA[We now have a profile list on this site where you can put a name to a face (see the link on the right under About.) It’s really useful for new people, but also for those who&#8217;ve been around a while who might need to look up someone they don’t ... <p class="read-more-container"><a title="Who is that person who keeps saying &#8216;hi&#8217; to me in the hallway?" class="read-more button" href="/2014/10/10/who-is-that-person-who-keeps-saying-hi-to-me-in-the-hallway/#more-1251">Read more<span class="screen-reader-text">Who is that person who keeps saying &#8216;hi&#8217; to me in the hallway?</span></a></p>]]></description>
+					<description><![CDATA[We now have a profile list on this site where you can put a name to a face (see the link on the right under About.) It’s really useful for new people, but also for those who&#8217;ve been around a while who might need to look up someone they don’t ... <p class="read-more-container"><a title="Who is that person who keeps saying &#8216;hi&#8217; to me in the hallway?" class="read-more button" href="/staff.library.ucsf.edu/2014/10/10/who-is-that-person-who-keeps-saying-hi-to-me-in-the-hallway/#more-1251">Read more<span class="screen-reader-text">Who is that person who keeps saying &#8216;hi&#8217; to me in the hallway?</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2014/10/10/who-is-that-person-who-keeps-saying-hi-to-me-in-the-hallway/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2014/10/10/who-is-that-person-who-keeps-saying-hi-to-me-in-the-hallway/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

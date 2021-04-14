@@ -12,8 +12,8 @@
 
 <channel>
 	<title>meetings &#8211; Off the Shelf</title>
-	<atom:link href="/tag/meetings/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/staff.library.ucsf.edu/tag/meetings/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Mon, 27 Mar 2017 16:55:40 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,14 +26,14 @@
 <image>
 	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
 	<title>meetings &#8211; Off the Shelf</title>
-	<link></link>
+	<link>/staff.library.ucsf.edu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Library Green Team</title>
-		<link>/2017/03/27/library-green-team/</link>
-					<comments>/2017/03/27/library-green-team/#respond</comments>
+		<link>/staff.library.ucsf.edu/2017/03/27/library-green-team/</link>
+					<comments>/staff.library.ucsf.edu/2017/03/27/library-green-team/#respond</comments>
 		
 		<dc:creator><![CDATA[Sean Mcclelland]]></dc:creator>
 		<pubDate>Mon, 27 Mar 2017 16:55:40 +0000</pubDate>
@@ -43,47 +43,47 @@
 		<category><![CDATA[meetings]]></category>
 		<category><![CDATA[news]]></category>
 		<category><![CDATA[sustainability]]></category>
-		<guid isPermaLink="false">/?p=2890</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=2890</guid>
 
-					<description><![CDATA[Hello everyone. Join me on Monday, April 3rd, from 1-2pm in CL201 for the Library Green Team kick-off meeting! All library staff are welcome to attend. During this meeting, we&#8217;ll define what sustainability means to each of us, and how the concept applies to the Library (hint: it&#8217;s not just ... <p class="read-more-container"><a title="Library Green Team" class="read-more button" href="/2017/03/27/library-green-team/#more-2890">Read more<span class="screen-reader-text">Library Green Team</span></a></p>]]></description>
+					<description><![CDATA[Hello everyone. Join me on Monday, April 3rd, from 1-2pm in CL201 for the Library Green Team kick-off meeting! All library staff are welcome to attend. During this meeting, we&#8217;ll define what sustainability means to each of us, and how the concept applies to the Library (hint: it&#8217;s not just ... <p class="read-more-container"><a title="Library Green Team" class="read-more button" href="/staff.library.ucsf.edu/2017/03/27/library-green-team/#more-2890">Read more<span class="screen-reader-text">Library Green Team</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2017/03/27/library-green-team/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2017/03/27/library-green-team/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>UC Liaisons revamp</title>
-		<link>/2013/12/19/uc-liaisons-revamp/</link>
-					<comments>/2013/12/19/uc-liaisons-revamp/#comments</comments>
+		<link>/staff.library.ucsf.edu/2013/12/19/uc-liaisons-revamp/</link>
+					<comments>/staff.library.ucsf.edu/2013/12/19/uc-liaisons-revamp/#comments</comments>
 		
 		<dc:creator><![CDATA[Susan Boone]]></dc:creator>
 		<pubDate>Thu, 19 Dec 2013 20:13:27 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
 		<category><![CDATA[meetings]]></category>
-		<guid isPermaLink="false">/2013/12/19/uc-liaisons-revamp/</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/2013/12/19/uc-liaisons-revamp/</guid>
 
-					<description><![CDATA[The new UC Libraries Advisory Structure, announced in January and launched in July 2013, gave our Library’s UC Liaisons group the opportunity to reassess its purpose and meeting format. As UC Liaisons, we were loosely comprised of the representatives to the system-wide advisory and common interest groups, and UCSF affiliate ... <p class="read-more-container"><a title="UC Liaisons revamp" class="read-more button" href="/2013/12/19/uc-liaisons-revamp/#more-832">Read more<span class="screen-reader-text">UC Liaisons revamp</span></a></p>]]></description>
+					<description><![CDATA[The new UC Libraries Advisory Structure, announced in January and launched in July 2013, gave our Library’s UC Liaisons group the opportunity to reassess its purpose and meeting format. As UC Liaisons, we were loosely comprised of the representatives to the system-wide advisory and common interest groups, and UCSF affiliate ... <p class="read-more-container"><a title="UC Liaisons revamp" class="read-more button" href="/staff.library.ucsf.edu/2013/12/19/uc-liaisons-revamp/#more-832">Read more<span class="screen-reader-text">UC Liaisons revamp</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2013/12/19/uc-liaisons-revamp/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2013/12/19/uc-liaisons-revamp/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>New Meeting Guidelines</title>
-		<link>/2013/12/11/new-meeting-guidelines/</link>
-					<comments>/2013/12/11/new-meeting-guidelines/#comments</comments>
+		<link>/staff.library.ucsf.edu/2013/12/11/new-meeting-guidelines/</link>
+					<comments>/staff.library.ucsf.edu/2013/12/11/new-meeting-guidelines/#comments</comments>
 		
 		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
 		<pubDate>Thu, 12 Dec 2013 00:08:21 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
 		<category><![CDATA[meetings]]></category>
-		<guid isPermaLink="false">/2013/12/11/new-meeting-guidelines/</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/2013/12/11/new-meeting-guidelines/</guid>
 
-					<description><![CDATA[In response to the Employee Engagement survey, there are several action plans in progress. In pursuit of Q2, Susan, Rich, and I have put together some guidelines for Meeting Best Practices. https://wiki.library.ucsf.edu/x/6JRFEw As with all guidelines, there will always be some exceptions, but we feel this represents a much-needed general ... <p class="read-more-container"><a title="New Meeting Guidelines" class="read-more button" href="/2013/12/11/new-meeting-guidelines/#more-829">Read more<span class="screen-reader-text">New Meeting Guidelines</span></a></p>]]></description>
+					<description><![CDATA[In response to the Employee Engagement survey, there are several action plans in progress. In pursuit of Q2, Susan, Rich, and I have put together some guidelines for Meeting Best Practices. https://wiki.library.ucsf.edu/x/6JRFEw As with all guidelines, there will always be some exceptions, but we feel this represents a much-needed general ... <p class="read-more-container"><a title="New Meeting Guidelines" class="read-more button" href="/staff.library.ucsf.edu/2013/12/11/new-meeting-guidelines/#more-829">Read more<span class="screen-reader-text">New Meeting Guidelines</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2013/12/11/new-meeting-guidelines/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2013/12/11/new-meeting-guidelines/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

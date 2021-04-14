@@ -12,8 +12,8 @@
 
 <channel>
 	<title>authentication &#8211; Off the Shelf</title>
-	<atom:link href="/category/authentication/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/staff.library.ucsf.edu/category/authentication/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Fri, 06 Sep 2019 18:25:22 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,33 +26,33 @@
 <image>
 	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
 	<title>authentication &#8211; Off the Shelf</title>
-	<link></link>
+	<link>/staff.library.ucsf.edu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A New Look</title>
-		<link>/2018/09/25/a-new-look/</link>
-					<comments>/2018/09/25/a-new-look/#respond</comments>
+		<link>/staff.library.ucsf.edu/2018/09/25/a-new-look/</link>
+					<comments>/staff.library.ucsf.edu/2018/09/25/a-new-look/#respond</comments>
 		
 		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
 		<pubDate>Tue, 25 Sep 2018 19:48:29 +0000</pubDate>
 				<category><![CDATA[authentication]]></category>
 		<category><![CDATA[staff general]]></category>
 		<category><![CDATA[user experience]]></category>
-		<guid isPermaLink="false">/?p=4413</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=4413</guid>
 
-					<description><![CDATA[This staff blog has been updated to be more responsive, clean, and secure. However, all the old posts are still there along with the requirement that you log in using MyAccess to write a new post. If you get an error, please let me know in the comments (or via ... <p class="read-more-container"><a title="A New Look" class="read-more button" href="/2018/09/25/a-new-look/#more-4413">Read more<span class="screen-reader-text">A New Look</span></a></p>]]></description>
+					<description><![CDATA[This staff blog has been updated to be more responsive, clean, and secure. However, all the old posts are still there along with the requirement that you log in using MyAccess to write a new post. If you get an error, please let me know in the comments (or via ... <p class="read-more-container"><a title="A New Look" class="read-more button" href="/staff.library.ucsf.edu/2018/09/25/a-new-look/#more-4413">Read more<span class="screen-reader-text">A New Look</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2018/09/25/a-new-look/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2018/09/25/a-new-look/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Melvyl Now Works with EZproxy</title>
-		<link>/2017/06/12/melvyl-works-with-ezproxy/</link>
-					<comments>/2017/06/12/melvyl-works-with-ezproxy/#comments</comments>
+		<link>/staff.library.ucsf.edu/2017/06/12/melvyl-works-with-ezproxy/</link>
+					<comments>/staff.library.ucsf.edu/2017/06/12/melvyl-works-with-ezproxy/#comments</comments>
 		
 		<dc:creator><![CDATA[Tab McDaniel]]></dc:creator>
 		<pubDate>Mon, 12 Jun 2017 20:56:23 +0000</pubDate>
@@ -60,56 +60,56 @@
 		<category><![CDATA[eresources]]></category>
 		<category><![CDATA[user experience]]></category>
 		<category><![CDATA[web]]></category>
-		<guid isPermaLink="false">/?p=3108</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=3108</guid>
 
-					<description><![CDATA[We partnered with CDL to fix a long-standing usability issue with with Melvyl. An off-network visitor might be prompted to sign in to UCSF Library before viewing search results. Unfortunately, following this prompt sent the user to our full text information page, instead of giving them an easy way to log in and ... <p class="read-more-container"><a title="Melvyl Now Works with EZproxy" class="read-more button" href="/2017/06/12/melvyl-works-with-ezproxy/#more-3108">Read more<span class="screen-reader-text">Melvyl Now Works with EZproxy</span></a></p>]]></description>
+					<description><![CDATA[We partnered with CDL to fix a long-standing usability issue with with Melvyl. An off-network visitor might be prompted to sign in to UCSF Library before viewing search results. Unfortunately, following this prompt sent the user to our full text information page, instead of giving them an easy way to log in and ... <p class="read-more-container"><a title="Melvyl Now Works with EZproxy" class="read-more button" href="/staff.library.ucsf.edu/2017/06/12/melvyl-works-with-ezproxy/#more-3108">Read more<span class="screen-reader-text">Melvyl Now Works with EZproxy</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2017/06/12/melvyl-works-with-ezproxy/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2017/06/12/melvyl-works-with-ezproxy/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>MyAccess for room reservations and classes</title>
-		<link>/2016/04/06/myaccess-for-room-reservations-and-classes/</link>
-					<comments>/2016/04/06/myaccess-for-room-reservations-and-classes/#comments</comments>
+		<link>/staff.library.ucsf.edu/2016/04/06/myaccess-for-room-reservations-and-classes/</link>
+					<comments>/staff.library.ucsf.edu/2016/04/06/myaccess-for-room-reservations-and-classes/#comments</comments>
 		
 		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
 		<pubDate>Wed, 06 Apr 2016 17:44:25 +0000</pubDate>
 				<category><![CDATA[authentication]]></category>
 		<category><![CDATA[user experience]]></category>
 		<category><![CDATA[myaccess]]></category>
-		<guid isPermaLink="false">/?p=2110</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=2110</guid>
 
-					<description><![CDATA[Big news! For all our services from Springshare, (e.g. LibCal room reservations and library classes) we now have the option of turning on authentication via MyAccess. In the past this was not possible, and users reserved with an email address, but there was no way to truly enforce access to areas ... <p class="read-more-container"><a title="MyAccess for room reservations and classes" class="read-more button" href="/2016/04/06/myaccess-for-room-reservations-and-classes/#more-2110">Read more<span class="screen-reader-text">MyAccess for room reservations and classes</span></a></p>]]></description>
+					<description><![CDATA[Big news! For all our services from Springshare, (e.g. LibCal room reservations and library classes) we now have the option of turning on authentication via MyAccess. In the past this was not possible, and users reserved with an email address, but there was no way to truly enforce access to areas ... <p class="read-more-container"><a title="MyAccess for room reservations and classes" class="read-more button" href="/staff.library.ucsf.edu/2016/04/06/myaccess-for-room-reservations-and-classes/#more-2110">Read more<span class="screen-reader-text">MyAccess for room reservations and classes</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2016/04/06/myaccess-for-room-reservations-and-classes/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2016/04/06/myaccess-for-room-reservations-and-classes/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Have a Mobile Phone?</title>
-		<link>/2014/07/22/have-a-mobile-phone/</link>
-					<comments>/2014/07/22/have-a-mobile-phone/#respond</comments>
+		<link>/staff.library.ucsf.edu/2014/07/22/have-a-mobile-phone/</link>
+					<comments>/staff.library.ucsf.edu/2014/07/22/have-a-mobile-phone/#respond</comments>
 		
 		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
 		<pubDate>Tue, 22 Jul 2014 20:47:52 +0000</pubDate>
 				<category><![CDATA[authentication]]></category>
 		<category><![CDATA[security]]></category>
-		<guid isPermaLink="false">/?p=1082</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=1082</guid>
 
 					<description><![CDATA[Then you can&#8217;t afford to miss these recent posts on Mobilized by Tony and Ben: Lock It Up: Encrypting Your Mobile Phone Will You Have a Kill Switch When You Need It?]]></description>
 		
-					<wfw:commentRss>/2014/07/22/have-a-mobile-phone/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2014/07/22/have-a-mobile-phone/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Bookmarklet for EZproxy authentication</title>
-		<link>/2014/03/27/bookmarklet-for-ezproxy-authentication/</link>
-					<comments>/2014/03/27/bookmarklet-for-ezproxy-authentication/#respond</comments>
+		<link>/staff.library.ucsf.edu/2014/03/27/bookmarklet-for-ezproxy-authentication/</link>
+					<comments>/staff.library.ucsf.edu/2014/03/27/bookmarklet-for-ezproxy-authentication/#respond</comments>
 		
 		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
 		<pubDate>Thu, 27 Mar 2014 17:48:18 +0000</pubDate>
@@ -118,11 +118,11 @@
 		<category><![CDATA[mobile]]></category>
 		<category><![CDATA[ezproxy]]></category>
 		<category><![CDATA[myaccess]]></category>
-		<guid isPermaLink="false">/?p=899</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=899</guid>
 
-					<description><![CDATA[It&#8217;s been several months now, but consider this a reminder that it is no longer necessary to be on VPN in order to use library resources (e.g. articles, ebooks, etc.) The library is using a service called EZproxy to make these things available to users with only their MyAccess credentials. ... <p class="read-more-container"><a title="Bookmarklet for EZproxy authentication" class="read-more button" href="/2014/03/27/bookmarklet-for-ezproxy-authentication/#more-899">Read more<span class="screen-reader-text">Bookmarklet for EZproxy authentication</span></a></p>]]></description>
+					<description><![CDATA[It&#8217;s been several months now, but consider this a reminder that it is no longer necessary to be on VPN in order to use library resources (e.g. articles, ebooks, etc.) The library is using a service called EZproxy to make these things available to users with only their MyAccess credentials. ... <p class="read-more-container"><a title="Bookmarklet for EZproxy authentication" class="read-more button" href="/staff.library.ucsf.edu/2014/03/27/bookmarklet-for-ezproxy-authentication/#more-899">Read more<span class="screen-reader-text">Bookmarklet for EZproxy authentication</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2014/03/27/bookmarklet-for-ezproxy-authentication/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2014/03/27/bookmarklet-for-ezproxy-authentication/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -12,8 +12,8 @@
 
 <channel>
 	<title>software &#8211; Off the Shelf</title>
-	<atom:link href="/tag/software/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/staff.library.ucsf.edu/tag/software/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Fri, 19 May 2017 01:03:50 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,14 +26,14 @@
 <image>
 	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
 	<title>software &#8211; Off the Shelf</title>
-	<link></link>
+	<link>/staff.library.ucsf.edu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>New Process for Library Staff to Request Computer Hardware &#038; Software</title>
-		<link>/2017/05/18/new-process-for-library-staff-to-request-computer-hardware-software/</link>
-					<comments>/2017/05/18/new-process-for-library-staff-to-request-computer-hardware-software/#respond</comments>
+		<link>/staff.library.ucsf.edu/2017/05/18/new-process-for-library-staff-to-request-computer-hardware-software/</link>
+					<comments>/staff.library.ucsf.edu/2017/05/18/new-process-for-library-staff-to-request-computer-hardware-software/#respond</comments>
 		
 		<dc:creator><![CDATA[Kirk Hudson]]></dc:creator>
 		<pubDate>Thu, 18 May 2017 21:17:04 +0000</pubDate>
@@ -44,11 +44,11 @@
 		<category><![CDATA[request]]></category>
 		<category><![CDATA[software]]></category>
 		<category><![CDATA[staff]]></category>
-		<guid isPermaLink="false">/?p=3071</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=3071</guid>
 
-					<description><![CDATA[To improve the process for Library staff requesting computer hardware and software, and to provide tracking, we have chosen to use Zendesk for all requests moving forward from today. To make sure your requests get routed to the Tech Commons directly, please make sure to select these options when making ... <p class="read-more-container"><a title="New Process for Library Staff to Request Computer Hardware &#38; Software" class="read-more button" href="/2017/05/18/new-process-for-library-staff-to-request-computer-hardware-software/#more-3071">Read more<span class="screen-reader-text">New Process for Library Staff to Request Computer Hardware &#38; Software</span></a></p>]]></description>
+					<description><![CDATA[To improve the process for Library staff requesting computer hardware and software, and to provide tracking, we have chosen to use Zendesk for all requests moving forward from today. To make sure your requests get routed to the Tech Commons directly, please make sure to select these options when making ... <p class="read-more-container"><a title="New Process for Library Staff to Request Computer Hardware &#38; Software" class="read-more button" href="/staff.library.ucsf.edu/2017/05/18/new-process-for-library-staff-to-request-computer-hardware-software/#more-3071">Read more<span class="screen-reader-text">New Process for Library Staff to Request Computer Hardware &#38; Software</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2017/05/18/new-process-for-library-staff-to-request-computer-hardware-software/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2017/05/18/new-process-for-library-staff-to-request-computer-hardware-software/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

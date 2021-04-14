@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Karen Butter &#8211; Off the Shelf</title>
-	<atom:link href="/tag/karen-butter/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/staff.library.ucsf.edu/tag/karen-butter/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Mon, 17 Aug 2015 18:44:50 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,14 +26,14 @@
 <image>
 	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
 	<title>Karen Butter &#8211; Off the Shelf</title>
-	<link></link>
+	<link>/staff.library.ucsf.edu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Karen&#8217;s Official Retirement Announcement</title>
-		<link>/2015/08/12/karens-official-retirement-announcement/</link>
-					<comments>/2015/08/12/karens-official-retirement-announcement/#respond</comments>
+		<link>/staff.library.ucsf.edu/2015/08/12/karens-official-retirement-announcement/</link>
+					<comments>/staff.library.ucsf.edu/2015/08/12/karens-official-retirement-announcement/#respond</comments>
 		
 		<dc:creator><![CDATA[Kemi Amin]]></dc:creator>
 		<pubDate>Wed, 12 Aug 2015 17:09:08 +0000</pubDate>
@@ -44,11 +44,11 @@
 		<category><![CDATA[Karen Butter]]></category>
 		<category><![CDATA[staff]]></category>
 		<category><![CDATA[update]]></category>
-		<guid isPermaLink="false">/2015/08/12/karens-official-retirement-announcement/</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/2015/08/12/karens-official-retirement-announcement/</guid>
 
-					<description><![CDATA[The following is the official announcement from EVCP Dan Lowenstein on Karen&#8217;s retirement: Dear Members of the UCSF Community: Karen Butter, our University Librarian and Assistant Vice Chancellor of Library Services and Instructional Technology, has informed me of her intent to retire effective January 5, 2016. As I share this ... <p class="read-more-container"><a title="Karen&#8217;s Official Retirement Announcement" class="read-more button" href="/2015/08/12/karens-official-retirement-announcement/#more-1665">Read more<span class="screen-reader-text">Karen&#8217;s Official Retirement Announcement</span></a></p>]]></description>
+					<description><![CDATA[The following is the official announcement from EVCP Dan Lowenstein on Karen&#8217;s retirement: Dear Members of the UCSF Community: Karen Butter, our University Librarian and Assistant Vice Chancellor of Library Services and Instructional Technology, has informed me of her intent to retire effective January 5, 2016. As I share this ... <p class="read-more-container"><a title="Karen&#8217;s Official Retirement Announcement" class="read-more button" href="/staff.library.ucsf.edu/2015/08/12/karens-official-retirement-announcement/#more-1665">Read more<span class="screen-reader-text">Karen&#8217;s Official Retirement Announcement</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2015/08/12/karens-official-retirement-announcement/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2015/08/12/karens-official-retirement-announcement/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

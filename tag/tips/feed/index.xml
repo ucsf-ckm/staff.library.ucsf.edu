@@ -12,8 +12,8 @@
 
 <channel>
 	<title>tips &#8211; Off the Shelf</title>
-	<atom:link href="/tag/tips/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/staff.library.ucsf.edu/tag/tips/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Mon, 25 Mar 2013 23:13:34 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,25 +26,25 @@
 <image>
 	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
 	<title>tips &#8211; Off the Shelf</title>
-	<link></link>
+	<link>/staff.library.ucsf.edu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>What to Use Instead of Google Reader?</title>
-		<link>/2013/03/22/what-to-use-instead-of-google-reader/</link>
-					<comments>/2013/03/22/what-to-use-instead-of-google-reader/#comments</comments>
+		<link>/staff.library.ucsf.edu/2013/03/22/what-to-use-instead-of-google-reader/</link>
+					<comments>/staff.library.ucsf.edu/2013/03/22/what-to-use-instead-of-google-reader/#comments</comments>
 		
 		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
 		<pubDate>Fri, 22 Mar 2013 23:19:13 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
 		<category><![CDATA[technology]]></category>
 		<category><![CDATA[tips]]></category>
-		<guid isPermaLink="false">/?p=525</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=525</guid>
 
-					<description><![CDATA[Last week Google announced it will kill Google Reader soon, and the interwebs have been abuzz ever since with people lamenting its demise and discussing the best alternative to keep track of RSS feeds. Are you a Google Reader user? If so, which of these solutions will you be using instead? ... <p class="read-more-container"><a title="What to Use Instead of Google Reader?" class="read-more button" href="/2013/03/22/what-to-use-instead-of-google-reader/#more-525">Read more<span class="screen-reader-text">What to Use Instead of Google Reader?</span></a></p>]]></description>
+					<description><![CDATA[Last week Google announced it will kill Google Reader soon, and the interwebs have been abuzz ever since with people lamenting its demise and discussing the best alternative to keep track of RSS feeds. Are you a Google Reader user? If so, which of these solutions will you be using instead? ... <p class="read-more-container"><a title="What to Use Instead of Google Reader?" class="read-more button" href="/staff.library.ucsf.edu/2013/03/22/what-to-use-instead-of-google-reader/#more-525">Read more<span class="screen-reader-text">What to Use Instead of Google Reader?</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2013/03/22/what-to-use-instead-of-google-reader/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2013/03/22/what-to-use-instead-of-google-reader/feed/</wfw:commentRss>
 			<slash:comments>9</slash:comments>
 		
 		

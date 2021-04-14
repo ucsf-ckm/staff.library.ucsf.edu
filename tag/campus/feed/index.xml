@@ -12,8 +12,8 @@
 
 <channel>
 	<title>campus &#8211; Off the Shelf</title>
-	<atom:link href="/tag/campus/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/staff.library.ucsf.edu/tag/campus/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Tue, 15 May 2012 19:47:23 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,24 +26,24 @@
 <image>
 	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
 	<title>campus &#8211; Off the Shelf</title>
-	<link></link>
+	<link>/staff.library.ucsf.edu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Spring/Summer Issue of EVCP Digest Is Out</title>
-		<link>/2012/05/15/springsummer-issue-of-evcp-digest-is-out/</link>
-					<comments>/2012/05/15/springsummer-issue-of-evcp-digest-is-out/#respond</comments>
+		<link>/staff.library.ucsf.edu/2012/05/15/springsummer-issue-of-evcp-digest-is-out/</link>
+					<comments>/staff.library.ucsf.edu/2012/05/15/springsummer-issue-of-evcp-digest-is-out/#respond</comments>
 		
 		<dc:creator><![CDATA[Gail Persily]]></dc:creator>
 		<pubDate>Tue, 15 May 2012 17:10:37 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
 		<category><![CDATA[campus]]></category>
-		<guid isPermaLink="false">/?p=163</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=163</guid>
 
 					<description><![CDATA[Highlights from the various EVCP units, including some from the Library. http://evcprovost.ucsf.edu/digest.html Thanks Leslie for helping us put this together.]]></description>
 		
-					<wfw:commentRss>/2012/05/15/springsummer-issue-of-evcp-digest-is-out/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2012/05/15/springsummer-issue-of-evcp-digest-is-out/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

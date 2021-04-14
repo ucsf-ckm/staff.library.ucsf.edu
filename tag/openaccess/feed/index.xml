@@ -12,8 +12,8 @@
 
 <channel>
 	<title>openaccess &#8211; Off the Shelf</title>
-	<atom:link href="/tag/openaccess/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/staff.library.ucsf.edu/tag/openaccess/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Thu, 24 May 2012 17:31:08 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,24 +26,24 @@
 <image>
 	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
 	<title>openaccess &#8211; Off the Shelf</title>
-	<link></link>
+	<link>/staff.library.ucsf.edu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>BIG Open Access News</title>
-		<link>/2012/05/24/big-open-access-news/</link>
-					<comments>/2012/05/24/big-open-access-news/#comments</comments>
+		<link>/staff.library.ucsf.edu/2012/05/24/big-open-access-news/</link>
+					<comments>/staff.library.ucsf.edu/2012/05/24/big-open-access-news/#comments</comments>
 		
 		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
 		<pubDate>Thu, 24 May 2012 17:31:08 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
 		<category><![CDATA[openaccess]]></category>
-		<guid isPermaLink="false">/2012/05/24/big-open-access-news/</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/2012/05/24/big-open-access-news/</guid>
 
 					<description><![CDATA[&#8220;The unanimous vote of the faculty senate makes UCSF the largest scientific institution in the nation to adopt an open-access policy and among the first public universities to do so.&#8221; http://www.ucsf.edu/news/2012/05/12056/ucsf-implements-policy-make-research-papers-freely-accessible-public]]></description>
 		
-					<wfw:commentRss>/2012/05/24/big-open-access-news/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2012/05/24/big-open-access-news/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

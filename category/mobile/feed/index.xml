@@ -12,8 +12,8 @@
 
 <channel>
 	<title>mobile &#8211; Off the Shelf</title>
-	<atom:link href="/category/mobile/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/staff.library.ucsf.edu/category/mobile/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Tue, 16 May 2017 16:59:05 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,14 +26,14 @@
 <image>
 	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
 	<title>mobile &#8211; Off the Shelf</title>
-	<link></link>
+	<link>/staff.library.ucsf.edu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Website Updates: Library Site Header &#038; Footer</title>
-		<link>/2017/05/16/website-updates-library-site-header-footer/</link>
-					<comments>/2017/05/16/website-updates-library-site-header-footer/#respond</comments>
+		<link>/staff.library.ucsf.edu/2017/05/16/website-updates-library-site-header-footer/</link>
+					<comments>/staff.library.ucsf.edu/2017/05/16/website-updates-library-site-header-footer/#respond</comments>
 		
 		<dc:creator><![CDATA[Tab McDaniel]]></dc:creator>
 		<pubDate>Tue, 16 May 2017 21:30:04 +0000</pubDate>
@@ -43,19 +43,19 @@
 		<category><![CDATA[user experience]]></category>
 		<category><![CDATA[user research]]></category>
 		<category><![CDATA[web]]></category>
-		<guid isPermaLink="false">/?p=3006</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=3006</guid>
 
-					<description><![CDATA[As most of you know, the Web Team is using an iterative approach to the Library site redesign: we launched a pretty good version of the site, and make incremental improvements as we learn more about what is/is not working for our users. With that in mind, we will introduce changes to ... <p class="read-more-container"><a title="Website Updates: Library Site Header &#038; Footer" class="read-more button" href="/2017/05/16/website-updates-library-site-header-footer/#more-3006">Read more<span class="screen-reader-text">Website Updates: Library Site Header &#038; Footer</span></a></p>]]></description>
+					<description><![CDATA[As most of you know, the Web Team is using an iterative approach to the Library site redesign: we launched a pretty good version of the site, and make incremental improvements as we learn more about what is/is not working for our users. With that in mind, we will introduce changes to ... <p class="read-more-container"><a title="Website Updates: Library Site Header &#038; Footer" class="read-more button" href="/staff.library.ucsf.edu/2017/05/16/website-updates-library-site-header-footer/#more-3006">Read more<span class="screen-reader-text">Website Updates: Library Site Header &#038; Footer</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2017/05/16/website-updates-library-site-header-footer/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2017/05/16/website-updates-library-site-header-footer/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Database Redux</title>
-		<link>/2016/06/03/database-redux/</link>
-					<comments>/2016/06/03/database-redux/#respond</comments>
+		<link>/staff.library.ucsf.edu/2016/06/03/database-redux/</link>
+					<comments>/staff.library.ucsf.edu/2016/06/03/database-redux/#respond</comments>
 		
 		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
 		<pubDate>Fri, 03 Jun 2016 21:30:59 +0000</pubDate>
@@ -65,19 +65,19 @@
 		<category><![CDATA[web]]></category>
 		<category><![CDATA[content]]></category>
 		<category><![CDATA[databases]]></category>
-		<guid isPermaLink="false">/?p=2235</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=2235</guid>
 
-					<description><![CDATA[As some of you may be aware, the Web Projects Team is working to move the current library website off its old Drupal 6 platform and in the process, also improve user experience. One of the most important elements of the Library site is access to databases, so starting next ... <p class="read-more-container"><a title="Database Redux" class="read-more button" href="/2016/06/03/database-redux/#more-2235">Read more<span class="screen-reader-text">Database Redux</span></a></p>]]></description>
+					<description><![CDATA[As some of you may be aware, the Web Projects Team is working to move the current library website off its old Drupal 6 platform and in the process, also improve user experience. One of the most important elements of the Library site is access to databases, so starting next ... <p class="read-more-container"><a title="Database Redux" class="read-more button" href="/staff.library.ucsf.edu/2016/06/03/database-redux/#more-2235">Read more<span class="screen-reader-text">Database Redux</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2016/06/03/database-redux/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2016/06/03/database-redux/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Zendesk is mobile too!</title>
-		<link>/2015/10/20/zendesk-is-mobile-too/</link>
-					<comments>/2015/10/20/zendesk-is-mobile-too/#respond</comments>
+		<link>/staff.library.ucsf.edu/2015/10/20/zendesk-is-mobile-too/</link>
+					<comments>/staff.library.ucsf.edu/2015/10/20/zendesk-is-mobile-too/#respond</comments>
 		
 		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
 		<pubDate>Tue, 20 Oct 2015 20:23:30 +0000</pubDate>
@@ -86,19 +86,19 @@
 		<category><![CDATA[support]]></category>
 		<category><![CDATA[user experience]]></category>
 		<category><![CDATA[web]]></category>
-		<guid isPermaLink="false">/?p=1845</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=1845</guid>
 
-					<description><![CDATA[We&#8217;ve been using ZenDesk as our support platform for a little while now, so I wanted to remind everyone that it&#8217;s also mobile friendly. Library users can easily contact us from a mobile phone or tablet — no app needed. They also have a chance to get their answer from ... <p class="read-more-container"><a title="Zendesk is mobile too!" class="read-more button" href="/2015/10/20/zendesk-is-mobile-too/#more-1845">Read more<span class="screen-reader-text">Zendesk is mobile too!</span></a></p>]]></description>
+					<description><![CDATA[We&#8217;ve been using ZenDesk as our support platform for a little while now, so I wanted to remind everyone that it&#8217;s also mobile friendly. Library users can easily contact us from a mobile phone or tablet — no app needed. They also have a chance to get their answer from ... <p class="read-more-container"><a title="Zendesk is mobile too!" class="read-more button" href="/staff.library.ucsf.edu/2015/10/20/zendesk-is-mobile-too/#more-1845">Read more<span class="screen-reader-text">Zendesk is mobile too!</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2015/10/20/zendesk-is-mobile-too/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2015/10/20/zendesk-is-mobile-too/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Search Results Improvements Unveiled</title>
-		<link>/2014/12/01/search-results-improvements-unveiled/</link>
-					<comments>/2014/12/01/search-results-improvements-unveiled/#comments</comments>
+		<link>/staff.library.ucsf.edu/2014/12/01/search-results-improvements-unveiled/</link>
+					<comments>/staff.library.ucsf.edu/2014/12/01/search-results-improvements-unveiled/#comments</comments>
 		
 		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
 		<pubDate>Tue, 02 Dec 2014 00:59:14 +0000</pubDate>
@@ -106,19 +106,19 @@
 		<category><![CDATA[responsive]]></category>
 		<category><![CDATA[user experience]]></category>
 		<category><![CDATA[web]]></category>
-		<guid isPermaLink="false">/?p=1389</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=1389</guid>
 
-					<description><![CDATA[The library site got a new search interface and results display today, and here are some highlights of the changes. Goal: Improve the display of results The search field is now more prominent on the homepage. The results are responsive! Do a search on your phone. Library information is no ... <p class="read-more-container"><a title="Search Results Improvements Unveiled" class="read-more button" href="/2014/12/01/search-results-improvements-unveiled/#more-1389">Read more<span class="screen-reader-text">Search Results Improvements Unveiled</span></a></p>]]></description>
+					<description><![CDATA[The library site got a new search interface and results display today, and here are some highlights of the changes. Goal: Improve the display of results The search field is now more prominent on the homepage. The results are responsive! Do a search on your phone. Library information is no ... <p class="read-more-container"><a title="Search Results Improvements Unveiled" class="read-more button" href="/staff.library.ucsf.edu/2014/12/01/search-results-improvements-unveiled/#more-1389">Read more<span class="screen-reader-text">Search Results Improvements Unveiled</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2014/12/01/search-results-improvements-unveiled/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2014/12/01/search-results-improvements-unveiled/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Bookmarklet for EZproxy authentication</title>
-		<link>/2014/03/27/bookmarklet-for-ezproxy-authentication/</link>
-					<comments>/2014/03/27/bookmarklet-for-ezproxy-authentication/#respond</comments>
+		<link>/staff.library.ucsf.edu/2014/03/27/bookmarklet-for-ezproxy-authentication/</link>
+					<comments>/staff.library.ucsf.edu/2014/03/27/bookmarklet-for-ezproxy-authentication/#respond</comments>
 		
 		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
 		<pubDate>Thu, 27 Mar 2014 17:48:18 +0000</pubDate>
@@ -127,19 +127,19 @@
 		<category><![CDATA[mobile]]></category>
 		<category><![CDATA[ezproxy]]></category>
 		<category><![CDATA[myaccess]]></category>
-		<guid isPermaLink="false">/?p=899</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=899</guid>
 
-					<description><![CDATA[It&#8217;s been several months now, but consider this a reminder that it is no longer necessary to be on VPN in order to use library resources (e.g. articles, ebooks, etc.) The library is using a service called EZproxy to make these things available to users with only their MyAccess credentials. ... <p class="read-more-container"><a title="Bookmarklet for EZproxy authentication" class="read-more button" href="/2014/03/27/bookmarklet-for-ezproxy-authentication/#more-899">Read more<span class="screen-reader-text">Bookmarklet for EZproxy authentication</span></a></p>]]></description>
+					<description><![CDATA[It&#8217;s been several months now, but consider this a reminder that it is no longer necessary to be on VPN in order to use library resources (e.g. articles, ebooks, etc.) The library is using a service called EZproxy to make these things available to users with only their MyAccess credentials. ... <p class="read-more-container"><a title="Bookmarklet for EZproxy authentication" class="read-more button" href="/staff.library.ucsf.edu/2014/03/27/bookmarklet-for-ezproxy-authentication/#more-899">Read more<span class="screen-reader-text">Bookmarklet for EZproxy authentication</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2014/03/27/bookmarklet-for-ezproxy-authentication/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2014/03/27/bookmarklet-for-ezproxy-authentication/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Purpose of the UCSF Library Web Presence</title>
-		<link>/2014/02/26/purpose-of-the-ucsf-library-web-presence/</link>
-					<comments>/2014/02/26/purpose-of-the-ucsf-library-web-presence/#comments</comments>
+		<link>/staff.library.ucsf.edu/2014/02/26/purpose-of-the-ucsf-library-web-presence/</link>
+					<comments>/staff.library.ucsf.edu/2014/02/26/purpose-of-the-ucsf-library-web-presence/#comments</comments>
 		
 		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
 		<pubDate>Thu, 27 Feb 2014 00:02:07 +0000</pubDate>
@@ -149,29 +149,29 @@
 		<category><![CDATA[purpose]]></category>
 		<category><![CDATA[simplify]]></category>
 		<category><![CDATA[userfocus]]></category>
-		<guid isPermaLink="false">/?p=866</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=866</guid>
 
-					<description><![CDATA[As of the beginning of this month, there is a new Web Projects Team, and we&#8217;ve been taking stock of things in order to have the most positive impact. We&#8217;d love to hear your comments or questions below on the purpose and guiding principles outlined here. Our plan is to ... <p class="read-more-container"><a title="Purpose of the UCSF Library Web Presence" class="read-more button" href="/2014/02/26/purpose-of-the-ucsf-library-web-presence/#more-866">Read more<span class="screen-reader-text">Purpose of the UCSF Library Web Presence</span></a></p>]]></description>
+					<description><![CDATA[As of the beginning of this month, there is a new Web Projects Team, and we&#8217;ve been taking stock of things in order to have the most positive impact. We&#8217;d love to hear your comments or questions below on the purpose and guiding principles outlined here. Our plan is to ... <p class="read-more-container"><a title="Purpose of the UCSF Library Web Presence" class="read-more button" href="/staff.library.ucsf.edu/2014/02/26/purpose-of-the-ucsf-library-web-presence/#more-866">Read more<span class="screen-reader-text">Purpose of the UCSF Library Web Presence</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2014/02/26/purpose-of-the-ucsf-library-web-presence/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2014/02/26/purpose-of-the-ucsf-library-web-presence/feed/</wfw:commentRss>
 			<slash:comments>5</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>App Santa</title>
-		<link>/2013/12/20/app-santa/</link>
-					<comments>/2013/12/20/app-santa/#respond</comments>
+		<link>/staff.library.ucsf.edu/2013/12/20/app-santa/</link>
+					<comments>/staff.library.ucsf.edu/2013/12/20/app-santa/#respond</comments>
 		
 		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
 		<pubDate>Fri, 20 Dec 2013 20:18:32 +0000</pubDate>
 				<category><![CDATA[apps]]></category>
 		<category><![CDATA[mobile]]></category>
-		<guid isPermaLink="false">/?p=836</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=836</guid>
 
 					<description><![CDATA[If you have a few dollars burning a hole in your pocket, you might want to try one of these popular iOS apps while they&#8217;re on sale. See Mobilized for details: http://blogs.library.ucsf.edu/mobilized/2013/12/20/app-santa-is-coming-to-town/]]></description>
 		
-					<wfw:commentRss>/2013/12/20/app-santa/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2013/12/20/app-santa/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

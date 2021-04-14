@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: What You Need To Know About BigFix	</title>
-	<atom:link href="/2015/08/17/what-you-need-to-know-about-bigfix/feed/" rel="self" type="application/rss+xml" />
-	<link>/2015/08/17/what-you-need-to-know-about-bigfix/</link>
+	<atom:link href="/staff.library.ucsf.edu/2015/08/17/what-you-need-to-know-about-bigfix/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu/2015/08/17/what-you-need-to-know-about-bigfix/</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Mon, 17 Aug 2015 21:45:40 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,11 +23,11 @@
 	<item>
 		<title>
 		By: Richard Trott		</title>
-		<link>/2015/08/17/what-you-need-to-know-about-bigfix/#comment-457</link>
+		<link>/staff.library.ucsf.edu/2015/08/17/what-you-need-to-know-about-bigfix/#comment-457</link>
 
 		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
 		<pubDate>Mon, 17 Aug 2015 21:45:40 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1669#comment-457</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=1669#comment-457</guid>
 
 					<description><![CDATA[If I understand correctly, if you have signed up for Duo authentication, then that is the authentication you must use.]]></description>
 			<content:encoded><![CDATA[<p>If I understand correctly, if you have signed up for Duo authentication, then that is the authentication you must use.</p>
@@ -37,11 +37,11 @@
 		<item>
 		<title>
 		By: Michele Mizejewski		</title>
-		<link>/2015/08/17/what-you-need-to-know-about-bigfix/#comment-456</link>
+		<link>/staff.library.ucsf.edu/2015/08/17/what-you-need-to-know-about-bigfix/#comment-456</link>
 
 		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
 		<pubDate>Mon, 17 Aug 2015 20:17:37 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1669#comment-456</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=1669#comment-456</guid>
 
 					<description><![CDATA[On a somewhat related note, is it mandatory to now switch to Duo VPN (assuming VPN is needed at all) instead of the recent Junos client? The IT emails have been a little confusing.]]></description>
 			<content:encoded><![CDATA[<p>On a somewhat related note, is it mandatory to now switch to Duo VPN (assuming VPN is needed at all) instead of the recent Junos client? The IT emails have been a little confusing.</p>

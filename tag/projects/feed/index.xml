@@ -12,8 +12,8 @@
 
 <channel>
 	<title>projects &#8211; Off the Shelf</title>
-	<atom:link href="/tag/projects/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/staff.library.ucsf.edu/tag/projects/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Sat, 07 Sep 2013 00:24:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,79 +26,79 @@
 <image>
 	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
 	<title>projects &#8211; Off the Shelf</title>
-	<link></link>
+	<link>/staff.library.ucsf.edu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>EZproxy: A New Way to Access Journals, Databases, and Ebooks from Off Campus</title>
-		<link>/2013/09/06/ezproxy-a-new-way-to-access-journals-databases-and-ebooks-from-off-campus/</link>
-					<comments>/2013/09/06/ezproxy-a-new-way-to-access-journals-databases-and-ebooks-from-off-campus/#respond</comments>
+		<link>/staff.library.ucsf.edu/2013/09/06/ezproxy-a-new-way-to-access-journals-databases-and-ebooks-from-off-campus/</link>
+					<comments>/staff.library.ucsf.edu/2013/09/06/ezproxy-a-new-way-to-access-journals-databases-and-ebooks-from-off-campus/#respond</comments>
 		
 		<dc:creator><![CDATA[Leslie Kleinberg]]></dc:creator>
 		<pubDate>Sat, 07 Sep 2013 00:24:52 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
 		<category><![CDATA[projects]]></category>
-		<guid isPermaLink="false">/2013/09/06/ezproxy-a-new-way-to-access-journals-databases-and-ebooks-from-off-campus/</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/2013/09/06/ezproxy-a-new-way-to-access-journals-databases-and-ebooks-from-off-campus/</guid>
 
-					<description><![CDATA[EZproxy, which launched this week, is the Library’s new method for access to online resources from off campus. With EZproxy, UCSF users can access our licensed resources simply by using MyAccess to log in, after following a link from the Library’s website. As the project manager, I want to recognize ... <p class="read-more-container"><a title="EZproxy: A New Way to Access Journals, Databases, and Ebooks from Off Campus" class="read-more button" href="/2013/09/06/ezproxy-a-new-way-to-access-journals-databases-and-ebooks-from-off-campus/#more-753">Read more<span class="screen-reader-text">EZproxy: A New Way to Access Journals, Databases, and Ebooks from Off Campus</span></a></p>]]></description>
+					<description><![CDATA[EZproxy, which launched this week, is the Library’s new method for access to online resources from off campus. With EZproxy, UCSF users can access our licensed resources simply by using MyAccess to log in, after following a link from the Library’s website. As the project manager, I want to recognize ... <p class="read-more-container"><a title="EZproxy: A New Way to Access Journals, Databases, and Ebooks from Off Campus" class="read-more button" href="/staff.library.ucsf.edu/2013/09/06/ezproxy-a-new-way-to-access-journals-databases-and-ebooks-from-off-campus/#more-753">Read more<span class="screen-reader-text">EZproxy: A New Way to Access Journals, Databases, and Ebooks from Off Campus</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2013/09/06/ezproxy-a-new-way-to-access-journals-databases-and-ebooks-from-off-campus/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2013/09/06/ezproxy-a-new-way-to-access-journals-databases-and-ebooks-from-off-campus/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>ServiceNow Migration Completed!</title>
-		<link>/2012/09/14/servicenow-migration-completed/</link>
-					<comments>/2012/09/14/servicenow-migration-completed/#comments</comments>
+		<link>/staff.library.ucsf.edu/2012/09/14/servicenow-migration-completed/</link>
+					<comments>/staff.library.ucsf.edu/2012/09/14/servicenow-migration-completed/#comments</comments>
 		
 		<dc:creator><![CDATA[Julia Kochi]]></dc:creator>
 		<pubDate>Fri, 14 Sep 2012 22:52:26 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
 		<category><![CDATA[informational]]></category>
 		<category><![CDATA[projects]]></category>
-		<guid isPermaLink="false">/?p=376</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=376</guid>
 
-					<description><![CDATA[On Thursday, Sept. 6th, the Library completed the migration of our ticket tracking systems from Footprints to ServiceNow. It happened so quietly and smoothly that unless you were involved in the project, you probably weren&#8217;t even aware it took place. ServiceNow is now the system we use to handle email ... <p class="read-more-container"><a title="ServiceNow Migration Completed!" class="read-more button" href="/2012/09/14/servicenow-migration-completed/#more-376">Read more<span class="screen-reader-text">ServiceNow Migration Completed!</span></a></p>]]></description>
+					<description><![CDATA[On Thursday, Sept. 6th, the Library completed the migration of our ticket tracking systems from Footprints to ServiceNow. It happened so quietly and smoothly that unless you were involved in the project, you probably weren&#8217;t even aware it took place. ServiceNow is now the system we use to handle email ... <p class="read-more-container"><a title="ServiceNow Migration Completed!" class="read-more button" href="/staff.library.ucsf.edu/2012/09/14/servicenow-migration-completed/#more-376">Read more<span class="screen-reader-text">ServiceNow Migration Completed!</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2012/09/14/servicenow-migration-completed/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2012/09/14/servicenow-migration-completed/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Transition from FootPrints to ServiceNow</title>
-		<link>/2012/05/25/transition-from-footprints-to-servicenow/</link>
-					<comments>/2012/05/25/transition-from-footprints-to-servicenow/#respond</comments>
+		<link>/staff.library.ucsf.edu/2012/05/25/transition-from-footprints-to-servicenow/</link>
+					<comments>/staff.library.ucsf.edu/2012/05/25/transition-from-footprints-to-servicenow/#respond</comments>
 		
 		<dc:creator><![CDATA[Julia Kochi]]></dc:creator>
 		<pubDate>Sat, 26 May 2012 05:14:30 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
 		<category><![CDATA[projects]]></category>
-		<guid isPermaLink="false">/2012/05/25/transition-from-footprints-to-servicenow/</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/2012/05/25/transition-from-footprints-to-servicenow/</guid>
 
-					<description><![CDATA[As you may have heard, we are moving off of FootPrints to ServiceNow for our Library Help tracking system. ServiceNow is being used on a UCSF-wide basis for tracking IT help tickets. Within the Library, Desktop Services is already using it for our staff tech support, as well as for ... <p class="read-more-container"><a title="Transition from FootPrints to ServiceNow" class="read-more button" href="/2012/05/25/transition-from-footprints-to-servicenow/#more-205">Read more<span class="screen-reader-text">Transition from FootPrints to ServiceNow</span></a></p>]]></description>
+					<description><![CDATA[As you may have heard, we are moving off of FootPrints to ServiceNow for our Library Help tracking system. ServiceNow is being used on a UCSF-wide basis for tracking IT help tickets. Within the Library, Desktop Services is already using it for our staff tech support, as well as for ... <p class="read-more-container"><a title="Transition from FootPrints to ServiceNow" class="read-more button" href="/staff.library.ucsf.edu/2012/05/25/transition-from-footprints-to-servicenow/#more-205">Read more<span class="screen-reader-text">Transition from FootPrints to ServiceNow</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2012/05/25/transition-from-footprints-to-servicenow/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2012/05/25/transition-from-footprints-to-servicenow/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Project Complete: staff blog</title>
-		<link>/2012/05/14/project-complete-staff-blog/</link>
-					<comments>/2012/05/14/project-complete-staff-blog/#comments</comments>
+		<link>/staff.library.ucsf.edu/2012/05/14/project-complete-staff-blog/</link>
+					<comments>/staff.library.ucsf.edu/2012/05/14/project-complete-staff-blog/#comments</comments>
 		
 		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
 		<pubDate>Tue, 15 May 2012 00:06:59 +0000</pubDate>
 				<category><![CDATA[staff general]]></category>
 		<category><![CDATA[projects]]></category>
-		<guid isPermaLink="false">/2012/05/14/project-complete-staff-blog/</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/2012/05/14/project-complete-staff-blog/</guid>
 
-					<description><![CDATA[If you’re reading this, you’re already aware that the new blog for staff communication is live. I wanted to share a few &#8220;behind the scenes&#8221; details for those who might be interested. The idea came out of Staff Engagement Survey feedback, and it was decided to use the WordPress platform ... <p class="read-more-container"><a title="Project Complete: staff blog" class="read-more button" href="/2012/05/14/project-complete-staff-blog/#more-186">Read more<span class="screen-reader-text">Project Complete: staff blog</span></a></p>]]></description>
+					<description><![CDATA[If you’re reading this, you’re already aware that the new blog for staff communication is live. I wanted to share a few &#8220;behind the scenes&#8221; details for those who might be interested. The idea came out of Staff Engagement Survey feedback, and it was decided to use the WordPress platform ... <p class="read-more-container"><a title="Project Complete: staff blog" class="read-more button" href="/staff.library.ucsf.edu/2012/05/14/project-complete-staff-blog/#more-186">Read more<span class="screen-reader-text">Project Complete: staff blog</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2012/05/14/project-complete-staff-blog/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2012/05/14/project-complete-staff-blog/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		

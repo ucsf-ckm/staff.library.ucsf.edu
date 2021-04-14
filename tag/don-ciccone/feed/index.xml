@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Don Ciccone &#8211; Off the Shelf</title>
-	<atom:link href="/tag/don-ciccone/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/staff.library.ucsf.edu/tag/don-ciccone/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Wed, 07 Oct 2015 21:03:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,14 +26,14 @@
 <image>
 	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
 	<title>Don Ciccone &#8211; Off the Shelf</title>
-	<link></link>
+	<link>/staff.library.ucsf.edu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Great Team Work!</title>
-		<link>/2015/10/07/the-ucsf-library-is-collaborating-with-four-medical/</link>
-					<comments>/2015/10/07/the-ucsf-library-is-collaborating-with-four-medical/#respond</comments>
+		<link>/staff.library.ucsf.edu/2015/10/07/the-ucsf-library-is-collaborating-with-four-medical/</link>
+					<comments>/staff.library.ucsf.edu/2015/10/07/the-ucsf-library-is-collaborating-with-four-medical/#respond</comments>
 		
 		<dc:creator><![CDATA[Polina Ilieva]]></dc:creator>
 		<pubDate>Wed, 07 Oct 2015 21:00:09 +0000</pubDate>
@@ -48,11 +48,11 @@
 		<category><![CDATA[Medical Heritage Library]]></category>
 		<category><![CDATA[NEH]]></category>
 		<category><![CDATA[spot award]]></category>
-		<guid isPermaLink="false">/2015/10/07/the-ucsf-library-is-collaborating-with-four-medical/</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/2015/10/07/the-ucsf-library-is-collaborating-with-four-medical/</guid>
 
-					<description><![CDATA[The UCSF Library is collaborating with four medical libraries on a project to digitize and make publicly accessible through the Medical Heritage Library (MHL) old state medical journals. The MHL, a digital resource on the history of medicine and health developed by an international consortium of cultural heritage repositories, has ... <p class="read-more-container"><a title="Great Team Work!" class="read-more button" href="/2015/10/07/the-ucsf-library-is-collaborating-with-four-medical/#more-1823">Read more<span class="screen-reader-text">Great Team Work!</span></a></p>]]></description>
+					<description><![CDATA[The UCSF Library is collaborating with four medical libraries on a project to digitize and make publicly accessible through the Medical Heritage Library (MHL) old state medical journals. The MHL, a digital resource on the history of medicine and health developed by an international consortium of cultural heritage repositories, has ... <p class="read-more-container"><a title="Great Team Work!" class="read-more button" href="/staff.library.ucsf.edu/2015/10/07/the-ucsf-library-is-collaborating-with-four-medical/#more-1823">Read more<span class="screen-reader-text">Great Team Work!</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2015/10/07/the-ucsf-library-is-collaborating-with-four-medical/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2015/10/07/the-ucsf-library-is-collaborating-with-four-medical/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

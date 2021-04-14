@@ -12,8 +12,8 @@
 
 <channel>
 	<title>staff development &#8211; Off the Shelf</title>
-	<atom:link href="/tag/staff-development/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/staff.library.ucsf.edu/tag/staff-development/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Tue, 16 Oct 2012 22:56:32 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,14 +26,14 @@
 <image>
 	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
 	<title>staff development &#8211; Off the Shelf</title>
-	<link></link>
+	<link>/staff.library.ucsf.edu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Sharecase Highlights</title>
-		<link>/2012/10/16/sharecase-highlights/</link>
-					<comments>/2012/10/16/sharecase-highlights/#comments</comments>
+		<link>/staff.library.ucsf.edu/2012/10/16/sharecase-highlights/</link>
+					<comments>/staff.library.ucsf.edu/2012/10/16/sharecase-highlights/#comments</comments>
 		
 		<dc:creator><![CDATA[Margaret Hughes]]></dc:creator>
 		<pubDate>Tue, 16 Oct 2012 22:54:03 +0000</pubDate>
@@ -42,11 +42,11 @@
 		<category><![CDATA[mission bay]]></category>
 		<category><![CDATA[staff development]]></category>
 		<category><![CDATA[technology]]></category>
-		<guid isPermaLink="false">/?p=411</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=411</guid>
 
-					<description><![CDATA[UCSF held its first Sharecase event last Friday&#8211;a one-day conference event to showcase the variety of IT at UCSF and the innovative ways it’s being used. The aspect of Sharecase that I appreciated the most, as a new UCSF employee, was the glimpse into the huge range of activities, technologies, ... <p class="read-more-container"><a title="Sharecase Highlights" class="read-more button" href="/2012/10/16/sharecase-highlights/#more-411">Read more<span class="screen-reader-text">Sharecase Highlights</span></a></p>]]></description>
+					<description><![CDATA[UCSF held its first Sharecase event last Friday&#8211;a one-day conference event to showcase the variety of IT at UCSF and the innovative ways it’s being used. The aspect of Sharecase that I appreciated the most, as a new UCSF employee, was the glimpse into the huge range of activities, technologies, ... <p class="read-more-container"><a title="Sharecase Highlights" class="read-more button" href="/staff.library.ucsf.edu/2012/10/16/sharecase-highlights/#more-411">Read more<span class="screen-reader-text">Sharecase Highlights</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2012/10/16/sharecase-highlights/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2012/10/16/sharecase-highlights/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

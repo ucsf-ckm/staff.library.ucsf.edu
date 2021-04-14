@@ -12,8 +12,8 @@
 
 <channel>
 	<title>collaboration &#8211; Off the Shelf</title>
-	<atom:link href="/tag/collaboration/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/staff.library.ucsf.edu/tag/collaboration/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu</link>
 	<description>UCSF Library Staff Updates</description>
 	<lastBuildDate>Mon, 12 Mar 2018 19:17:01 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,14 +26,14 @@
 <image>
 	<url>https://i2.wp.com/staff.library.ucsf.edu/share/wp-content/uploads/2017/04/favicon-orange.png?fit=32%2C32&#038;ssl=1</url>
 	<title>collaboration &#8211; Off the Shelf</title>
-	<link></link>
+	<link>/staff.library.ucsf.edu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Cross Unit Collaboration</title>
-		<link>/2018/03/09/cross-unit-collaboration/</link>
-					<comments>/2018/03/09/cross-unit-collaboration/#respond</comments>
+		<link>/staff.library.ucsf.edu/2018/03/09/cross-unit-collaboration/</link>
+					<comments>/staff.library.ucsf.edu/2018/03/09/cross-unit-collaboration/#respond</comments>
 		
 		<dc:creator><![CDATA[Kirk Hudson]]></dc:creator>
 		<pubDate>Fri, 09 Mar 2018 19:59:13 +0000</pubDate>
@@ -41,11 +41,11 @@
 		<category><![CDATA[collaboration]]></category>
 		<category><![CDATA[customer service]]></category>
 		<category><![CDATA[hr]]></category>
-		<guid isPermaLink="false">/?p=4005</guid>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=4005</guid>
 
-					<description><![CDATA[Starting Monday, 3/12/2018 and going through Friday, 6/15/2018, Zach Silveira will be providing support for electronic resources access ZenDesk tickets, and updating documentation for such. During this time Coll. Man. will continue their process of developing a long term solution. If you have any questions about this support collaboration, please ... <p class="read-more-container"><a title="Cross Unit Collaboration" class="read-more button" href="/2018/03/09/cross-unit-collaboration/#more-4005">Read more<span class="screen-reader-text">Cross Unit Collaboration</span></a></p>]]></description>
+					<description><![CDATA[Starting Monday, 3/12/2018 and going through Friday, 6/15/2018, Zach Silveira will be providing support for electronic resources access ZenDesk tickets, and updating documentation for such. During this time Coll. Man. will continue their process of developing a long term solution. If you have any questions about this support collaboration, please ... <p class="read-more-container"><a title="Cross Unit Collaboration" class="read-more button" href="/staff.library.ucsf.edu/2018/03/09/cross-unit-collaboration/#more-4005">Read more<span class="screen-reader-text">Cross Unit Collaboration</span></a></p>]]></description>
 		
-					<wfw:commentRss>/2018/03/09/cross-unit-collaboration/feed/</wfw:commentRss>
+					<wfw:commentRss>/staff.library.ucsf.edu/2018/03/09/cross-unit-collaboration/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
