@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Data Science refocused	</title>
+	<atom:link href="/staff.library.ucsf.edu/2019/07/03/data-science-refocused/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu/2019/07/03/data-science-refocused/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Mon, 04 Nov 2019 16:10:12 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Makers Lab expert page transformation &#8211; Off the Shelf		</title>
+		<link>/staff.library.ucsf.edu/2019/07/03/data-science-refocused/#comment-884</link>
+
+		<dc:creator><![CDATA[Makers Lab expert page transformation &#8211; Off the Shelf]]></dc:creator>
+		<pubDate>Mon, 04 Nov 2019 16:10:12 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5011#comment-884</guid>
+
+					<description><![CDATA[[&#8230;] in the summer, the improved Data Science pages launched along with Faculty Support and Multimedia Expert pages. For the Makers Lab, we again [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] in the summer, the improved Data Science pages launched along with Faculty Support and Multimedia Expert pages. For the Makers Lab, we again [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Faculty Support and Multimedia Expert Pages &#8211; Off the Shelf		</title>
+		<link>/staff.library.ucsf.edu/2019/07/03/data-science-refocused/#comment-871</link>
+
+		<dc:creator><![CDATA[Faculty Support and Multimedia Expert Pages &#8211; Off the Shelf]]></dc:creator>
+		<pubDate>Wed, 10 Jul 2019 17:28:38 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5011#comment-871</guid>
+
+					<description><![CDATA[[&#8230;] addition to the newly launched Data Science pages, this week we launched new Ask an Expert pages for Faculty Support and Multimedia Hardware and [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] addition to the newly launched Data Science pages, this week we launched new Ask an Expert pages for Faculty Support and Multimedia Hardware and [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

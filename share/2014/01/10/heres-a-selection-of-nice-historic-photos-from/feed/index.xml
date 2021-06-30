@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Here&#8217;s a selection of nice historic photos from&#8230;	</title>
+	<atom:link href="/staff.library.ucsf.edu/2014/01/10/heres-a-selection-of-nice-historic-photos-from/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu/2014/01/10/heres-a-selection-of-nice-historic-photos-from/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Mon, 13 Jan 2014 19:20:29 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Leslie Kleinberg		</title>
+		<link>/staff.library.ucsf.edu/2014/01/10/heres-a-selection-of-nice-historic-photos-from/#comment-210</link>
+
+		<dc:creator><![CDATA[Leslie Kleinberg]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2014 19:20:29 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/2014/01/10/heres-a-selection-of-nice-historic-photos-from/#comment-210</guid>
+
+					<description><![CDATA[Wow! The Main Hall was amazing!]]></description>
+			<content:encoded><![CDATA[<p>Wow! The Main Hall was amazing!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Jim Munson		</title>
+		<link>/staff.library.ucsf.edu/2014/01/10/heres-a-selection-of-nice-historic-photos-from/#comment-209</link>
+
+		<dc:creator><![CDATA[Jim Munson]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2014 00:08:10 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/2014/01/10/heres-a-selection-of-nice-historic-photos-from/#comment-209</guid>
+
+					<description><![CDATA[Whoa - now that was truly a temple to information!]]></description>
+			<content:encoded><![CDATA[<p>Whoa &#8211; now that was truly a temple to information!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

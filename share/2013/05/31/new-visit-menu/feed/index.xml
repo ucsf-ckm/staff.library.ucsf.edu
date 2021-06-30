@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: New Visit Menu	</title>
+	<atom:link href="/staff.library.ucsf.edu/2013/05/31/new-visit-menu/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu/2013/05/31/new-visit-menu/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Tue, 04 Jun 2013 19:03:16 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Michele Mizejewski		</title>
+		<link>/staff.library.ucsf.edu/2013/05/31/new-visit-menu/#comment-145</link>
+
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Tue, 04 Jun 2013 19:03:16 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=615#comment-145</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/staff.library.ucsf.edu/2013/05/31/new-visit-menu/#comment-143&quot;&gt;Richard Trott&lt;/a&gt;.
+
+It was mostly spurred by some user testing that actually focused on computing, but revealed that people were not finding what they expected under Locations. Usage data played a role too.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/staff.library.ucsf.edu/2013/05/31/new-visit-menu/#comment-143">Richard Trott</a>.</p>
+<p>It was mostly spurred by some user testing that actually focused on computing, but revealed that people were not finding what they expected under Locations. Usage data played a role too.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Richard Trott		</title>
+		<link>/staff.library.ucsf.edu/2013/05/31/new-visit-menu/#comment-143</link>
+
+		<dc:creator><![CDATA[Richard Trott]]></dc:creator>
+		<pubDate>Tue, 04 Jun 2013 15:32:42 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=615#comment-143</guid>
+
+					<description><![CDATA[Hooray for interface improvements! Did these come about as things that everyone kinda sorta just knew were improvements that could be made, or did they come out of data somehow?]]></description>
+			<content:encoded><![CDATA[<p>Hooray for interface improvements! Did these come about as things that everyone kinda sorta just knew were improvements that could be made, or did they come out of data somehow?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Michele Mizejewski		</title>
+		<link>/staff.library.ucsf.edu/2013/05/31/new-visit-menu/#comment-142</link>
+
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Fri, 31 May 2013 23:34:31 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=615#comment-142</guid>
+
+					<description><![CDATA[I forgot to mention that &quot;About the Library&quot; is now found in the footer of every page, as is typical of many other web sites.]]></description>
+			<content:encoded><![CDATA[<p>I forgot to mention that &#8220;About the Library&#8221; is now found in the footer of every page, as is typical of many other web sites.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

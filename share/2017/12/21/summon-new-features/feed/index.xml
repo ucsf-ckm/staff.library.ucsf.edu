@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Summon: New Features	</title>
+	<atom:link href="/staff.library.ucsf.edu/2017/12/21/summon-new-features/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu/2017/12/21/summon-new-features/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Fri, 22 Dec 2017 18:17:44 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Julia Kochi		</title>
+		<link>/staff.library.ucsf.edu/2017/12/21/summon-new-features/#comment-789</link>
+
+		<dc:creator><![CDATA[Julia Kochi]]></dc:creator>
+		<pubDate>Fri, 22 Dec 2017 18:17:44 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=3812#comment-789</guid>
+
+					<description><![CDATA[Big thumbs up for the new feature to search within a journal!]]></description>
+			<content:encoded><![CDATA[<p>Big thumbs up for the new feature to search within a journal!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Library Staff Help Students Get &#8220;Happy&#8221;	</title>
+	<atom:link href="/staff.library.ucsf.edu/2014/05/14/library-staff-help-students-get-happy/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu/2014/05/14/library-staff-help-students-get-happy/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Wed, 14 May 2014 18:25:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Shauna Hannibal		</title>
+		<link>/staff.library.ucsf.edu/2014/05/14/library-staff-help-students-get-happy/#comment-243</link>
+
+		<dc:creator><![CDATA[Shauna Hannibal]]></dc:creator>
+		<pubDate>Wed, 14 May 2014 18:25:17 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=982#comment-243</guid>
+
+					<description><![CDATA[Awesome video! Looking good, Kirk and Susan!]]></description>
+			<content:encoded><![CDATA[<p>Awesome video! Looking good, Kirk and Susan!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Erin Hayes		</title>
+		<link>/staff.library.ucsf.edu/2014/05/14/library-staff-help-students-get-happy/#comment-242</link>
+
+		<dc:creator><![CDATA[Erin Hayes]]></dc:creator>
+		<pubDate>Wed, 14 May 2014 18:02:22 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=982#comment-242</guid>
+
+					<description><![CDATA[Wow, amazing video!]]></description>
+			<content:encoded><![CDATA[<p>Wow, amazing video!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: New Books Added to the Popular Reading Collection!	</title>
+	<atom:link href="/staff.library.ucsf.edu/2013/10/07/do-you-want-to-read-the-latest-stephen/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu/2013/10/07/do-you-want-to-read-the-latest-stephen/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Mon, 21 Oct 2013 16:18:39 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Alan Daniel		</title>
+		<link>/staff.library.ucsf.edu/2013/10/07/do-you-want-to-read-the-latest-stephen/#comment-188</link>
+
+		<dc:creator><![CDATA[Alan Daniel]]></dc:creator>
+		<pubDate>Mon, 21 Oct 2013 16:18:39 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/2013/10/07/do-you-want-to-read-the-latest-stephen/#comment-188</guid>
+
+					<description><![CDATA[Doctor Sleep / King is the sequel to The Shining, and has the LC Subject Heading of:
+d	650	 	0	Good and evil&#124;vFiction]]></description>
+			<content:encoded><![CDATA[<p>Doctor Sleep / King is the sequel to The Shining, and has the LC Subject Heading of:<br />
+d	650	 	0	Good and evil|vFiction</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

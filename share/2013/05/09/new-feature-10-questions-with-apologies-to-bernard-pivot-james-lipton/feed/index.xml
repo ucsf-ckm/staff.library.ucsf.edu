@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: New Feature &#8211; &#034;10 Questions&#034; (with apologies to Bernard Pivot &#038; James Lipton!)	</title>
+	<atom:link href="/staff.library.ucsf.edu/2013/05/09/new-feature-10-questions-with-apologies-to-bernard-pivot-james-lipton/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu/2013/05/09/new-feature-10-questions-with-apologies-to-bernard-pivot-james-lipton/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Sat, 07 Sep 2013 00:44:52 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Megan Laurance		</title>
+		<link>/staff.library.ucsf.edu/2013/05/09/new-feature-10-questions-with-apologies-to-bernard-pivot-james-lipton/#comment-135</link>
+
+		<dc:creator><![CDATA[Megan Laurance]]></dc:creator>
+		<pubDate>Thu, 09 May 2013 21:06:19 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=578#comment-135</guid>
+
+					<description><![CDATA[It was a fun exercise to go through.]]></description>
+			<content:encoded><![CDATA[<p>It was a fun exercise to go through.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Leslie Kleinberg		</title>
+		<link>/staff.library.ucsf.edu/2013/05/09/new-feature-10-questions-with-apologies-to-bernard-pivot-james-lipton/#comment-134</link>
+
+		<dc:creator><![CDATA[Leslie Kleinberg]]></dc:creator>
+		<pubDate>Thu, 09 May 2013 20:53:30 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=578#comment-134</guid>
+
+					<description><![CDATA[Interesting!]]></description>
+			<content:encoded><![CDATA[<p>Interesting!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Michele Mizejewski		</title>
+		<link>/staff.library.ucsf.edu/2013/05/09/new-feature-10-questions-with-apologies-to-bernard-pivot-james-lipton/#comment-133</link>
+
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Thu, 09 May 2013 19:29:06 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=578#comment-133</guid>
+
+					<description><![CDATA[What a fun feature!]]></description>
+			<content:encoded><![CDATA[<p>What a fun feature!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

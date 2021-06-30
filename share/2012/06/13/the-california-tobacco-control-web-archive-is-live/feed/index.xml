@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: The California Tobacco Control Web Archive is Live	</title>
+	<atom:link href="/staff.library.ucsf.edu/2012/06/13/the-california-tobacco-control-web-archive-is-live/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu/2012/06/13/the-california-tobacco-control-web-archive-is-live/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Wed, 13 Jun 2012 18:53:14 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Rachel Taketa		</title>
+		<link>/staff.library.ucsf.edu/2012/06/13/the-california-tobacco-control-web-archive-is-live/#comment-32</link>
+
+		<dc:creator><![CDATA[Rachel Taketa]]></dc:creator>
+		<pubDate>Wed, 13 Jun 2012 18:53:14 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=276#comment-32</guid>
+
+					<description><![CDATA[They are working html pages although some organizations block their pages through robot.txt files and I&#039;m finding that certain types of embedded video are hard to capture.]]></description>
+			<content:encoded><![CDATA[<p>They are working html pages although some organizations block their pages through robot.txt files and I&#8217;m finding that certain types of embedded video are hard to capture.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Michele Mizejewski		</title>
+		<link>/staff.library.ucsf.edu/2012/06/13/the-california-tobacco-control-web-archive-is-live/#comment-31</link>
+
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Wed, 13 Jun 2012 18:20:50 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=276#comment-31</guid>
+
+					<description><![CDATA[Are the archived captures just screenshots or are they working html pages?]]></description>
+			<content:encoded><![CDATA[<p>Are the archived captures just screenshots or are they working html pages?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

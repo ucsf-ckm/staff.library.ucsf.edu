@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Alan Daniel&#8217;s Retirement	</title>
+	<atom:link href="/staff.library.ucsf.edu/2018/03/23/alan-daniels-retirement/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu/2018/03/23/alan-daniels-retirement/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:36:01 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Stephen Fernandez		</title>
+		<link>/staff.library.ucsf.edu/2018/03/23/alan-daniels-retirement/#comment-801</link>
+
+		<dc:creator><![CDATA[Stephen Fernandez]]></dc:creator>
+		<pubDate>Mon, 26 Mar 2018 16:36:01 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=4068#comment-801</guid>
+
+					<description><![CDATA[Way to go Alan!  Best wishes on your new ventures!]]></description>
+			<content:encoded><![CDATA[<p>Way to go Alan!  Best wishes on your new ventures!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Michele Mizejewski		</title>
+		<link>/staff.library.ucsf.edu/2018/03/23/alan-daniels-retirement/#comment-800</link>
+
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Sat, 24 Mar 2018 00:23:00 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=4068#comment-800</guid>
+
+					<description><![CDATA[Congratulations on your retirement Alan!]]></description>
+			<content:encoded><![CDATA[<p>Congratulations on your retirement Alan!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

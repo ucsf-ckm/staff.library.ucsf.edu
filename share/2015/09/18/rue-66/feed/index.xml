@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Rue &#8217;66	</title>
+	<atom:link href="/staff.library.ucsf.edu/2015/09/18/rue-66/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu/2015/09/18/rue-66/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Thu, 01 Oct 2015 17:34:31 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Alan Daniel		</title>
+		<link>/staff.library.ucsf.edu/2015/09/18/rue-66/#comment-497</link>
+
+		<dc:creator><![CDATA[Alan Daniel]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2015 17:34:31 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/2015/09/18/rue-66/#comment-497</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/staff.library.ucsf.edu/2015/09/18/rue-66/#comment-496&quot;&gt;Jim Munson&lt;/a&gt;.
+
+Several people from the library are going to the Sweetwater show, where the Flamin&#039; Groovies will be headlining.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/staff.library.ucsf.edu/2015/09/18/rue-66/#comment-496">Jim Munson</a>.</p>
+<p>Several people from the library are going to the Sweetwater show, where the Flamin&#8217; Groovies will be headlining.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Jim Munson		</title>
+		<link>/staff.library.ucsf.edu/2015/09/18/rue-66/#comment-496</link>
+
+		<dc:creator><![CDATA[Jim Munson]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2015 17:08:41 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/2015/09/18/rue-66/#comment-496</guid>
+
+					<description><![CDATA[This is so cool! Anyone else going?]]></description>
+			<content:encoded><![CDATA[<p>This is so cool! Anyone else going?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

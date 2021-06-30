@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Fixing Library Search &#8212; One Box to Rule Them All	</title>
+	<atom:link href="/staff.library.ucsf.edu/2016/06/27/fixing-library-search-one-box-to-rule-them-all/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu/2016/06/27/fixing-library-search-one-box-to-rule-them-all/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Wed, 06 Jul 2016 17:36:32 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Michele Mizejewski		</title>
+		<link>/staff.library.ucsf.edu/2016/06/27/fixing-library-search-one-box-to-rule-them-all/#comment-571</link>
+
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Wed, 06 Jul 2016 17:36:32 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=2287#comment-571</guid>
+
+					<description><![CDATA[Note that the Sloan-Kettering search box says &quot;Find PMID&#039;s, DOI&#039;s, articles, journals, books, databases &amp; more...&quot; and if a user enters 26720208 they are taken right to authenticated PubMed -- no intermediary screen. A win for the user!]]></description>
+			<content:encoded><![CDATA[<p>Note that the Sloan-Kettering search box says &#8220;Find PMID&#8217;s, DOI&#8217;s, articles, journals, books, databases &#038; more&#8230;&#8221; and if a user enters 26720208 they are taken right to authenticated PubMed &#8212; no intermediary screen. A win for the user!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

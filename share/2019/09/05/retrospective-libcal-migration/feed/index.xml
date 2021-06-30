@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Retrospective: LibCal Migration	</title>
+	<atom:link href="/staff.library.ucsf.edu/2019/09/05/retrospective-libcal-migration/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu/2019/09/05/retrospective-libcal-migration/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Mon, 09 Sep 2019 18:20:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Dylan Romero		</title>
+		<link>/staff.library.ucsf.edu/2019/09/05/retrospective-libcal-migration/#comment-883</link>
+
+		<dc:creator><![CDATA[Dylan Romero]]></dc:creator>
+		<pubDate>Mon, 09 Sep 2019 18:20:45 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5186#comment-883</guid>
+
+					<description><![CDATA[Excellent write-up, thank you for posting Anna and Michele! Because of your hard work, Makers Lab patrons are now using the new reservation system with ease. Here is a bit of feedback for future migrations of this scale:
+
+With the number of stakeholders involved, it would be great to have an in-person (or zoom) kick-off meeting. This would allow Library groups to ask questions, provide initial feedback, and identify similar issues/concerns. Like you mentioned in the post, Libcal has many cooks.
+
+Use a project management tool (e.g. trello, asana, etc) to manage the migration for all groups. I felt bad slacking you all of the tasks and issues and it could be tricky to track. A project management tool would also allow for more transparency and provide a better idea of the scope of the migration. 
+
+It may have been helpful to do more user testing before the migration and provide this feedback to Library departments (or even have Library staff participate in the testing). Springshare did not provide a test environment, but we have been using Space/Equipment for some time and could have generated some helpful information well before the migration.
+
+There will be unexpected hiccups with any migration, but if wasn’t for your diligence and attention to detail it would have been much more time-consuming. Thank you both!]]></description>
+			<content:encoded><![CDATA[<p>Excellent write-up, thank you for posting Anna and Michele! Because of your hard work, Makers Lab patrons are now using the new reservation system with ease. Here is a bit of feedback for future migrations of this scale:</p>
+<p>With the number of stakeholders involved, it would be great to have an in-person (or zoom) kick-off meeting. This would allow Library groups to ask questions, provide initial feedback, and identify similar issues/concerns. Like you mentioned in the post, Libcal has many cooks.</p>
+<p>Use a project management tool (e.g. trello, asana, etc) to manage the migration for all groups. I felt bad slacking you all of the tasks and issues and it could be tricky to track. A project management tool would also allow for more transparency and provide a better idea of the scope of the migration. </p>
+<p>It may have been helpful to do more user testing before the migration and provide this feedback to Library departments (or even have Library staff participate in the testing). Springshare did not provide a test environment, but we have been using Space/Equipment for some time and could have generated some helpful information well before the migration.</p>
+<p>There will be unexpected hiccups with any migration, but if wasn’t for your diligence and attention to detail it would have been much more time-consuming. Thank you both!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Joanna Kang		</title>
+		<link>/staff.library.ucsf.edu/2019/09/05/retrospective-libcal-migration/#comment-882</link>
+
+		<dc:creator><![CDATA[Joanna Kang]]></dc:creator>
+		<pubDate>Thu, 05 Sep 2019 19:44:50 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5186#comment-882</guid>
+
+					<description><![CDATA[Thank you for writing this up and sharing your process. Very interesting and helpful! I&#039;ve also had frustrating experiences with LibCal.]]></description>
+			<content:encoded><![CDATA[<p>Thank you for writing this up and sharing your process. Very interesting and helpful! I&#8217;ve also had frustrating experiences with LibCal.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

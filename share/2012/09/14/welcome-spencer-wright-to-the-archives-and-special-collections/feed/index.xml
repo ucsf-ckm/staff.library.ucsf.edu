@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Welcome Spencer Wright to the Archives and Special Collections!	</title>
+	<atom:link href="/staff.library.ucsf.edu/2012/09/14/welcome-spencer-wright-to-the-archives-and-special-collections/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu/2012/09/14/welcome-spencer-wright-to-the-archives-and-special-collections/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Tue, 16 Feb 2021 15:23:54 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Anneliese Taylor		</title>
+		<link>/staff.library.ucsf.edu/2012/09/14/welcome-spencer-wright-to-the-archives-and-special-collections/#comment-62</link>
+
+		<dc:creator><![CDATA[Anneliese Taylor]]></dc:creator>
+		<pubDate>Thu, 27 Sep 2012 22:31:46 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=364#comment-62</guid>
+
+					<description><![CDATA[Welcome to the library, Spencer]]></description>
+			<content:encoded><![CDATA[<p>Welcome to the library, Spencer</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Michele Mizejewski		</title>
+		<link>/staff.library.ucsf.edu/2012/09/14/welcome-spencer-wright-to-the-archives-and-special-collections/#comment-44</link>
+
+		<dc:creator><![CDATA[Michele Mizejewski]]></dc:creator>
+		<pubDate>Fri, 14 Sep 2012 21:40:16 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=364#comment-44</guid>
+
+					<description><![CDATA[Welcome, Spencer!]]></description>
+			<content:encoded><![CDATA[<p>Welcome, Spencer!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

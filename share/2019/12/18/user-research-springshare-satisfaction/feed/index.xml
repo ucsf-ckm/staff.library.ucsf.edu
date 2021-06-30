@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: User Research: Springshare Satisfaction	</title>
+	<atom:link href="/staff.library.ucsf.edu/2019/12/18/user-research-springshare-satisfaction/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu/2019/12/18/user-research-springshare-satisfaction/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Tue, 21 Jan 2020 18:00:23 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Exporting User Data from LibCal &#8211; Off the Shelf		</title>
+		<link>/staff.library.ucsf.edu/2019/12/18/user-research-springshare-satisfaction/#comment-893</link>
+
+		<dc:creator><![CDATA[Exporting User Data from LibCal &#8211; Off the Shelf]]></dc:creator>
+		<pubDate>Tue, 21 Jan 2020 18:00:23 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=5429#comment-893</guid>
+
+					<description><![CDATA[[&#8230;] to gain a better understanding of use and satisfaction with the suite of products. From the survey results, we learned that staff are generally satisfied and mostly use LibCal in their daily work. Since [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] to gain a better understanding of use and satisfaction with the suite of products. From the survey results, we learned that staff are generally satisfied and mostly use LibCal in their daily work. Since [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

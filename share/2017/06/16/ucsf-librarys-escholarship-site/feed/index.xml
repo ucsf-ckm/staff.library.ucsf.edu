@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: UCSF Library&#8217;s eScholarship Site	</title>
+	<atom:link href="/staff.library.ucsf.edu/2017/06/16/ucsf-librarys-escholarship-site/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu/2017/06/16/ucsf-librarys-escholarship-site/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Fri, 16 Jun 2017 22:15:41 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Anneliese Taylor		</title>
+		<link>/staff.library.ucsf.edu/2017/06/16/ucsf-librarys-escholarship-site/#comment-672</link>
+
+		<dc:creator><![CDATA[Anneliese Taylor]]></dc:creator>
+		<pubDate>Fri, 16 Jun 2017 22:15:41 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=3080#comment-672</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/staff.library.ucsf.edu/2017/06/16/ucsf-librarys-escholarship-site/#comment-671&quot;&gt;Sarah McClung&lt;/a&gt;.
+
+Good question. Yes, eScholarship is meant for the work of UC employees, so it should be limited to your work while at UCSF.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/staff.library.ucsf.edu/2017/06/16/ucsf-librarys-escholarship-site/#comment-671">Sarah McClung</a>.</p>
+<p>Good question. Yes, eScholarship is meant for the work of UC employees, so it should be limited to your work while at UCSF.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Sarah McClung		</title>
+		<link>/staff.library.ucsf.edu/2017/06/16/ucsf-librarys-escholarship-site/#comment-671</link>
+
+		<dc:creator><![CDATA[Sarah McClung]]></dc:creator>
+		<pubDate>Fri, 16 Jun 2017 21:40:09 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=3080#comment-671</guid>
+
+					<description><![CDATA[Should our submissions be limited to work we&#039;ve done since we started working at UCSF?]]></description>
+			<content:encoded><![CDATA[<p>Should our submissions be limited to work we&#8217;ve done since we started working at UCSF?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

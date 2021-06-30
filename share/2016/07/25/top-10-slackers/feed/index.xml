@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Top 10 for Slackers	</title>
+	<atom:link href="/staff.library.ucsf.edu/2016/07/25/top-10-slackers/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu/2016/07/25/top-10-slackers/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Tue, 26 Jul 2016 00:07:51 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Gail Persily		</title>
+		<link>/staff.library.ucsf.edu/2016/07/25/top-10-slackers/#comment-586</link>
+
+		<dc:creator><![CDATA[Gail Persily]]></dc:creator>
+		<pubDate>Tue, 26 Jul 2016 00:07:51 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=2419#comment-586</guid>
+
+					<description><![CDATA[I am glad you mentioned that you feel better informed. It&#039;s true - now that Slack is being used for a wide range of projects/activities at the Library, it makes it easy to keep up on things I care about, but am not as directly involved in, e.g. Library website and the Summon pilot.]]></description>
+			<content:encoded><![CDATA[<p>I am glad you mentioned that you feel better informed. It&#8217;s true &#8211; now that Slack is being used for a wide range of projects/activities at the Library, it makes it easy to keep up on things I care about, but am not as directly involved in, e.g. Library website and the Summon pilot.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Lean and Mean	</title>
+	<atom:link href="/staff.library.ucsf.edu/2016/04/11/lean-and-mean/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu/2016/04/11/lean-and-mean/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Mon, 11 Apr 2016 21:11:11 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Tab McDaniel		</title>
+		<link>/staff.library.ucsf.edu/2016/04/11/lean-and-mean/#comment-547</link>
+
+		<dc:creator><![CDATA[Tab McDaniel]]></dc:creator>
+		<pubDate>Mon, 11 Apr 2016 21:11:11 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=2130#comment-547</guid>
+
+					<description><![CDATA[Mmmmm satisficing!]]></description>
+			<content:encoded><![CDATA[<p>Mmmmm satisficing!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

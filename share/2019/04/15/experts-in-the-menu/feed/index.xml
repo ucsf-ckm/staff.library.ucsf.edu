@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Experts in the Menu	</title>
+	<atom:link href="/staff.library.ucsf.edu/2019/04/15/experts-in-the-menu/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu/2019/04/15/experts-in-the-menu/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Mon, 10 Jun 2019 20:09:23 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Home page Refresh &#8211; Off the Shelf		</title>
+		<link>/staff.library.ucsf.edu/2019/04/15/experts-in-the-menu/#comment-863</link>
+
+		<dc:creator><![CDATA[Home page Refresh &#8211; Off the Shelf]]></dc:creator>
+		<pubDate>Mon, 10 Jun 2019 20:09:23 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=4807#comment-863</guid>
+
+					<description><![CDATA[[&#8230;] in April, we updated the menu on the main library website to include Ask an Expert. This was a move to highlight expertise and human-centered service, and it also aligns with some of [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] in April, we updated the menu on the main library website to include Ask an Expert. This was a move to highlight expertise and human-centered service, and it also aligns with some of [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Connecting Users to the Right People and Information &#8211; Off the Shelf		</title>
+		<link>/staff.library.ucsf.edu/2019/04/15/experts-in-the-menu/#comment-856</link>
+
+		<dc:creator><![CDATA[Connecting Users to the Right People and Information &#8211; Off the Shelf]]></dc:creator>
+		<pubDate>Thu, 18 Apr 2019 17:06:02 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=4807#comment-856</guid>
+
+					<description><![CDATA[[&#8230;] week the Ask an Expert section received an upgrade to the top level menu of the main website. As our services are constantly evolving, we want to make [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] week the Ask an Expert section received an upgrade to the top level menu of the main website. As our services are constantly evolving, we want to make [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

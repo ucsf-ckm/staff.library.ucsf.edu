@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Adding a PubMed Search Field	</title>
+	<atom:link href="/staff.library.ucsf.edu/2017/02/14/adding-a-pubmed-search-field/feed/" rel="self" type="application/rss+xml" />
+	<link>/staff.library.ucsf.edu/2017/02/14/adding-a-pubmed-search-field/</link>
+	<description>UCSF Library Staff Updates</description>
+	<lastBuildDate>Tue, 14 Feb 2017 19:49:50 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: Gail Persily		</title>
+		<link>/staff.library.ucsf.edu/2017/02/14/adding-a-pubmed-search-field/#comment-643</link>
+
+		<dc:creator><![CDATA[Gail Persily]]></dc:creator>
+		<pubDate>Tue, 14 Feb 2017 19:49:50 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=2792#comment-643</guid>
+
+					<description><![CDATA[Oooo, I like the readability of the new text style.]]></description>
+			<content:encoded><![CDATA[<p>Oooo, I like the readability of the new text style.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Andres Panado		</title>
+		<link>/staff.library.ucsf.edu/2017/02/14/adding-a-pubmed-search-field/#comment-642</link>
+
+		<dc:creator><![CDATA[Andres Panado]]></dc:creator>
+		<pubDate>Tue, 14 Feb 2017 18:32:43 +0000</pubDate>
+		<guid isPermaLink="false">/staff.library.ucsf.edu/?p=2792#comment-642</guid>
+
+					<description><![CDATA[i think this is very helpful.  it&#039;s one less click for users if they can quickly search in pubmed as soon as they go on our library hompage, particularly since it&#039;s what they used the most.  thanks!]]></description>
+			<content:encoded><![CDATA[<p>i think this is very helpful.  it&#8217;s one less click for users if they can quickly search in pubmed as soon as they go on our library hompage, particularly since it&#8217;s what they used the most.  thanks!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
