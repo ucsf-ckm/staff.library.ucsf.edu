@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=/share/wp-content/uploads/2012/04/Erin-Hayes_avatar.png">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/share/wp-content/uploads/2012/04/Erin-Hayes_avatar.png";
+		</script>
+
+		<p>You are being redirected to <a href="/share/wp-content/uploads/2012/04/Erin-Hayes_avatar.png">/share/wp-content/uploads/2012/04/Erin-Hayes_avatar.png</a></p>
+	</body>
+</html>
